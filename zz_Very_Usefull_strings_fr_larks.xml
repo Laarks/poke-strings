@@ -1,0 +1,80 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<strings is_primary="0" lang="fr" lang_full="Français (French)">
+
+ <!-- Evolution Munja -->
+   <string id="2565">Niveau {00} - Place libre dans l'équipe avec une {STRING_245004}\nAttentionl: tu ne garderas que 3 IVs aléatoire</string>
+
+    <!-- Massacrer plusieurs pokemon a la fois -->
+    <string id="200436">{01} d'un coup !</string>
+
+    <!-- Ramassage -->
+	<string id="6066">{01} via ramassage !</string>
+
+	<!-- objet trouvé -->
+    <string id="6062">{00} trouve {01}!</string>
+	<string id="6063">j'ai trouvé {00}!</string>
+
+    <!-- Effet repousse et leurre -->
+	<string id="6011">{00} est fini.</string>
+	<string id="6012">Encore un {00}?</string>
+
+    <!-- Breed Général -->
+	<string id="16779080">\n<!-- Breed --></string>
+	<string id="16779081">Il te manque un {STRING_0}...<!-- only one pokemon --></string>
+	<string id="16779082">\n<!-- Positif --></string>
+	<string id="16779083">\n<!-- Quel pokemon? --></string>
+	<string id="16779087">\n<!-- Oeuf? --></string>
+	<string id="16779091">♂/♀?</string>
+	<string id="16779092">♂/♀?</string>
+	<string id="16779093">+${00}?</string>
+	<string id="16777221">\n<!-- pokeball --></string>
+
+	<!-- Vendeur de bracelet -->
+	<string id="16779070">\n</string>
+
+    <!-- PC -->
+	<string id="2350">\n</string>
+
+	<!-- Mail -->
+	<string id="16780150">Envoyer Mails?</string>
+	<string id="16780151">{01}, Tu as du courrier!</string>
+
+	<!-- Maman changement de région -->
+	<string id="16780130">Tu t'es fail frérot {00}?</string>
+
+	<!-- Region Ferry -->
+	<string id="16780100">\n<!-- Bonjour --></string>
+	<string id="16780102">Attention commencer la region enverra tout tes {STRING_0} au PC.</string>
+	<string id="16780103">\n</string>
+	<string id="16780104">\n</string>
+	<string id="16780105">Le PC est plein.</string>
+
+	<!-- Tuteur de capacité -->
+	<string id="16779000">\n<!-- Salut --></string>
+	<string id="16779002">Tuteur?</string>
+	<string id="16779004">A+.</string>
+	<string id="16779003">Lequel?</string>
+	<string id="16779005">Un autre?</string>
+    <!-- A TESTER-->
+	<string id="16779052">{00}x {01}?</string>
+	<string id="16779054">{00}x {01} et\n{02}x {03}?</string>
+
+	<!-- Réapprendre capacité -->
+	<string id="16779020">\n<!-- Salut --></string>
+	<string id="16779022">Ré-apprendre ou oublier?</string>
+	<string id="16779023">Reviens si tu change d'avis.</string>
+	<string id="16779031">Lequel?</string>
+	<string id="16779032">${00} pour {01} sur {02}?</string>
+	<string id="16779033">{00} oublie {01}!</string>
+	<string id="16779034">Un autre?</string>
+	<string id="16779035">Lequel?</string>
+
+	<!-- CT -->
+	<!-- Gains de PP -->
+	<string id="8600">+PP {01}?</string>
+
+	<!-- Texte Ocarina -->
+	<string id="16780155">\n</string>
+    
+
+</strings>
