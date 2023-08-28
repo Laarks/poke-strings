@@ -8,13 +8,13 @@ Dialogues de Pokémmo personnalisés pour gagner du temps. Gilan's Ecounter Coun
 
 ## Installation
 
-**Les strings seront directement installés sur la langue Française du jeu**
+**Les strings seront directement installés sur la langue Française du jeu.**
 
-1. Mettre le jeu en Français
+1. Mettre le jeu en Français.
 2. Enlever tout les strings déjà customisés dans votre dossier ```...\pokeMMO\Data\strings```
 3. Décompresser le fichier téléchargé.
-4. Copier tout les fichiers XML et les mettre dans  ```...\pokeMMO\Data\strings```
-5. Si vous ne voulez pas certaines ou toutes les traductions typé "Français (Anglais)" des natures et de la carte. Vous pouvez retirer les fichiers: ```zz_TraductionNature_string_fr_larks.xml``` et ```zz_TraductionMap_strings_fr_larks.xml```
+4. Copier tout les fichiers XML et les mettre dans  ```...\pokeMMO\Data\strings```.
+5. Si vous ne voulez pas certaines ou toutes les traductions typé "Français (Anglais)" des natures et de la carte. Vous pouvez retirer les fichiers: ```zz_TraductionNature_string_fr_larks.xml``` et ```zz_TraductionMap_strings_fr_larks.xml```.
 
 ## Features
 - [x] Hoenn changement Vélo.
@@ -65,7 +65,7 @@ Dialogues de Pokémmo personnalisés pour gagner du temps. Gilan's Ecounter Coun
 - [x] Traduction Français (anglais) des villes et emplacements importants.
 - [ ] Je mettrais à jour les Dialogues d'Event au fur et a mesure de leur mise en place
 
-## Special Thanks to
+## Special thanks to
 
 [Nurver9](https://forums.pokemmo.com/index.php?/topic/150771-docs-localization-files-understanding-syntax-and-load-order/) & [rudes](https://github.com/rudes/PokeStrings/tree/main) You saved me so much time guys.
 
