@@ -4,7 +4,7 @@
 
 **Téléchargement:** [Clique ici](https://github.com/Laarks/poke-strings/archive/refs/heads/main.zip)
 
-Dialogues de Pokémmo personnalisés pour gagner du temps. Gilan's Ecounter Counter marche avec ces strings. Aucun des strings ne supprime les dialogues de Pokemmo, vous pouvez faire les mises a jours sans craintes. J'utilise des traductions Français/anglais des natures, villes et emplacements importants
+Dialogues de Pokémmo personnalisés pour gagner du temps. Gilan's Ecounter Counter marche avec ces strings. Aucun des strings ne supprime les dialogues de Pokemmo, vous pouvez faire les mises a jours sans craintes. J'utilise des traductions Français/anglais des natures, villes et emplacements importants. J'aurais aimé rajouter une traduction de tout le pokédex exemple: Miaous (Meowth). Mais Gilian encounter Counter utilise les strings de nom de pokémon pour compter. La traduction l'empêche d'en compter certain.
 
 ## Installation
 
