@@ -68,4 +68,5 @@ Dialogues de Pokémmo personnalisés pour gagner du temps. Gilan's Ecounter Coun
 - [x] Traduction Français (anglais) des pokémons
 - [x] Traduction Français (anglais) des natures
 - [x] Traduction Français (anglais) des villes et emplacements importants
+- [ ] Je mettrais a jour les Dialogues d'Event au fur et a mesure de leur mise en place
 
