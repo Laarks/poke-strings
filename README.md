@@ -4,7 +4,7 @@
 
 **Téléchargement:** [Clique ici](https://github.com/Laarks/poke-strings/archive/refs/heads/main.zip)
 
-Dialogues de Pokémmo personnalisés pour gagner du temps. Gilan's Ecounter Counter marche avec ces strings. Aucun des strings ne supprime les dialogues de Pokemmo, vous pouvez faire les mises a jours sans craintes. J'utilise des traduction Français/anglais des pokémon, natures, villes et emplacement important
+Dialogues de Pokémmo personnalisés pour gagner du temps. Gilan's Ecounter Counter marche avec ces strings. Aucun des strings ne supprime les dialogues de Pokemmo, vous pouvez faire les mises a jours sans craintes. J'utilise des traductions Français/anglais des pokémons, natures, villes et emplacements importants
 
 ## Installation
 
