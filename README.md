@@ -17,7 +17,7 @@ Dialogues de Pokémmo personnalisés pour gagner du temps. Gilan's Ecounter Coun
 5. Si vous ne voulez pas certaines ou toutes les traductions typé "Français (Anglais)" des pokémons, des natures et de la carte. Vous pouvez retirer les fichiers ```zz_TraductionDex_strings_fr_larks.xml ```,```zz_TraductionNature_string_fr_larks.xml``` et ```zz_TraductionMap_strings_fr_larks.xml```
 
 ## Features
-- [x] Hoenn  	$${\color{blue}Blue}$$ changement Vélo
+- $${\color{blue}[x]}$$ Hoenn  	$${\color{blue}Blue}$$ changement Vélo
 - [x] Messages de reception D'oeuf
 - [x] Centre Pokémon
 - [x] Tout les PNJ de soins
