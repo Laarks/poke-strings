@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <ds_strings_archive archive_type="0" is_primary="0" lang="fr" region_id="2">
 
-    <!-- only Unys0 -->
+    <!-- only Unys archive_type=0 -->
 	<!-- pokémon attrapé envoyé au PC -->
 	<string block_id="0" entry_id="65" table_id="15">Tu as attrapé test {00}!</string>
 	<string block_id="0" entry_id="176" table_id="234">{00} Envoyé dans la boite: {01}!</string>
