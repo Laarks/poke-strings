@@ -20,6 +20,8 @@ Les string seront directement installé sur la langue Française du jeu
 [Nurver9](https://forums.pokemmo.com/index.php?/topic/150771-docs-localization-files-understanding-syntax-and-load-order/) & [rudes](https://github.com/rudes/PokeStrings/tree/main) You saved me so much time guys.
 
 ## Features
-
+- [x] PC
+- [ ] Arene Johto
+- [ ] Test
 ## Todo List
 
