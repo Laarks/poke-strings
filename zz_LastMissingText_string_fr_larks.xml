@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<strings is_primary="0" lang="fr" lang_full="Français (French)">
+
+    <!-- Got some trouble with missing text. I worked around with setting resetting primary key and renaming lang_full="Français (French)" instead of lang_full="Français". 
+    I was re-setting missing text manually, shoutout to Nurver.
+    still got trouble with the link menu, "pokémon" still missing. If someone manage to work around, let me know-->
+    <string id="0">Pokémon</string>
+</strings>

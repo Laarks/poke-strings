@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<strings is_primary="0" lang="fr" lang_full="Français (French)">
+
+	<!-- Message Oeuf - Kanto-->
+	<string id="1832746">\n<!-- Oeuf reçu --></string>
+	<string id="1832789">\n<!-- Prends en soins --></string>
+
+    <!-- Kanto centre pokémon -->
+	<string id="1725571">\n</string>
+	<string id="1725665">\n</string>
+	<string id="1725713">\n</string>
+	<string id="1725739">\n</string>
+
+	<!-- Kanto - Infirmiere Sexy -->
+	<string id="1627089">Soins?</string>
+	<string id="1627128">\n<!-- Au revoir --></string>
+
+	<!-- Kanto Vendeurs -->
+	<string id="1729041">\n<!-- Shop --></string>
+	<string id="1724816">\n<!-- Au revoir --></string>
+
+    <!-- Kanto - Surf -->
+	<string id="1725806">\n<!-- Surf --></string>
+	<string id="1725861">\n</string>
+
+	<!-- Kanto - Force -->
+	<string id="1827226">\n<!-- Force --></string>
+	<string id="1827322">\n</string>
+	<string id="1827396">Il ne se passe rien</string>
+	<string id="1827460">\n</string>
+
+	<!-- Kanto - Cascade -->
+	<string id="1827594">Il ne se passe rien</string>
+	<string id="1827647">\n<!-- Cascade --></string>
+	<string id="1827704">\n</string>
+
+	<!-- Kanto - plongée (ça existe pas ?)
+	<string id="1827883">Il ne se passe rien</string>
+	<string id="1827945">Plongée?</string>
+	<string id="1827995">\n</string>
+	<string id="1828009">Il ne se passe rien</string>
+	<string id="1828079">Plongée?</string> -->
+
+	<!-- Kanto - Coupe -->
+	<string id="1826708">\n<!-- Coupe --></string>
+	<string id="1826775">\n</string>
+	<string id="1826787">\n</string>
+
+	<!-- Kanto - Eclate-roc -->
+	<string id="1826973">\n<!-- Eclate-roc --></string>
+	<string id="1827042">Il ne se passe rien</string>
+
+    <!-- Safari Kanto -->
+	<string id="1670251">SAFARI ZONE!</string>
+	<string id="1670279">$500?</string>
+	<string id="1670407"> </string>
+	<string id="1670480"> </string>
+	<string id="1670528">Bon chance!</string>
+	<string id="1670633">Au revoir!</string>
+	<string id="1670658">Tu n'as pas assez d'argent!</string>
+	<string id="1670682">Tu pars déjà??</string>
+	<string id="1670728"> </string>
+	<string id="1670778">Bonne chance!</string>
+	<string id="1670789">Reviens nous voir!</string>
+	<string id="1834011">Temps écoulé!</string>
+	<string id="1834067">Tu n'as plus de Balls.</string>
+
+    <!-- Champion d'arene -->
+
+    <!-- Argenta - Pierre -->
+	<string id="1641684"> <!-- Combat --></string>
+	<string id="1642063"> <!-- Victoire --></string>
+	<string id="1642767">Cooldown...</string>
+
+	<!-- Azuria - Ondine -->
+	<string id="1647087"> <!-- Combat --></string>
+	<string id="1647661"> <!-- Victoire --></string>
+	<string id="1647295">On Cooldown...</string>
+
+	<!-- Carmin sur mer - Major Bob -->
+	<string id="1657764"> <!-- Combat --></string>
+	<string id="1658371"> <!-- Victoire --></string>
+	<string id="1657998">On Cooldown...</string>
+
+	<!--  Céladopole - Erika -->
+	<string id="1667348"> <!-- Combat --></string>
+	<string id="1667680"> <!-- Victoire --></string>
+	<string id="1667768">On Cooldown...</string>
+
+	<!-- Safrania - Morgane -->
+	<string id="1684796"> <!-- Combat --></string>
+	<string id="1684994"> <!-- Victoire --></string>
+	<string id="1685490">On Cooldown...</string>
+
+	<!-- Parmanie - Koga -->
+	<string id="1671982"> <!-- Combat --></string>
+	<string id="1672260"> <!-- Victoire --></string>
+	<string id="1672321">On Cooldown...</string>
+
+	<!-- Cramois'île - Auguste -->
+	<string id="1676611"> <!-- Combat --></string>
+	<string id="1676794"> <!-- Victoire --></string>
+	<string id="1677085">On Cooldown...</string>
+
+	<!-- Jadielle - Giovanni -->
+	<!-- Giovanni s'en va, on ne peux pas le rerun -->
+
+    <!-- Elite 4-->
+    <!-- Elite 4 - Warden -->
+	<string id="1681624">Good luck!</string>
+
+	<!-- Gardiens -->
+	<string id="16777231">Return in\n{00}.</string>
+
+	<!-- Olga -->
+	<string id="1540233"> <!-- Challenge --></string>
+	<string id="1540497"> <!-- Victory --></string>
+	<string id="1540528">Cooldown...</string>
+
+	<!-- Aldo -->
+	<string id="1540623"> <!-- Challenge --></string>
+	<string id="1541129"> <!-- Victory --></string>
+	<string id="1541152">Cooldown...</string>
+
+	<!-- Agatha -->
+	<string id="1541197"> <!-- Challenge --></string>
+	<string id="1541847"> <!-- Victory --></string>
+	<string id="1541888">Cooldown...</string>
+
+	<!-- Peter -->
+	<string id="1542333"> <!-- Challenge --></string>
+	<string id="1542677"> <!-- Victory --></string>
+	<string id="1542738">Cooldown...</string>
+
+	<!-- Rival -->
+	<string id="1543380"> <!-- Je suis un dieu --></string>
+	<string id="1543743"> <!-- trop fort. --></string>
+	<string id="1543983"> <!-- je retourne pleurer dans les jupes de ma mére. --></string>
+
+	<!-- Chen -->
+	<string id="1544134"> <!-- Bien joué --></string>
+	<string id="1544143"> <!-- C'est gagné, c'est gagné --></string>
+	<string id="1544335"> <!-- Blue la victime --></string>
+	<string id="1544611"> <!-- trop bien pokemon oé --></string>
+	<string id="1544751"> <!-- Panthéon ! --></string>
+
+</strings>

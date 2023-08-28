@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<strings is_primary="0" lang="fr" lang_full="Français (French)">
+
+	<!-- Hoenn Echange de vélo -->
+	<string id="270594555">\n<!-- Vélo--></string>
+	<string id="270594607">\n<!-- Oui --></string>
+	<string id="270594756">\n<!-- Non --></string>
+	<string id="270594659">Vélo Cross</string>
+	<string id="270594708">Vélo Course</string>
+	<string id="270594493">\n<!-- Au revoir --></string>
+	<string id="271002232">{03}!<!-- Message --></string>
+
+	<!-- Message Oeuf - Hoenn-->
+	<string id="271131044">\n<!-- Oeuf reçu --></string>
+	<string id="271131087">\n<!-- Prends en soin --></string>
+
+	<!-- Hoenn Centre Pokemon -->
+	<string id="271001323">\n</string>
+	<string id="271001496">\n</string>
+	<string id="271001563">\n</string>
+	<string id="271002048">\n</string>
+	<string id="271001589">\n</string>
+
+	<!-- Hoenn - Soins Maman -->
+	<string id="270499080">Soins?</string>
+	<string id="270499164">\n<!-- Au revoir --></string>
+
+	<!-- Hoenn Vendeurs -->
+	<string id="271002145">\n<!-- Shop --></string>
+	<string id="271002175">\n<!-- Au revoir --></string>
+
+	<!-- Hoenn - Vendeur point de combats -->
+	<string id="270923770">\n<!-- Shop --></string>
+	<string id="270925586">\n<!-- Au revoir --></string>
+
+	<!-- Hoenn - Coupe -->
+	<string id="271124270">\n<!-- Coupe --></string>
+	<string id="271124337">\n</string>
+	<string id="271124349">Il ne se passe rien</string>
+
+	<!-- Hoenn - Surf -->
+	<string id="271003606">\n<!-- Surf --></string>
+	<string id="271003661">\n</string>
+
+	<!-- Hoenn - Eclate-Roc -->
+	<string id="271124538">\n<!-- Eclate-roc --></string>
+	<string id="271124607">Il ne se passe rien</string>
+
+	<!-- Hoenn - Force -->
+	<string id="271124780">\n<!-- Force --></string>
+	<string id="271124876">\n</string>
+	<string id="271124950">Il ne se passe rien</string>
+	<string id="271125014">\n</string>
+
+	<!-- Hoenn - Plongée -->
+	<string id="271125418">Il ne se passe rien</string>
+	<string id="271125480">Plongée?</string>
+	<string id="271125530">\n</string>
+	<string id="271125544">Il ne se passe rien</string>
+	<string id="271125614">Plongée?</string>
+
+	<!-- Hoenn - Cascade -->
+	<string id="271125134">Il ne se passe rien</string>
+	<string id="271125187">\n<!-- Cascade --></string>
+	<string id="271125244">\n</string>
+
+	<!-- Menu de Combat Safari -->
+	<string id="5109">Ball ({00})</string>
+	<string id="5100">Combat</string>
+	<string id="5104">Sac</string>
+	<string id="5106">Fuite</string>
+	<string id="5108">Ball</string>
+	<string id="5118">Boue</string>
+	<string id="5110">Pierre</string>
+	<string id="5112">Appât</string>
+	<string id="5114">Shift</string>
+	<string id="5116">Forfait</string>
+	<string id="5120">Resumé</string>
+
+	<!-- Safari Hoenn -->
+	<string id="271208308">$500?</string>
+	<string id="271208475"> </string>
+	<string id="271208502"> </string>
+	<string id="271208530"> </string>
+	<string id="271208559"> </string>
+	<string id="271207462">Temps écoulé!</string>
+	<string id="271207510">T'as n'as plus de Balls.</string>
+	    <!-- trainer blocking door -->
+	<string id="271209131">Bon chance!</string>
+	<string id="271208916">Tu pars déjà??</string>
+	<string id="271209032">oh.. d'accord..<!-- yes --></string>
+	<string id="271208986">Bon chance!<!-- no --></string>
+
+	<!-- Baies -->
+	<string id="4">Baies</string>
+	<string id="300014">Baies</string>
+	<string id="310018">Baies</string>
+
+	<string id="16780309">Planté.</string>
+	<string id="16780310">planté..</string>
+	<string id="16780311">ça commence a pousser.</string>
+	<string id="16780312">Graines</string>
+	<string id="16780313">Des arbustes</string>
+
+	<string id="16780315">Sec.</string>
+	<string id="16780316">Humide.</string>
+	<string id="16780317">Mouillé.</string>
+	<string id="16780318">Inondé.</string>
+
+	<string id="16780320">Presque sec.</string>
+	<string id="16780321">Presque inondé.</string>
+	<string id="16780326">\n<!-- Planter? --></string>
+	<string id="16780327">\n<!-- Arroser? --></string>
+	<string id="16780328">Arrosé.</string>
+
+	<string id="16780329">{01} {00}!\n\nRamasser? {00}?</string>
+	<string id="16780330">Tu n'as pas ramassé {00}.</string>
+	<string id="16780331">{01} {02}.</string>
+
+	<string id="16780335">Sec.</string>
+	<string id="16780336">Presque sec.</string>
+	<string id="16780337">Humide.</string>
+	<string id="16780338">Mouillé.</string>
+	<string id="16780339">Presque inondé.</string>
+	<string id="16780340">Inondé.</string>
+
+	<string id="16780350">Excellemment</string>
+	<string id="16780351">Magnifiquement</string>
+	<string id="16780352">Bien</string>
+	<string id="16780353">Moyennement</string>
+
+	<!-- Champion d'arene -->
+
+
+	<!-- Mérouville - Roxanne -->
+	<string id="270613551"> <!-- Combat --></string>
+	<string id="270613753"> <!-- Victoire --></string>
+	<string id="270612903">Cooldown...</string>
+	<string id="270613907">Qu'un seul {STRING_0}?</string>
+
+	<!-- Myokara - Bastien -->
+	<string id="270521028"> <!-- Combat --></string>
+	<string id="270521191"> <!-- Victoire --></string>
+	<string id="270520845">Cooldown...</string>
+	<string id="270521310">Qu'un seul {STRING_0}?</string>
+
+	<!-- Lavandia - Voltère -->
+	<string id="270592423"> <!-- Combat --></string>
+	<string id="270592578"> <!-- Victoire --></string>
+	<string id="270592293">Cooldown...</string>
+	<string id="270592765">Qu'un seul {STRING_0}?</string>
+
+	<!-- Vermilava - Adriane -->
+	<string id="270530049"> <!-- Combat --></string>
+	<string id="270530207"> <!-- Victoire --></string>
+	<string id="270529862">Cooldown...</string>
+	<string id="270530398">Qu'un seul {STRING_0}?</string>
+
+	<!-- Clémenti-ville - Norman -->
+	<string id="270562466"> <!-- Combat --></string>
+	<string id="270562766"> <!-- Victoire --></string>
+	<string id="270562807">Cooldown...</string>
+	<string id="270562890">Qu'un seul {STRING_0}?</string>
+	<!-- Porte de l'arene clémenti-ville -->
+	<string id="270561822">\n<!-- VITESSE ROOM --></string>
+	<string id="270561920">\n<!-- PRECISION ROOM --></string>
+	<string id="270561979">\n<!-- CONFUSION ROOM --></string>
+	<string id="270562039">\n<!-- DEFENSE ROOM --></string>
+	<string id="270562097">\n<!-- RECUPERATION ROOM --></string>
+	<string id="270562156">\n<!-- FORCE ROOM --></string>
+	<string id="270562215">\n<!-- KO EN UN COUP ROOM --></string>
+	<string id="270562276">\n<!-- PAPA ROOM --></string>
+
+	<!-- Cimetronelle - Alizée -->
+	<string id="270627072"> <!-- Combat --></string>
+	<string id="270627302"> <!-- Victoire --></string>
+	<string id="270626929">Cooldown...</string>
+	<string id="270627474">Qu'un seul {STRING_0}?</string>
+
+	<!-- Algatia - Lévy & Tatia -->
+	<string id="270671115"> <!-- Combat --></string>
+	<string id="270671365"> <!-- Victoire --></string>
+	<string id="270670621">Cooldown...</string>
+	<string id="270671544">Qu'un seul {STRING_0}?</string>
+
+	<!-- Atalanopolis - Marc -->
+	<string id="270686544"> <!-- Combat --></string>
+	<string id="270686766"> <!-- Victoire --></string>
+	<string id="270686072">Cooldown...</string>
+	<string id="270687048">Qu'un seul {STRING_0}?</string>
+
+	<!-- ELITE 4 -->
+	<!--Gardien -->
+	<string id="270702312"> <!-- Badge Check --></string>
+	<string id="270702575">Bon chanss.<!-- Juste fait le --></string>
+
+	<!-- Damien -->
+	<string id="270696359"> <!-- Combat --></string>
+	<string id="270696610"> <!-- Victoire --></string>
+	<string id="270696684">Cooldown...</string>
+
+	<!-- Spectra -->
+	<string id="270696974"> <!-- Combat --></string>
+	<string id="270697253"> <!-- Victoire --></string>
+	<string id="270697283">Cooldown..</string>
+
+	<!-- Glacia -->
+	<string id="270697644"> <!-- Combat --></string>
+	<string id="270697908"> <!-- Victoire --></string>
+	<string id="270698048">Cooldown..</string>
+
+	<!-- Aragon -->
+	<string id="270698302"> <!-- Combat --></string>
+	<string id="270698645"> <!-- Victoire --></string>
+	<string id="270698672">Cooldown..</string>
+
+	<!-- Marc -->
+	<string id="270699596"> <!-- Combat --></string>
+	<string id="270700204"> <!-- Victoire --></string>
+
+	<!-- Félicitation -->
+	<string id="270700390"> <!-- GG --></string>
+	<string id="270700746"> <!-- trop fort --></string>
+	<string id="270700811"> <!-- On est tous choqué --></string>
+	<string id="270700882"> <!-- de la puissance --></string>
+	<string id="270700962"> <!-- de ta super --></string>
+	<string id="270701030"> <!-- Team de pokémon --></string>
+	<string id="270701389"> <!-- Blablabla --></string>
+	<string id="270701465"> <!-- Respect sur toute ta famille --></string>
+	<string id="270701547"> <!-- Le rival est vraiment très nul --></string>
+	<string id="270701689"> <!-- ca boude fort --></string>
+	<string id="270701813"> <!-- tré p800 --></string>
+	<string id="271211820">Vu: {02}\nAttrapé: {03}</string>
+	<string id="271213373">National;\nVu: {02}\nAttrapé: {03}</string>
+	<string id="270702862"> <!-- trop belle la room --></string>
+	<string id="270703011"> <!-- Le panthéon de tes pokémons très fort --></string>
+
+</strings>
