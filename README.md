@@ -16,10 +16,6 @@ Dialogues de Pokémmo personnalisés pour gagner du temps. Gilan's Ecounter Coun
 4. Copier tout les fichier XML et les mettre dans  ```...\pokeMMO\Data\strings```
 5. Si vous ne voulez pas certaines ou toutes les traductions typé "Français (Anglais)" des pokémons, des natures et de la carte. Vous pouvez retirer les fichiers ```zz_TraductionDex_strings_fr_larks.xml ```,```zz_TraductionNature_string_fr_larks.xml``` et ```zz_TraductionMap_strings_fr_larks.xml```
 
-## Special Thanks to
-
-[Nurver9](https://forums.pokemmo.com/index.php?/topic/150771-docs-localization-files-understanding-syntax-and-load-order/) & [rudes](https://github.com/rudes/PokeStrings/tree/main) You saved me so much time guys.
-
 ## Features
 - [x] Hoenn changement Vélo
 - [x] Messages de reception D'oeuf
@@ -69,4 +65,8 @@ Dialogues de Pokémmo personnalisés pour gagner du temps. Gilan's Ecounter Coun
 - [x] Traduction Français (anglais) des natures
 - [x] Traduction Français (anglais) des villes et emplacements importants
 - [ ] Je mettrais a jour les Dialogues d'Event au fur et a mesure de leur mise en place
+
+## Special Thanks to
+
+[Nurver9](https://forums.pokemmo.com/index.php?/topic/150771-docs-localization-files-understanding-syntax-and-load-order/) & [rudes](https://github.com/rudes/PokeStrings/tree/main) You saved me so much time guys.
 
