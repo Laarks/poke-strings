@@ -60,7 +60,7 @@ Dialogues de Pokémmo personnalisés pour gagner du temps. Gilan's Ecounter Coun
 - [x] Mail
 - [x] Changement de région via la Daronne
 - [x] Ferry
-- [x] Tuteur de capacité (Faire un test)
+- [ ] Tuteur de capacité (Faire un test)
 - [x] Réapprendre une capacité
 - [x] Gain de PP
 - [x] Ocarina
