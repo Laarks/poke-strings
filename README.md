@@ -39,7 +39,7 @@ Dialogues de Pokémmo personnalisés pour gagner du temps. Gilan's Ecounter Coun
 - [ ] E4 Johto
 - [x] Ramassage Noigrumes
 - [x] Craft Balls avec Noigrumes
-- [ ] Peche (peut être pas partout a tester)
+- [ ] La pêche ne semble pas vouloir prendre de modifications de string malgrés mes multiples tentatives.
 - [ ] Fossile reveil (peut être pas partout a tester)
 - [x] Tout les dresseur rerun de [HolyBroccoli]([url](https://forums.pokemmo.com/index.php?/topic/148798-1-hour-trainer-rerun-guide/)https://forums.pokemmo.com/index.php?/topic/148798-1-hour-trainer-rerun-guide/) (Sinnoh et Unys)
 - [x] reduction du dialogue lorsqu'on on attrape un pokémon
@@ -64,7 +64,7 @@ Dialogues de Pokémmo personnalisés pour gagner du temps. Gilan's Ecounter Coun
 - [x] Traduction Français (anglais) des pokémons
 - [x] Traduction Français (anglais) des natures
 - [x] Traduction Français (anglais) des villes et emplacements importants
-- [ ] Je mettrais a jour les Dialogues d'Event au fur et a mesure de leur mise en place
+- [ ] Je mettrais à jour les Dialogues d'Event au fur et a mesure de leur mise en place
 
 ## Special Thanks to
 
