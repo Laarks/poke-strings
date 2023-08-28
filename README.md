@@ -14,7 +14,7 @@ Dialogues de Pokémmo personnalisés pour gagner du temps. Gilan's Ecounter Coun
 2. Enlever tout les strings déjà customisé
 3. Décompresser le fichier télécharger.
 4. Copier tout les fichier XML et les mettre dans  ```...\pokeMMO\Data\strings```
-5. Si vous ne voulez pas certaines ou toutes les traductions typé "Français (Anglais)" des pokémons, des natures et de la carte. Vous pouvez retirer les fichers ```zz_TraductionDex_strings_fr_larks.xml ```,```zz_TraductionNature_string_fr_larks.xml``` et ```zz_TraductionMap_strings_fr_larks.xml```
+5. Si vous ne voulez pas certaines ou toutes les traductions typé "Français (Anglais)" des pokémons, des natures et de la carte. Vous pouvez retirer les fichiers ```zz_TraductionDex_strings_fr_larks.xml ```,```zz_TraductionNature_string_fr_larks.xml``` et ```zz_TraductionMap_strings_fr_larks.xml```
 
 ## Special Thanks to
 
