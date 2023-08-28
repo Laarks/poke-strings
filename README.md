@@ -13,7 +13,7 @@ Dialogues de Pokémmo personnalisés pour gagner du temps. Gilan's Ecounter Coun
 1. Mettre le jeu en Français
 2. Enlever tout les strings déjà customisé
 3. Décompresser le fichier télécharger.
-4. Copier tout les fichier XML et les mettre dans > ...\pokeMMO\Data\strings
+4. Copier tout les fichier XML et les mettre dans >...\pokeMMO\Data\strings
 
 ## Special Thanks to
 
