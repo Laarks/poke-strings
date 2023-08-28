@@ -41,7 +41,7 @@ Dialogues de Pokémmo personnalisés pour gagner du temps. Gilan's Ecounter Coun
 - [x] Craft Balls avec Noigrumes.
 - [x] Pêche plus rapide.
 - [x] Réveil de Fossiles.
-- [x] Tout les dresseur rerun de [HolyBroccoli](https://forums.pokemmo.com/index.php?/topic/148798-1-hour-trainer-rerun-guide) (Sinnoh et Unys).
+- [x] Tout les dresseurs rerun de [HolyBroccoli](https://forums.pokemmo.com/index.php?/topic/148798-1-hour-trainer-rerun-guide) (Sinnoh et Unys).
 - [x] Réduction du dialogue lorsqu'on on attrape un pokémon.
 - [x] Reduction dialogue apprentissage de capacité.
 - [x] Cynthia.
