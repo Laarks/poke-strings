@@ -2,7 +2,7 @@
 
 ## Installation
 
-**Téléchargement:** Clique ici
+**Téléchargement:** [Clique ici](https://github.com/Laarks/poke-strings/archive/refs/heads/main.zip)
 
 Dialogues de Pokémmo personnalisé pour gagner du temps. Gilan's Ecounter Counter marche avec ces strings. Aucun des strings ne supprime les dialogue de Pokemmo, vous pouvez faire les mises a jours sans craintes
 
