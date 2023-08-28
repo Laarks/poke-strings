@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <strings is_primary="0" lang="fr" lang_full="Français (French)">
 
+	<!-- Fossiles-->
+	<string id="270606152">T'as un fossile pour moi?</string>
+    <string id="270606246">reveil de fossile?</string>
+    <string id="270606406">oh... Dommage !</string>
+    <string id="270606482">Choisis ton fossile?</string>
+    <string id="270606675">\n</string>
+    <string id="270606754">Reviens un peu plus tard</string>
+    <string id="270606929">C'était un {03}!</string>
+    <string id="270607051">\n</string>
+
 	<!-- Hoenn Echange de vélo -->
 	<string id="270594555">\n<!-- Vélo--></string>
 	<string id="270594607">\n<!-- Oui --></string>

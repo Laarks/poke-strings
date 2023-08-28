@@ -1,7 +1,10 @@
  <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <strings is_primary="0" lang="fr" lang_full="Français (French)">
 
- <!-- Evolution Munja -->
+	<!-- Changement de Resume rapide de l'equipe en sac-->
+	<string id="5121">Utilise des objets.</string>
+
+  <!-- Evolution Munja -->
    <string id="2565">Niveau {00} - Place libre dans l'équipe avec une {STRING_245004}\nAttentionl: tu ne garderas que 3 IVs aléatoire</string>
 
     <!-- Massacrer plusieurs pokemon a la fois -->

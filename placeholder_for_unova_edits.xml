@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <strings lang="fr" lang_full="Français (French)" is_primary="0">
   <string id="0987654321234567890"> </string>
-<!-- Ne pas retirer ce fichier, il empêche de charger 48 000 lignes de dialogues incorrects.
-Ce fichier doit toujours être en premier dans le dossier strings 
-credit: nurver, realmadrid1809 and AnonymousPoke. (Thanks guys for the trick) -->
+  <!-- Ne pas retirer ce fichier, il empêche de charger 48 000 lignes de dialogues incorrects.
+  Ce fichier doit toujours être en premier dans le dossier strings 
+  credit: nurver, realmadrid1809 and AnonymousPoke. (Thanks guys for the trick) -->
+  <string id="0">Pokémon</string>
+  <!--Got some trouble with missing text. I worked around with setting resetting primary key and renaming lang_full="Français (French)" instead of lang_full="Français". 
+  I was re-setting missing text manually, shoutout to Nurver.
+  still got trouble with the link menu, "pokémon" still missing. If someone manage to work around, let me know-->
+
 </strings>

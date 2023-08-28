@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <ds_strings_archive archive_type="0" is_primary="0" lang="fr" region_id="4">
 
-    <string block_id="0" entry_id="49" table_id="40">..</string>
-    <string block_id="0" entry_id="52" table_id="40">!</string>
-
 	<!-- Breeding Oeufs -->
     	<string block_id="0" entry_id="5" table_id="439">\n<!-- oeufs reçu --></string>
     	<string block_id="0" entry_id="6" table_id="439">\n<!-- Prends en soins --></string>
@@ -81,4 +78,84 @@
 	<string block_id="0" entry_id="32" table_id="211">Coup de boule?</string>
 	<string block_id="0" entry_id="33" table_id="211"> <!-- coup de boule --></string>
 	<string block_id="0" entry_id="34" table_id="211">Il ne se passe rien</string>
+
+	<!-- Arenes -->
+
+	<!-- Mauville - Albert -->
+    <string block_id="0" entry_id="0" table_id="558"> <!-- Combat--></string>
+	<string block_id="0" entry_id="5" table_id="558">Cooldown</string>
+    <string block_id="0" entry_id="1" table_id="558"> <!-- Victoire --></string>
+
+	<!-- Ecorcia - Hector-->
+	<string block_id="0" entry_id="0" table_id="567"><!-- Combat--></string>
+	<string block_id="0" entry_id="6" table_id="567">Cooldown</string>
+
+	<!-- Doublonville - Blanche -->
+	<string block_id="0" entry_id="0" table_id="582"><!-- Combat--></string>
+	<string block_id="0" entry_id="8" table_id="582">Cooldown</string>
+
+	<!-- Rosalia - Mortimer -->
+	<string block_id="0" entry_id="0" table_id="614"><!-- Combat--></string>
+	<string block_id="0" entry_id="6" table_id="614">Cooldown</string>
+	<string block_id="0" entry_id="94" table_id="728"><!-- Victoire --></string>
+
+	<!-- Oliville - Jasmine -->
+	<string block_id="0" entry_id="0" table_id="606"><!--Combat--></string>
+	<string block_id="0" entry_id="6" table_id="606">Cooldown</string>
+	<string block_id="0" entry_id="97" table_id="728"><!--Victory--></string>
+
+	<!-- Irisia - Chuck -->
+	<string block_id="0" entry_id="0" table_id="574"><!-- Combat --></string>
+    <string block_id="0" entry_id="8" table_id="574">Cooldown</string>
+
+	<!-- Acajou - Frédo -->
+	<string block_id="0" entry_id="0" table_id="622"><!-- Combat--></string>
+	<string block_id="0" entry_id="6" table_id="622">Cooldown </string>
+	<string block_id="0" entry_id="127" table_id="728"><!-- Victoire--></string>
+
+
+	<!-- Ebènelle - Sandra -->
+	<string block_id="0" entry_id="0" table_id="631"><!-- Combat ! it's a wrong message should change in a futur update. Should be this one: block_id="0" entry_id="3" table_id="631"--></string>
+	<string block_id="0" entry_id="9" table_id="631">Cooldown</string>
+	<string block_id="0" entry_id="130" table_id="728"><!-- Victoire--></string>
+
+
+	<!-- E4 Johto-->
+	<!-- Gardien-->
+    <string block_id="0" entry_id="6" table_id="522"> <!-- Si tu entre tu pourras plus reculer--></string>
+
+	<!-- Clément -->
+	<string block_id="0" entry_id="0" table_id="523"><!-- Combat--></string>
+    <string block_id="0" entry_id="1" table_id="523"><!-- Victory--></string>
+
+	<!-- Koga -->
+	<string block_id="0" entry_id="0" table_id="524"><!-- Combat--></string>
+    <string block_id="0" entry_id="1" table_id="524"><!-- Victory--></string>
+    <string block_id="0" entry_id="2" table_id="524"><!-- Victory--></string>
+
+	<!-- Aldo -->
+    <string block_id="0" entry_id="0" table_id="525"><!-- Combat--></string>
+    <string block_id="0" entry_id="1" table_id="525"><!-- Victory--></string>
+    <string block_id="0" entry_id="2" table_id="525"><!-- Victory--></string>
+
+	<!-- Marion -->
+    <string block_id="0" entry_id="0" table_id="526"><!-- Combat--></string>
+    <string block_id="0" entry_id="1" table_id="526"><!-- Victory--></string>
+    <string block_id="0" entry_id="2" table_id="526"><!-- Victory--></string>
+	
+	<!-- Peter -->
+    <string block_id="0" entry_id="0" table_id="527"><!-- Combat--></string>
+    <string block_id="0" entry_id="1" table_id="527"><!-- Combat--></string>
+    <string block_id="0" entry_id="2" table_id="527"><!-- Victory--></string>
+    <string block_id="0" entry_id="3" table_id="527"><!-- Victory--></string>
+    <string block_id="0" entry_id="4" table_id="527"><!-- Victory--></string>
+    <string block_id="0" entry_id="5" table_id="527"><!-- Lula est déçue--></string>
+    <string block_id="0" entry_id="6" table_id="527"><!-- Le prof Chen--></string>
+    <string block_id="0" entry_id="7" table_id="527"><!-- Te fait une belle fellation--></string>
+    <string block_id="0" entry_id="8" table_id="527"><!-- Interview--></string>
+    <string block_id="0" entry_id="9" table_id="527"><!-- Suis peter--></string>
+    <string block_id="0" entry_id="10" table_id="527"><!-- peter le goat--></string>
+    <string block_id="0" entry_id="11" table_id="527"><!-- ZzzZ ça parle trop--></string>
+    <string block_id="0" entry_id="0" table_id="528"><!-- Et c'est--></string>
+    <string block_id="0" entry_id="1" table_id="528"><!-- Le pantéon GG--></string>
 </ds_strings_archive>

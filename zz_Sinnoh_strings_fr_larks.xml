@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <ds_strings_archive archive_type="0" is_primary="0" lang="fr" region_id="3">
 
-	<!--Peche-->
-	<string block_id="0" entry_id="57" table_id="213">!</string>
-	<string block_id="0" entry_id="54" table_id="213">..</string>
-
 	<!-- Oeufs message -->
 	<string block_id="0" entry_id="5" table_id="547"> <!-- Oeuf reçu --></string>
 	<string block_id="0" entry_id="6" table_id="547"> <!-- Prends en soins--></string>
