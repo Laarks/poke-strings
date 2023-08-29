@@ -21,13 +21,13 @@
 	<string block_id="0" entry_id="37" table_id="213"> <!-- Shop --></string>
 
 	<!--Centre pokémon-->
-	<string block_id="0" entry_id="0" table_id="213"> </string>
-	<string block_id="0" entry_id="1" table_id="213"> </string>
-	<string block_id="0" entry_id="2" table_id="213"> </string>
-	<string block_id="0" entry_id="3" table_id="213"> </string>
-	<string block_id="0" entry_id="4" table_id="213"> </string>
-	<string block_id="0" entry_id="120" table_id="213"> </string>
-	<string block_id="0" entry_id="121" table_id="213"> </string>
+	<string block_id="0" entry_id="0" table_id="213">Heal?</string>
+	<string block_id="0" entry_id="1" table_id="213">\n</string>
+	<string block_id="0" entry_id="2" table_id="213">\n</string>
+	<string block_id="0" entry_id="3" table_id="213">\n</string>
+	<string block_id="0" entry_id="4" table_id="213">\n</string>
+	<string block_id="0" entry_id="120" table_id="213">\n</string>
+	<string block_id="0" entry_id="121" table_id="213">\n</string>
 
 	<!-- Sinnoh - Nurse Mom - Before healing -->
 	<string block_id="0" entry_id="11" table_id="557">Soins?<!-- Matin --></string>
