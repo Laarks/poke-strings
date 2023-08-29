@@ -31,7 +31,7 @@ Dialogues de Pokémmo personnalisés pour gagner du temps. Gilan's Ecounter Coun
 - [x] Rerun d'arène Kanto.
 - [x] Rerun d'arène Sinnoh.
 - [x] Rerun d'arène Unys.
-- [x] Rerun d'arène Johto.
+- [ ] Rerun d'arène Johto (5/8 Rosalia Olivile et Irisia ne marchent pas pour le moment).
 - [x] E4 Hoenn.
 - [x] E4 Kanto.
 - [x] E4 Sinnoh.
