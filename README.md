@@ -1,4 +1,4 @@
-# Pokemmo StringS - Français
+# Pokemmo Strings - Français
 
 ## Installation
 
