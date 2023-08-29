@@ -36,7 +36,7 @@ Dialogues de Pokémmo personnalisés pour gagner du temps. Gilan's Ecounter Coun
 - [x] E4 Kanto.
 - [x] E4 Sinnoh.
 - [x] E4 Unys.
-- [x] E4 Johto.
+- [x] E4 Johto. (à tester)
 - [x] Ramassage Noigrumes.
 - [x] Craft Balls avec Noigrumes.
 - [x] Pêche plus rapide.
