@@ -63,6 +63,7 @@ Dialogues de Pokémmo personnalisés pour gagner du temps. Gilan's Ecounter Coun
 - [x] Ocarina.
 - [x] Traduction Français (anglais) des natures.
 - [x] Traduction Français (anglais) des villes et emplacements importants.
+- [x] Traduction Français (anglais) des Baies.
 - [ ] Je mettrais à jour les Dialogues d'Event au fur et a mesure de leur mise en place
 
 ## Special thanks to
