@@ -3,20 +3,20 @@
 
 	<!-- Fossiles-->
 	<string id="270606152">T'as un fossile pour moi?</string>
-    <string id="270606246">reveil de fossile?</string>
+    <string id="270606246">reveil?</string>
     <string id="270606406">oh... Dommage !</string>
-    <string id="270606482">Choisis ton fossile?</string>
+    <string id="270606482">Lequel?</string>
     <string id="270606675">\n</string>
-    <string id="270606754">Reviens un peu plus tard</string>
+    <string id="270606754">Reviens plus tard</string>
     <string id="270606929">C'était un {03}!</string>
     <string id="270607051">\n</string>
 
 	<!-- Hoenn Echange de vélo -->
-	<string id="270594555">\n<!-- Vélo--></string>
+	<string id="270594555">Echange?<!-- Vélo--></string>
 	<string id="270594607">\n<!-- Oui --></string>
 	<string id="270594756">\n<!-- Non --></string>
-	<string id="270594659">Vélo Cross</string>
-	<string id="270594708">Vélo Course</string>
+	<string id="270594659">\n<!-- Velo cross--></string>
+	<string id="270594708">\n<!-- Velo Course--></string>
 	<string id="270594493">\n<!-- Au revoir --></string>
 	<string id="271002232">{03}!<!-- Message --></string>
 
@@ -25,7 +25,7 @@
 	<string id="271131087">\n<!-- Prends en soin --></string>
 
 	<!-- Hoenn Centre Pokemon -->
-	<string id="271001323">Heal?</string>
+	<string id="271001323">Soins?</string>
 	<string id="271001496">\n</string>
 	<string id="271001563">\n</string>
 	<string id="271002048">\n</string>

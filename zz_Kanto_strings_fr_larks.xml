@@ -4,11 +4,11 @@
 	<!-- Fossiles -->
 	<string id="1680002">T'as un fossile pour moi?</string>
     <string id="1680148">oh.. Dommage!</string>
-    <string id="1680207">Ton fossile est VIVANT !</string>
-    <string id="1680286">tu reçoit{02}!</string>
+    <string id="1680207">\n</string>
+    <string id="1680286">\n</string>
     <string id="1680340">\n<!-- Bla bla --></string>
     <string id="1680477">\n<!-- il parle trop --></string>
-    <string id="1680555">eviens plus tard</string>
+    <string id="1680555">Reviens plus tard</string>
 
 	<!-- Message Oeuf - Kanto-->
 	<string id="1832746">\n<!-- Oeuf reçu --></string>

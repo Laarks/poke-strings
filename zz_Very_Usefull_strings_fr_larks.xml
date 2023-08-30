@@ -46,7 +46,7 @@
 	<string id="16780130">Tu t'es fail frérot {00}?</string>
 
 	<!-- Region Ferry -->
-	<string id="16780100">\n<!-- Bonjour --></string>
+	<string id="16780100">Région?<!-- Bonjour --></string>
 	<string id="16780102">Attention commencer la region enverra tout tes {STRING_0} au PC.</string>
 	<string id="16780103">\n</string>
 	<string id="16780104">\n</string>
@@ -58,7 +58,6 @@
 	<string id="16779004">A+.</string>
 	<string id="16779003">Lequel?</string>
 	<string id="16779005">Un autre?</string>
-    <!-- A TESTER-->
 	<string id="16779052">{00}x {01}?</string>
 	<string id="16779054">{00}x {01} et\n{02}x {03}?</string>
 
