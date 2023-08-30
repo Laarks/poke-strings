@@ -7,8 +7,8 @@
 	
 	<!-- Centre pokémon -->
 	<string block_id="0" entry_id="83" table_id="40">\n<!-- Salutation --></string>
-	<string block_id="0" entry_id="84" table_id="40">\n<!-- Salutation --></string>
-	<string block_id="0" entry_id="0" table_id="40">Heal?<!-- Salutation --></string>
+	<string block_id="0" entry_id="84" table_id="40">Soins?<!-- Salutation --></string>
+	<string block_id="0" entry_id="0" table_id="40">\n<!-- Salutation --></string>
 	<string block_id="0" entry_id="1" table_id="40">\n<!-- Oui --></string>
 	<string block_id="0" entry_id="2" table_id="40">\n<!-- pokémon soigné --></string>
 	<string block_id="0" entry_id="3" table_id="40">\n<!-- Revien quand tu veux --></string>
@@ -18,9 +18,9 @@
 
 	<!-- Safari Zone -->
 	<string block_id="0" entry_id="0" table_id="135">${01}?<!-- Salutation --></string>
-	<string block_id="0" entry_id="2" table_id="135"> <!-- Oui --></string>
-	<string block_id="0" entry_id="4" table_id="135"> <!-- Safari Balls --></string>
-	<string block_id="0" entry_id="5" table_id="135"> <!-- Safari Balls {00} --></string>
+	<string block_id="0" entry_id="2" table_id="135">\n<!-- Oui --></string>
+	<string block_id="0" entry_id="4" table_id="135">\n <!-- Safari Balls --></string>
+	<string block_id="0" entry_id="5" table_id="135">\n <!-- Safari Balls {00} --></string>
 	<string block_id="0" entry_id="6" table_id="135">Bon chanss!</string>
 	<string block_id="0" entry_id="7" table_id="135">Tu pars déjà?</string>
 	<string block_id="0" entry_id="0" table_id="427">Temps écoulé!</string>
@@ -28,55 +28,55 @@
 	<string block_id="0" entry_id="2" table_id="427">Tu n'as plus de place pour d'autre pokémon.</string>
 
 	<!-- Noigrumes -->
-	<string block_id="0" entry_id="0" table_id="23"> <!-- Noigrumes arbre --></string>
+	<string block_id="0" entry_id="0" table_id="23">\n <!-- Noigrumes arbre --></string>
 	<string block_id="0" entry_id="1" table_id="23">{01}!<!-- type de Noigrumes --></string>
 	<string block_id="0" entry_id="2" table_id="23">Cooldown...</string>
-	<string block_id="0" entry_id="3" table_id="23"> <!-- Obtenu --></string>
-	<string block_id="0" entry_id="4" table_id="23"> <!-- mit dans le sac --></string>
+	<string block_id="0" entry_id="3" table_id="23">\n <!-- Obtenu --></string>
+	<string block_id="0" entry_id="4" table_id="23">\n <!-- mit dans le sac --></string>
 
 	<!-- Craft Noigrumes -->
-    	<string block_id="0" entry_id="4" table_id="571">\n<!--Tu as des noigrumes pour moi--></string>
+    	<string block_id="0" entry_id="4" table_id="571">Noigrumes?<!--Tu as des noigrumes pour moi--></string>
     	<string block_id="0" entry_id="6" table_id="571">\n<!--Non--></string>
     	<string block_id="0" entry_id="8" table_id="571">\n<!--Fin de craft--></string>
     	<string block_id="0" entry_id="10" table_id="571">\n<!--Il admire sont travail--></string>
 
 	<!-- CT -->
 	<string block_id="0" entry_id="0" table_id="211">Coupe?</string>
-	<string block_id="0" entry_id="1" table_id="211"> <!-- Coupe --></string>
+	<string block_id="0" entry_id="1" table_id="211">\n<!-- Coupe --></string>
 	<string block_id="0" entry_id="2" table_id="211">Il ne se passe rien</string>
 
 	<string block_id="0" entry_id="3" table_id="211">Eclate-roc?</string>
 	<string block_id="0" entry_id="4" table_id="211">Il ne se passe rien</string>
-	<string block_id="0" entry_id="5" table_id="211"> <!-- Eclate-roc --></string>
+	<string block_id="0" entry_id="5" table_id="211">\n<!-- Eclate-roc --></string>
 
 	<string block_id="0" entry_id="7" table_id="211">Force?</string>
-	<string block_id="0" entry_id="8" table_id="211"> <!-- Force {00} --></string>
+	<string block_id="0" entry_id="8" table_id="211">\n<!-- Force {00} --></string>
 	<string block_id="0" entry_id="9" table_id="211">Il ne se passe rien</string>
-	<string block_id="0" entry_id="10" table_id="211"> <!-- Force --></string>
+	<string block_id="0" entry_id="10" table_id="211">\n<!-- Force --></string>
 
 	<string block_id="0" entry_id="14" table_id="211">Surf?</string>
-	<string block_id="0" entry_id="15" table_id="211"> <!-- Surf --></string>
+	<string block_id="0" entry_id="15" table_id="211">\n<!-- Surf --></string>
 
 	<string block_id="0" entry_id="17" table_id="211">Anti-brume?</string>
-	<string block_id="0" entry_id="18" table_id="211"> <!-- Anti-brume --></string>
+	<string block_id="0" entry_id="18" table_id="211">\n<!-- Anti-brume --></string>
 	<string block_id="0" entry_id="19" table_id="211">Il ne se passe rien</string>
 
 	<string block_id="0" entry_id="20" table_id="211">Escalade?</string>
-	<string block_id="0" entry_id="21" table_id="211"> <!-- Escalade --></string>
+	<string block_id="0" entry_id="21" table_id="211">\n<!-- Escalade --></string>
 	<string block_id="0" entry_id="22" table_id="211">Il ne se passe rien</string>
 
 	<string block_id="0" entry_id="24" table_id="211">Cascade?</string>
-	<string block_id="0" entry_id="25" table_id="211"> <!-- Cascade --></string>
+	<string block_id="0" entry_id="25" table_id="211">\n<!-- Cascade --></string>
 	<string block_id="0" entry_id="26" table_id="211">Il ne se passe rien</string>
 
-	<string block_id="0" entry_id="28" table_id="211"> <!-- Flash --></string>
+	<string block_id="0" entry_id="28" table_id="211">\n<!-- Flash --></string>
 
 	<string block_id="0" entry_id="29" table_id="211">Siphon?</string>
-	<string block_id="0" entry_id="30" table_id="211"> <!-- Siphon --></string>
+	<string block_id="0" entry_id="30" table_id="211">\n<!-- Siphon --></string>
 	<string block_id="0" entry_id="31" table_id="211">Il ne se passe rien</string>
 
 	<string block_id="0" entry_id="32" table_id="211">Coup de boule?</string>
-	<string block_id="0" entry_id="33" table_id="211"> <!-- coup de boule --></string>
+	<string block_id="0" entry_id="33" table_id="211">\n<!-- coup de boule --></string>
 	<string block_id="0" entry_id="34" table_id="211">Il ne se passe rien</string>
 
 	<!-- Arenes -->
@@ -84,7 +84,7 @@
 	<!-- Mauville - Albert -->
     <string block_id="0" entry_id="0" table_id="558">\n<!-- Combat--></string>
 	<string block_id="0" entry_id="5" table_id="558">Cooldown</string>
-    <string block_id="0" entry_id="1" table_id="558"> <!-- Victoire --></string>
+    <string block_id="0" entry_id="1" table_id="558">\n<!-- Victoire --></string>
 
 	<!-- Ecorcia - Hector !-->
 	<string block_id="0" entry_id="0" table_id="567">\n<!-- Combat--></string>
@@ -102,7 +102,7 @@
 	<!-- Oliville - Jasmine -->
 	<string block_id="0" entry_id="0" table_id="606">\n<!--Combat --></string>
 	<string block_id="0" entry_id="6" table_id="606">Cooldown</string>
-	<string block_id="0" entry_id="97" table_id="728"><!--Victory--></string>
+	<string block_id="0" entry_id="97" table_id="728">\n<!--Victory--></string>
 
 	<!-- Irisia - Chuck -->
 	<string block_id="0" entry_id="0" table_id="574">\n<!-- Combat --></string>
@@ -111,50 +111,50 @@
 	<!-- Acajou - Frédo -->
 	<string block_id="0" entry_id="0" table_id="622">\n<!-- Combat--></string>
 	<string block_id="0" entry_id="6" table_id="622">Cooldown </string>
-	<string block_id="0" entry_id="127" table_id="728"><!-- Victoire--></string>
+	<string block_id="0" entry_id="127" table_id="728">\n<!-- Victoire--></string>
 
 	<!-- Ebènelle - Sandra -->
 	<string block_id="0" entry_id="0" table_id="631">\n<!-- Combat ! it's a wrong message should change in a futur update. Should be this one: block_id="0" entry_id="3" table_id="631"--></string>
 	<string block_id="0" entry_id="9" table_id="631">Cooldown</string>
-	<string block_id="0" entry_id="130" table_id="728"><!-- Victoire--></string>
+	<string block_id="0" entry_id="130" table_id="728">\n<!-- Victoire--></string>
 
 
 	<!-- E4 Johto-->
 	<!-- Gardien-->
-    <string block_id="0" entry_id="6" table_id="522"> <!-- Si tu entre tu pourras plus reculer--></string>
+    <string block_id="0" entry_id="6" table_id="522">\n<!-- Si tu entre tu pourras plus reculer--></string>
 
 	<!-- Clément -->
-	<string block_id="0" entry_id="0" table_id="523"><!-- Combat--></string>
-    <string block_id="0" entry_id="1" table_id="523"><!-- Victory--></string>
+	<string block_id="0" entry_id="0" table_id="523">\n<!-- Combat--></string>
+    <string block_id="0" entry_id="1" table_id="523">\n<!-- Victory--></string>
 
 	<!-- Koga -->
-	<string block_id="0" entry_id="0" table_id="524"><!-- Combat--></string>
-    <string block_id="0" entry_id="1" table_id="524"><!-- Victory--></string>
-    <string block_id="0" entry_id="2" table_id="524"><!-- Victory--></string>
+	<string block_id="0" entry_id="0" table_id="524">\n<!-- Combat--></string>
+    <string block_id="0" entry_id="1" table_id="524">\n<!-- Victory--></string>
+    <string block_id="0" entry_id="2" table_id="524">\n<!-- Victory--></string>
 
 	<!-- Aldo -->
-    <string block_id="0" entry_id="0" table_id="525"><!-- Combat--></string>
-    <string block_id="0" entry_id="1" table_id="525"><!-- Victory--></string>
-    <string block_id="0" entry_id="2" table_id="525"><!-- Victory--></string>
+    <string block_id="0" entry_id="0" table_id="525">\n<!-- Combat--></string>
+    <string block_id="0" entry_id="1" table_id="525">\n<!-- Victory--></string>
+    <string block_id="0" entry_id="2" table_id="525">\n<!-- Victory--></string>
 
 	<!-- Marion -->
-    <string block_id="0" entry_id="0" table_id="526"><!-- Combat--></string>
-    <string block_id="0" entry_id="1" table_id="526"><!-- Victory--></string>
-    <string block_id="0" entry_id="2" table_id="526"><!-- Victory--></string>
+    <string block_id="0" entry_id="0" table_id="526">\n<!-- Combat--></string>
+    <string block_id="0" entry_id="1" table_id="526">\n<!-- Victory--></string>
+    <string block_id="0" entry_id="2" table_id="526">\n<!-- Victory--></string>
 	
 	<!-- Peter -->
-    <string block_id="0" entry_id="0" table_id="527"><!-- Combat--></string>
-    <string block_id="0" entry_id="1" table_id="527"><!-- Combat--></string>
-    <string block_id="0" entry_id="2" table_id="527"><!-- Victory--></string>
-    <string block_id="0" entry_id="3" table_id="527"><!-- Victory--></string>
-    <string block_id="0" entry_id="4" table_id="527"><!-- Victory--></string>
-    <string block_id="0" entry_id="5" table_id="527"><!-- Lula est déçue--></string>
-    <string block_id="0" entry_id="6" table_id="527"><!-- Le prof Chen--></string>
-    <string block_id="0" entry_id="7" table_id="527"><!-- Te fait une belle fellation--></string>
-    <string block_id="0" entry_id="8" table_id="527"><!-- Interview--></string>
-    <string block_id="0" entry_id="9" table_id="527"><!-- Suis peter--></string>
-    <string block_id="0" entry_id="10" table_id="527"><!-- peter le goat--></string>
-    <string block_id="0" entry_id="11" table_id="527"><!-- ZzzZ ça parle trop--></string>
-    <string block_id="0" entry_id="0" table_id="528"><!-- Et c'est--></string>
-    <string block_id="0" entry_id="1" table_id="528"><!-- Le pantéon GG--></string>
+    <string block_id="0" entry_id="0" table_id="527">\n<!-- Combat--></string>
+    <string block_id="0" entry_id="1" table_id="527">\n<!-- Combat--></string>
+    <string block_id="0" entry_id="2" table_id="527">\n<!-- Victory--></string>
+    <string block_id="0" entry_id="3" table_id="527">\n<!-- Victory--></string>
+    <string block_id="0" entry_id="4" table_id="527">\n<!-- Victory--></string>
+    <string block_id="0" entry_id="5" table_id="527">\n<!-- Lula est déçue--></string>
+    <string block_id="0" entry_id="6" table_id="527">\n<!-- Le prof Chen--></string>
+    <string block_id="0" entry_id="7" table_id="527">\n<!-- Te fait une belle fellation--></string>
+    <string block_id="0" entry_id="8" table_id="527">\n<!-- Interview--></string>
+    <string block_id="0" entry_id="9" table_id="527">\n<!-- Suis peter--></string>
+    <string block_id="0" entry_id="10" table_id="527">\n<!-- peter le goat--></string>
+    <string block_id="0" entry_id="11" table_id="527">\n<!-- ZzzZ ça parle trop--></string>
+    <string block_id="0" entry_id="0" table_id="528">\n<!-- Et c'est--></string>
+    <string block_id="0" entry_id="1" table_id="528">\n<!-- Le pantéon GG--></string>
 </ds_strings_archive>

@@ -15,7 +15,7 @@
 	<string id="1832789">\n<!-- Prends en soins --></string>
 
     <!-- Kanto centre pokémon -->
-	<string id="1725571">Heal?</string>
+	<string id="1725571">Soins?</string>
 	<string id="1725665">\n</string>
 	<string id="1725713">\n</string>
 	<string id="1725739">\n</string>
@@ -62,13 +62,13 @@
     <!-- Safari Kanto -->
 	<string id="1670251">SAFARI ZONE!</string>
 	<string id="1670279">$500?</string>
-	<string id="1670407"> </string>
-	<string id="1670480"> </string>
+	<string id="1670407">\n</string>
+	<string id="1670480">\n</string>
 	<string id="1670528">Bon chance!</string>
 	<string id="1670633">Au revoir!</string>
 	<string id="1670658">Tu n'as pas assez d'argent!</string>
 	<string id="1670682">Tu pars déjà??</string>
-	<string id="1670728"> </string>
+	<string id="1670728">\n</string>
 	<string id="1670778">Bonne chance!</string>
 	<string id="1670789">Reviens nous voir!</string>
 	<string id="1834011">Temps écoulé!</string>
@@ -77,38 +77,38 @@
     <!-- Champion d'arene -->
 
     <!-- Argenta - Pierre -->
-	<string id="1641684"> <!-- Combat --></string>
-	<string id="1642063"> <!-- Victoire --></string>
+	<string id="1641684">\n<!-- Combat --></string>
+	<string id="1642063">\n<!-- Victoire --></string>
 	<string id="1642767">Cooldown...</string>
 
 	<!-- Azuria - Ondine -->
-	<string id="1647087"> <!-- Combat --></string>
-	<string id="1647661"> <!-- Victoire --></string>
+	<string id="1647087">\n<!-- Combat --></string>
+	<string id="1647661">\n<!-- Victoire --></string>
 	<string id="1647295">On Cooldown...</string>
 
 	<!-- Carmin sur mer - Major Bob -->
-	<string id="1657764"> <!-- Combat --></string>
-	<string id="1658371"> <!-- Victoire --></string>
+	<string id="1657764">\n<!-- Combat --></string>
+	<string id="1658371">\n<!-- Victoire --></string>
 	<string id="1657998">On Cooldown...</string>
 
 	<!--  Céladopole - Erika -->
-	<string id="1667348"> <!-- Combat --></string>
-	<string id="1667680"> <!-- Victoire --></string>
+	<string id="1667348">\n<!-- Combat --></string>
+	<string id="1667680">\n<!-- Victoire --></string>
 	<string id="1667768">On Cooldown...</string>
 
 	<!-- Safrania - Morgane -->
-	<string id="1684796"> <!-- Combat --></string>
-	<string id="1684994"> <!-- Victoire --></string>
+	<string id="1684796">\n<!-- Combat --></string>
+	<string id="1684994">\n<!-- Victoire --></string>
 	<string id="1685490">On Cooldown...</string>
 
 	<!-- Parmanie - Koga -->
-	<string id="1671982"> <!-- Combat --></string>
-	<string id="1672260"> <!-- Victoire --></string>
+	<string id="1671982">\n<!-- Combat --></string>
+	<string id="1672260">\n<!-- Victoire --></string>
 	<string id="1672321">On Cooldown...</string>
 
 	<!-- Cramois'île - Auguste -->
-	<string id="1676611"> <!-- Combat --></string>
-	<string id="1676794"> <!-- Victoire --></string>
+	<string id="1676611">\n<!-- Combat --></string>
+	<string id="1676794">\n<!-- Victoire --></string>
 	<string id="1677085">On Cooldown...</string>
 
 	<!-- Jadielle - Giovanni -->
@@ -122,35 +122,35 @@
 	<string id="16777231">Return in\n{00}.</string>
 
 	<!-- Olga -->
-	<string id="1540233"> <!-- Challenge --></string>
-	<string id="1540497"> <!-- Victory --></string>
+	<string id="1540233">\n<!-- Challenge --></string>
+	<string id="1540497">\n<!-- Victory --></string>
 	<string id="1540528">Cooldown...</string>
 
 	<!-- Aldo -->
-	<string id="1540623"> <!-- Challenge --></string>
-	<string id="1541129"> <!-- Victory --></string>
+	<string id="1540623">\n<!-- Challenge --></string>
+	<string id="1541129">\n<!-- Victory --></string>
 	<string id="1541152">Cooldown...</string>
 
 	<!-- Agatha -->
-	<string id="1541197"> <!-- Challenge --></string>
-	<string id="1541847"> <!-- Victory --></string>
+	<string id="1541197">\n<!-- Challenge --></string>
+	<string id="1541847">\n<!-- Victory --></string>
 	<string id="1541888">Cooldown...</string>
 
 	<!-- Peter -->
-	<string id="1542333"> <!-- Challenge --></string>
-	<string id="1542677"> <!-- Victory --></string>
+	<string id="1542333">\n<!-- Challenge --></string>
+	<string id="1542677">\n<!-- Victory --></string>
 	<string id="1542738">Cooldown...</string>
 
 	<!-- Rival -->
-	<string id="1543380"> <!-- Je suis un dieu --></string>
-	<string id="1543743"> <!-- trop fort. --></string>
-	<string id="1543983"> <!-- je retourne pleurer dans les jupes de ma mére. --></string>
+	<string id="1543380">\n<!-- Je suis un dieu --></string>
+	<string id="1543743">\n<!-- trop fort. --></string>
+	<string id="1543983">\n<!-- je retourne pleurer dans les jupes de ma mére. --></string>
 
 	<!-- Chen -->
-	<string id="1544134"> <!-- Bien joué --></string>
-	<string id="1544143"> <!-- C'est gagné, c'est gagné --></string>
-	<string id="1544335"> <!-- Blue la victime --></string>
-	<string id="1544611"> <!-- trop bien pokemon oé --></string>
-	<string id="1544751"> <!-- Panthéon ! --></string>
+	<string id="1544134">\n<!-- Bien joué --></string>
+	<string id="1544143">\n<!-- C'est gagné, c'est gagné --></string>
+	<string id="1544335">\n<!-- Blue la victime --></string>
+	<string id="1544611">\n<!-- trop bien pokemon oé --></string>
+	<string id="1544751">\n<!-- Panthéon ! --></string>
 
 </strings>
