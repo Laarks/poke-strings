@@ -82,40 +82,39 @@
 	<!-- Arenes -->
 
 	<!-- Mauville - Albert -->
-    <string block_id="0" entry_id="0" table_id="558"> <!-- Combat--></string>
+    <string block_id="0" entry_id="0" table_id="558">\n<!-- Combat--></string>
 	<string block_id="0" entry_id="5" table_id="558">Cooldown</string>
     <string block_id="0" entry_id="1" table_id="558"> <!-- Victoire --></string>
 
-	<!-- Ecorcia - Hector-->
-	<string block_id="0" entry_id="0" table_id="567"><!-- Combat--></string>
+	<!-- Ecorcia - Hector !-->
+	<string block_id="0" entry_id="0" table_id="567">\n<!-- Combat--></string>
 	<string block_id="0" entry_id="6" table_id="567">Cooldown</string>
 
-	<!-- Doublonville - Blanche -->
-	<string block_id="0" entry_id="0" table_id="582"><!-- Combat--></string>
+	<!-- Doublonville - Blanche !-->
+	<string block_id="0" entry_id="0" table_id="582">\n<!-- Combat --></string>
 	<string block_id="0" entry_id="8" table_id="582">Cooldown</string>
 
 	<!-- Rosalia - Mortimer -->
-	<string block_id="0" entry_id="0" table_id="614"><!-- Combat--></string>
+	<string block_id="0" entry_id="0" table_id="614">\n<!-- Combat --></string>
 	<string block_id="0" entry_id="6" table_id="614">Cooldown</string>
 	<string block_id="0" entry_id="94" table_id="728"><!-- Victoire --></string>
 
 	<!-- Oliville - Jasmine -->
-	<string block_id="0" entry_id="0" table_id="606"><!--Combat--></string>
+	<string block_id="0" entry_id="0" table_id="606">\n<!--Combat --></string>
 	<string block_id="0" entry_id="6" table_id="606">Cooldown</string>
 	<string block_id="0" entry_id="97" table_id="728"><!--Victory--></string>
 
 	<!-- Irisia - Chuck -->
-	<string block_id="0" entry_id="0" table_id="574"><!-- Combat --></string>
-    <string block_id="0" entry_id="8" table_id="574">Cooldown</string>
+	<string block_id="0" entry_id="0" table_id="574">\n<!-- Combat --></string>
+    <string block_id="0" entry_id="9" table_id="574">Cooldown</string>
 
 	<!-- Acajou - Frédo -->
-	<string block_id="0" entry_id="0" table_id="622"><!-- Combat--></string>
+	<string block_id="0" entry_id="0" table_id="622">\n<!-- Combat--></string>
 	<string block_id="0" entry_id="6" table_id="622">Cooldown </string>
 	<string block_id="0" entry_id="127" table_id="728"><!-- Victoire--></string>
 
-
 	<!-- Ebènelle - Sandra -->
-	<string block_id="0" entry_id="0" table_id="631"><!-- Combat ! it's a wrong message should change in a futur update. Should be this one: block_id="0" entry_id="3" table_id="631"--></string>
+	<string block_id="0" entry_id="0" table_id="631">\n<!-- Combat ! it's a wrong message should change in a futur update. Should be this one: block_id="0" entry_id="3" table_id="631"--></string>
 	<string block_id="0" entry_id="9" table_id="631">Cooldown</string>
 	<string block_id="0" entry_id="130" table_id="728"><!-- Victoire--></string>
 
