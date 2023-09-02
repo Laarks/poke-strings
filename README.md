@@ -63,6 +63,7 @@ Devrais marcher sur la version Androïde de pokeMMO (plus de test soon, feedback
 - [x] Réapprendre une capacité.
 - [x] Gain de PP.
 - [x] Ocarina.
+- [x] Gains d'xp (Gains normaux, Multi Exp, Réamplificateur d'Exp) 
 - [x] Traduction Français (anglais) des natures.
 - [x] Traduction Français (anglais) des villes et emplacements importants.
 - [x] Traduction Français (anglais) des Baies.
