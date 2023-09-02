@@ -3,7 +3,6 @@
 
 <!-- Usefull global stuff that i cannot put elsewhere -->
 
-
 	<!-- Changement de Resume rapide de l'equipe en sac-->
 	<string id="5121">Utilise des objets.</string>
 
@@ -188,38 +187,38 @@
 	<string id="300014">Baies</string>
 	<string id="310018">Baies</string>
 
-	<string id="16780309">Planté.</string>
-	<string id="16780310">planté..</string>
-	<string id="16780311">ça commence a pousser.</string>
-	<string id="16780312">Graines</string>
-	<string id="16780313">Des arbustes</string>
+	<string id="16780309">\n</string>
+	<string id="16780310">\n</string>
+	<string id="16780311">\n</string>
+	<string id="16780312">\n</string>
+	<string id="16780313">\n</string>
 
-	<string id="16780315">Sec.</string>
-	<string id="16780316">Humide.</string>
+	<string id="16780315">\n</string>
+	<string id="16780316">\n</string>
 	<string id="16780317">Mouillé.</string>
 	<string id="16780318">Inondé.</string>
 
-	<string id="16780320">Presque sec.</string>
+	<string id="16780320">\n</string>
 	<string id="16780321">Presque inondé.</string>
 	<string id="16780326">\n<!-- Planter? --></string>
 	<string id="16780327">\n<!-- Arroser? --></string>
 	<string id="16780328">\n</string>
 
-	<string id="16780329">{01} {00}!\n\nRamasser? {00}?</string>
-	<string id="16780330">Tu n'as pas ramassé {00}.</string>
-	<string id="16780331">{01} {02}.</string>
+	<string id="16780329">\n</string>
+	<string id="16780330">\n</string>
+	<string id="16780331">\n</string>
 
-	<string id="16780335">Sec.</string>
-	<string id="16780336">Presque sec.</string>
-	<string id="16780337">Humide.</string>
+	<string id="16780335">\n</string>
+	<string id="16780336">\n</string>
+	<string id="16780337">\n</string>
 	<string id="16780338">Mouillé.</string>
 	<string id="16780339">Presque inondé.</string>
 	<string id="16780340">Inondé.</string>
 
-	<string id="16780350">Excellemment</string>
-	<string id="16780351">Magnifiquement</string>
-	<string id="16780352">Bien</string>
-	<string id="16780353">Moyennement</string>
+	<string id="16780350">\n</string>
+	<string id="16780351">\n</string>
+	<string id="16780352">\n</string>
+	<string id="16780353">\n</string>
 
 	<!-- Champion d'arene -->
 
