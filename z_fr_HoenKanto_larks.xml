@@ -203,7 +203,7 @@
 	<string id="16780321">Presque inondé.</string>
 	<string id="16780326">\n<!-- Planter? --></string>
 	<string id="16780327">\n<!-- Arroser? --></string>
-	<string id="16780328">Arrosé.</string>
+	<string id="16780328">\n</string>
 
 	<string id="16780329">{01} {00}!\n\nRamasser? {00}?</string>
 	<string id="16780330">Tu n'as pas ramassé {00}.</string>
