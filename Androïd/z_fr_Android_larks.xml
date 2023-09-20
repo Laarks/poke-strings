@@ -491,7 +491,6 @@
 
 
 
-																	<!-- JOHTO-->
 
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <ds_strings_archive archive_type="0" is_primary="0" lang="fr" region_id="4">
@@ -661,8 +660,6 @@
 
 
 
-
-																		<!-- SINNOH -->
 
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <ds_strings_archive archive_type="0" is_primary="0" lang="fr" region_id="3">
@@ -979,8 +976,6 @@
 
 
 
-																		<!-- UNYS 0 -->
-
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <ds_strings_archive archive_type="0" is_primary="0" lang="fr" region_id="2">
 
@@ -1084,8 +1079,6 @@
 
 
 
-
-																    		<!-- UNYS 1-->
 
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <ds_strings_archive archive_type="1" is_primary="0" lang="fr" region_id="2">
