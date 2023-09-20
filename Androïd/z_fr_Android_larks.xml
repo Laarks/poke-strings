@@ -480,7 +480,18 @@
 	<string id="1544611">\n<!-- trop bien pokemon oé --></string>
 	<string id="1544751">\n<!-- Panthéon ! --></string>
 
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+</strings>
+
+
+
+
+
+
+
+
+
+
+
 <ds_strings_archive archive_type="0" is_primary="0" lang="fr" region_id="4">
 
 	<!-- Breeding Oeufs -->
@@ -641,4 +652,594 @@
     <string block_id="0" entry_id="1" table_id="528">\n<!-- Le pantéon GG--></string>
 </ds_strings_archive>
 
-</strings>
+
+
+
+
+
+
+
+
+<ds_strings_archive archive_type="0" is_primary="0" lang="fr" region_id="3">
+
+	<!-- Oeufs message -->
+	<string block_id="0" entry_id="5" table_id="547">\n<!-- Oeuf reçu --></string>
+	<string block_id="0" entry_id="6" table_id="547">\n<!-- Prends en soins--></string>
+
+	<!-- Sinnoh parc Safari -->
+	<string block_id="0" entry_id="0" table_id="136">$500?</string>
+	<string block_id="0" entry_id="1" table_id="136">\n</string>
+	<string block_id="0" entry_id="2" table_id="136">\n</string>
+	<string block_id="0" entry_id="3" table_id="136">\n</string>
+	<string block_id="0" entry_id="4" table_id="136">\n</string>
+	<string block_id="0" entry_id="9" table_id="136">Tu pars déjà?</string>
+	<string block_id="0" entry_id="10" table_id="136">Au revoir!</string>
+	<string block_id="0" entry_id="0" table_id="538">Temps écoulé!</string>
+	<string block_id="0" entry_id="1" table_id="538">Tu n'as plus Balls.</string>
+	<string block_id="0" entry_id="2" table_id="538">PC plein!</string>
+
+	<!-- Vendeurs -->
+	<string block_id="0" entry_id="37" table_id="213">\n<!-- Shop --></string>
+
+	<!--Centre pokémon-->
+	<string block_id="0" entry_id="0" table_id="213">Soins?</string>
+	<string block_id="0" entry_id="1" table_id="213">\n</string>
+	<string block_id="0" entry_id="2" table_id="213">\n</string>
+	<string block_id="0" entry_id="3" table_id="213">\n</string>
+	<string block_id="0" entry_id="4" table_id="213">\n</string>
+	<string block_id="0" entry_id="120" table_id="213">\n</string>
+	<string block_id="0" entry_id="121" table_id="213">Soins?</string>
+
+	<!-- Sinnoh - Nurse Mom - Before healing -->
+	<string block_id="0" entry_id="11" table_id="557">Soins?<!-- Matin --></string>
+	<string block_id="0" entry_id="12" table_id="557">Soins?<!-- Apres-midi --></string>
+	<string block_id="0" entry_id="13" table_id="557">Soins?<!-- Soir --></string>
+	<string block_id="0" entry_id="14" table_id="557">Soins?<!-- Nuit --></string>
+	<!-- Sinnoh - Nurse Mom - After healing -->
+	<string block_id="0" entry_id="37" table_id="557">Bonne chance!<!-- Pokemon are healthy --></string>
+	<string block_id="0" entry_id="38" table_id="557">Bonne chance!<!-- Be good to your pokemon --></string>
+	<string block_id="0" entry_id="39" table_id="557">Bonne chance!<!-- I miss your dad --></string>
+	<string block_id="0" entry_id="40" table_id="557">Bonne chance!<!-- I miss you --></string>
+
+	<!-- Fossil hatching -->
+	<string block_id="0" entry_id="1" table_id="79">\n<!-- greeting --></string>
+	<string block_id="0" entry_id="2" table_id="79">Reveiller fossile?</string>
+	<string block_id="0" entry_id="4" table_id="79">\n<!-- accept --></string>
+	<string block_id="0" entry_id="5" table_id="79">\n<!-- decline --></string>
+	<string block_id="0" entry_id="7" table_id="79">GG.</string>
+	<string block_id="0" entry_id="8" table_id="79">\n<!-- collected pokemon --></string>
+	<string block_id="0" entry_id="9" table_id="79">Surnom?</string>
+	<string block_id="0" entry_id="10" table_id="79">Equipe pleine.</string>
+	<string block_id="0" entry_id="11" table_id="79">rapporte moi un Fossile.</string>
+
+	<!-- HMs -->
+	<string block_id="0" entry_id="0" table_id="381">\n<!-- Coupe --></string>
+	<string block_id="0" entry_id="1" table_id="381">\n<!-- Coupe --></string>
+	<string block_id="0" entry_id="2" table_id="381">Il ne se passe rien.</string>
+
+	<string block_id="0" entry_id="3" table_id="381">\n<!-- Eclate-roc --></string>
+	<string block_id="0" entry_id="5" table_id="381">\n<!-- eclate-roc --></string>
+	<string block_id="0" entry_id="4" table_id="381">Il ne se passe rien.</string>
+
+	<string block_id="0" entry_id="7" table_id="381">\n<!-- Force --></string>
+	<string block_id="0" entry_id="9" table_id="381">\n<!-- Force activé --></string>
+	<string block_id="0" entry_id="11" table_id="381">\n<!-- Force activé --></string>
+	<string block_id="0" entry_id="6" table_id="381">\n<!-- Force --></string>
+	<string block_id="0" entry_id="10" table_id="381">\n<!-- Force --></string>
+	<string block_id="0" entry_id="8" table_id="381">Il ne se passe rien.</string>
+
+	<string block_id="0" entry_id="12" table_id="381">\n<!-- Surf --></string>
+	<string block_id="0" entry_id="13" table_id="381">\n<!-- surf --></string>
+
+	<string block_id="0" entry_id="15" table_id="381">\n<!-- Anti-brume --></string>
+	<string block_id="0" entry_id="16" table_id="381">\n<!-- Anti-brume --></string>
+	<string block_id="0" entry_id="17" table_id="381">Il ne se passe rien.</string>
+
+	<string block_id="0" entry_id="18" table_id="381">\n<!-- Escalade --></string>
+	<string block_id="0" entry_id="19" table_id="381">\n<!-- Escalade --></string>
+	<string block_id="0" entry_id="20" table_id="381">Il ne se passe rien.</string>
+
+	<string block_id="0" entry_id="25" table_id="381">\n<!-- Cascade --></string>
+	<string block_id="0" entry_id="22" table_id="381">\n<!-- Cascade --></string>
+	<string block_id="0" entry_id="23" table_id="381">\n<!-- Cascade --></string>
+	<string block_id="0" entry_id="24" table_id="381">Il ne se passe rien.</string>
+
+	<string block_id="0" entry_id="26" table_id="381"> <!-- Flash --></string>
+
+	<!-- ELITE 4 -->
+	<!-- Sinnoh - Elite 4 - Gardien -->
+	<string block_id="0" entry_id="3" table_id="184">\n<!-- As tu tout les badges? --></string>
+	<string block_id="0" entry_id="4" table_id="184">Bonne chance!<!-- tout seul dans ta chambre a te construire des barrières --></string>
+	<!-- Sinnoh - Elite 4 - Aaron -->
+	<string block_id="0" entry_id="0" table_id="185">\n<!-- Combat --></string>
+	<string block_id="0" entry_id="1968" table_id="617">\n<!-- Victoire --></string>
+	<string block_id="0" entry_id="1" table_id="185">\n<!-- Victoire Dialogue --></string>
+	<string block_id="0" entry_id="2" table_id="185">Cooldown..</string>
+	<!-- Sinnoh - Elite 4 - Terry -->
+	<string block_id="0" entry_id="0" table_id="186">\n<!-- Combat --></string>
+	<string block_id="0" entry_id="1970" table_id="617">\n<!-- Victoire --></string>
+	<string block_id="0" entry_id="1" table_id="186">\n<!-- Victoire Dialogue --></string>
+	<string block_id="0" entry_id="2" table_id="186">Cooldown..</string>
+	<!-- Sinnoh - Elite 4 - Adrien -->
+	<string block_id="0" entry_id="4" table_id="187">\n<!-- Combat --></string>
+	<string block_id="0" entry_id="1973" table_id="617">\n<!-- Victoire --></string>
+	<string block_id="0" entry_id="5" table_id="187">\n<!-- Victoire Dialogue --></string>
+	<string block_id="0" entry_id="6" table_id="187">Cooldown..</string>
+	<!-- Sinnoh - Elite 4 - Lucio -->
+	<string block_id="0" entry_id="0" table_id="188">\n<!-- Combat --></string>
+	<string block_id="0" entry_id="1975" table_id="617">\n<!-- Victoire --></string>
+	<string block_id="0" entry_id="1" table_id="188">\n<!-- Victoire Dialogue --></string>
+	<string block_id="0" entry_id="2" table_id="188">Cooldown..</string>
+	<!-- Sinnoh - Elite 4 - Cynthia -->
+	<string block_id="0" entry_id="3" table_id="189">\n<!-- Combat --></string>
+	<string block_id="0" entry_id="1978" table_id="617">\n<!-- Victoire --></string>
+	<string block_id="0" entry_id="1" table_id="189">\n<!-- Si la réalité existe c'est pour mettre fin à tes rêves --></string>
+	<string block_id="0" entry_id="2" table_id="189">\n<!-- Ne remets pas à demain ce que tu peux faire ce soir --></string>
+	<string block_id="0" entry_id="0" table_id="190">\n<!-- Si tu crois pas en toi, je te le dis, personne ne le fera --></string>
+	<string block_id="0" entry_id="1" table_id="190">\n<!-- Faut dépendre de personne Dans la vie faut se faire seul --></string>
+	<string block_id="0" entry_id="2" table_id="190">\n<!-- Du berceau au Linceul --></string>
+	<string block_id="0" entry_id="3" table_id="190">\n<!-- Fait confiance qu'a ton coeur, avant d'apprendre a rire on pleure --></string>
+	<string block_id="0" entry_id="4" table_id="190">\n<!-- Apres la vie on meurt --></string>
+	<string block_id="0" entry_id="5" table_id="190">\n<!-- Leve toi, prend les armes et bats-toi pour tes valeurs --></string>
+	<string block_id="0" entry_id="7" table_id="190">\n<!-- Tu es capable d'accomplir de grandes choses --></string>
+	<string block_id="0" entry_id="8" table_id="190">\n<!-- Tu es capable d'réaliser tes reves --></string>
+	<string block_id="0" entry_id="1" table_id="191">\n<!-- Tu es capable d'accomplir de grandes choses --></string>
+	<string block_id="0" entry_id="3" table_id="191">\n<!-- tu es capable de réaliser tes reves --></string>
+	<string block_id="0" entry_id="4" table_id="191">\n<!-- RHAAAAAAA --></string>
+	<string block_id="0" entry_id="6" table_id="191">\n<!-- J'suis un guerrier - Doig bye bye bye --></string>
+
+	<!-- GYM LEADERS -->
+	<!-- Sinnoh - Charbourg - Perrick -->
+	<string block_id="0" entry_id="0" table_id="67">\n<!-- Combat --></string>
+	<string block_id="0" entry_id="5" table_id="617">\n<!-- Victoire --></string>
+	<string block_id="0" entry_id="5" table_id="67">Cooldown...</string>
+	<!-- Sinnoh - Vestigion - Flo -->
+	<string block_id="0" entry_id="0" table_id="87">\n<!-- Combat --></string>
+	<string block_id="0" entry_id="1227" table_id="617">\n<!-- Victoire --></string>
+	<string block_id="0" entry_id="5" table_id="87">Cooldown...</string>
+	<!-- Sinnoh - Uniopolis - Kimera -->
+	<string block_id="0" entry_id="0" table_id="109">\n<!-- Combat --></string>
+	<string block_id="0" entry_id="1290" table_id="617">\n<!-- Victoire --></string>
+	<string block_id="0" entry_id="5" table_id="109">Cooldown...</string>
+	<!-- Sinnoh - Voilaroc - Mélina -->
+	<string block_id="0" entry_id="0" table_id="144">\n<!-- Combat --></string>
+	<string block_id="0" entry_id="1275" table_id="617">\n<!-- Victoire --></string>
+	<string block_id="0" entry_id="5" table_id="144">Cooldown...</string>
+	<!-- Sinnoh - Verchamps - Lovis -->
+	<string block_id="0" entry_id="0" table_id="133">\n<!-- Combat --></string>
+	<string block_id="0" entry_id="1242" table_id="617">\n<!-- Victoire --></string>
+	<string block_id="0" entry_id="5" table_id="133">Cooldown...</string>
+	<!-- Sinnoh - Joliberges - Charles -->
+	<string block_id="0" entry_id="0" table_id="56">\n<!-- Combat --></string>
+	<string block_id="0" entry_id="1163" table_id="617">\n<!-- Victoire --></string>
+	<string block_id="0" entry_id="5" table_id="56">Cooldown...</string>
+	<!-- Sinnoh - Frimapic - Gladys -->
+	<string block_id="0" entry_id="0" table_id="178">\n<!-- Combat --></string>
+	<string block_id="0" entry_id="1317" table_id="617">\n<!-- Victoire --></string>
+	<string block_id="0" entry_id="5" table_id="178">Cooldown...</string>
+	<!-- Sinnoh - Rivamar - Tanguy -->
+	<string block_id="0" entry_id="0" table_id="165">\n<!-- Combat --></string>
+	<string block_id="0" entry_id="1339" table_id="617">\n<!-- Victoire --></string>
+	<string block_id="0" entry_id="5" table_id="165">Cooldown...</string>
+
+	<!-- Sinnoh "Dresseurs re-run" A TRAD -->
+	<!-- Sinnoh - Route 214 - PI Carlos - $6000 -->
+	<string block_id="0" entry_id="604" table_id="617">\n<!-- Combat --></string>
+	<string block_id="0" entry_id="602" table_id="617">\n<!-- Victoire --></string>
+	<string block_id="0" entry_id="603" table_id="617">Cooldown..</string>
+
+	<!-- Sinnoh - Route 215 - Ace Trainer Dennis - $3,136 -->
+	<string block_id="0" entry_id="657" table_id="617">\n<!-- Combat --></string>
+	<string block_id="0" entry_id="655" table_id="617">\n<!-- Victoire --></string>
+	<string block_id="0" entry_id="656" table_id="617">Cooldown..</string>
+	<!-- Sinnoh - Route 215 - Ace Trainer Maya - $3,136 -->
+	<string block_id="0" entry_id="661" table_id="617">\n<!-- Combat --></string>
+	<string block_id="0" entry_id="659" table_id="617">\n<!-- Victoire --></string>
+	<string block_id="0" entry_id="660" table_id="617">Cooldown..</string>
+
+	<!-- Sinnoh - Route 212 - Gentleman Jeremy - $3,920 -->
+	<string block_id="0" entry_id="431" table_id="617">\n<!-- Combat --></string>
+	<string block_id="0" entry_id="429" table_id="617">\n<!-- Victoire --></string>
+	<string block_id="0" entry_id="430" table_id="617">Cooldown..</string>
+	<!-- Sinnoh - Route 212 - Socialite Reina - $4000 -->
+	<string block_id="0" entry_id="435" table_id="617">\n<!-- Combat --></string>
+	<string block_id="0" entry_id="433" table_id="617">\n<!-- Victoire --></string>
+	<string block_id="0" entry_id="434" table_id="617">Cooldown..</string>
+	<!-- Sinnoh - Route 212 - Rich Boy Jason - $4000 -->
+	<string block_id="0" entry_id="423" table_id="617">\n<!-- Combat --></string>
+	<string block_id="0" entry_id="421" table_id="617">\n<!-- Victoire --></string>
+	<string block_id="0" entry_id="422" table_id="617">Cooldown..</string>
+	<!-- Sinnoh - Route 212 - Lady Melissa - $4000 -->
+	<string block_id="0" entry_id="427" table_id="617">\n<!-- Combat --></string>
+	<string block_id="0" entry_id="425" table_id="617">\n<!-- Victoire --></string>
+	<string block_id="0" entry_id="426" table_id="617">Cooldown..</string>
+
+	<!-- Sinnoh - Route 222 - Rich Boy Trey - $4240 -->
+	<string block_id="0" entry_id="906" table_id="617">\n<!-- Combat --></string>
+	<string block_id="0" entry_id="904" table_id="617">\n<!-- Victoire --></string>
+	<string block_id="0" entry_id="905" table_id="617">Cooldown..</string>
+
+	<!-- Sinnoh - Route 226 - Ace Trainer Graham - $3,712 -->
+	<string block_id="0" entry_id="1638" table_id="617">\n<!-- Combat --></string>
+	<string block_id="0" entry_id="1636" table_id="617">\n<!-- Victoire --></string>
+	<string block_id="0" entry_id="1637" table_id="617">Cooldown..</string>
+
+	<!-- Sinnoh - Route 225 - Ace Trainer Quinn - $3,648 -->
+	<string block_id="0" entry_id="1634" table_id="617">\n<!-- Combat --></string>
+	<string block_id="0" entry_id="1632" table_id="617">\n<!-- Victoire --></string>
+	<string block_id="0" entry_id="1633" table_id="617">Cooldown..</string>
+	<!-- Sinnoh - Route 225 - Ace Trainer Rodolfo - $3,648 -->
+	<string block_id="0" entry_id="1618" table_id="617">\n<!-- Combat --></string>
+	<string block_id="0" entry_id="1616" table_id="617">\n<!-- Victoire --></string>
+	<string block_id="0" entry_id="1617" table_id="617">Cooldown..</string>
+	<!-- Sinnoh - Route 225 - Ranger Dwayne - $3,480 -->
+	<string block_id="0" entry_id="1690" table_id="617">\n<!-- Combat --></string>
+	<string block_id="0" entry_id="1688" table_id="617">\n<!-- Victoire --></string>
+	<string block_id="0" entry_id="1689" table_id="617">Cooldown..</string>
+
+	<!-- Sinnoh - Route 210 - Veteran Brian - $4,160 -->
+	<string block_id="0" entry_id="354" table_id="617">\n<!-- Combat --></string>
+	<string block_id="0" entry_id="352" table_id="617">\n<!-- Victoire --></string>
+	<string block_id="0" entry_id="353" table_id="617">Cooldown..</string>
+	<!-- Sinnoh - Route 210 - Ace Trainer Ernest - $3,264 -->
+	<string block_id="0" entry_id="346" table_id="617">\n<!-- Combat --></string>
+	<string block_id="0" entry_id="344" table_id="617">\n<!-- Victoire --></string>
+	<string block_id="0" entry_id="345" table_id="617">Cooldown..</string>
+	<!-- Sinnoh - Route 210 - Zac & Jen - $4,000 -->
+	<string block_id="0" entry_id="388" table_id="617">\n<!-- Jen Combat --></string>
+	<string block_id="0" entry_id="383" table_id="617">\n<!-- Zac Combat --></string>
+	<string block_id="0" entry_id="380" table_id="617">\n<!-- Zac Victoire --></string>
+	<string block_id="0" entry_id="386" table_id="617">Cooldown..<!-- Jen --></string>
+	<string block_id="0" entry_id="381" table_id="617">Cooldown..<!-- Zac --></string>
+	<!-- Sinnoh - Route 210 - Ace Trainer Alyssa - $3,200 -->
+	<string block_id="0" entry_id="350" table_id="617">\n<!-- Combat --></string>
+	<string block_id="0" entry_id="348" table_id="617">\n<!-- Victoire --></string>
+	<string block_id="0" entry_id="349" table_id="617">Cooldown..</string>
+	<!-- Sinnoh - Route 210 - Belle Ava & Pa Matt - $5,264 -->
+	<string block_id="0" entry_id="330" table_id="617">\n<!-- Ava Combat --></string>
+	<string block_id="0" entry_id="325" table_id="617">\n<!-- Matt Combat --></string>
+	<string block_id="0" entry_id="322" table_id="617">\n<!-- Matt Victoire --></string>
+	<string block_id="0" entry_id="323" table_id="617">Cooldown..<!-- Matt --></string>
+	<string block_id="0" entry_id="328" table_id="617">Cooldown..<!-- Ava --></string>
+
+	<!-- Sinnoh - Route 229 - Ace Trainer Felix - $3,648 -->
+	<string block_id="0" entry_id="1630" table_id="617">\n<!-- Combat --></string>
+	<string block_id="0" entry_id="1628" table_id="617">\n<!-- Victoire --></string>
+	<string block_id="0" entry_id="1629" table_id="617">Cooldown..</string>
+	<!-- Sinnoh - Route 229 - Ace Trainer Dana - $3,648 -->
+	<string block_id="0" entry_id="1650" table_id="617">\n<!-- Combat --></string>
+	<string block_id="0" entry_id="1648" table_id="617">\n<!-- Victoire --></string>
+	<string block_id="0" entry_id="1649" table_id="617">Cooldown..</string>
+
+	<!-- Sinnoh - Route 228 - Ace Trainer Meagan - $3,776 -->
+	<string block_id="0" entry_id="1658" table_id="617">\n<!-- Combat --></string>
+	<string block_id="0" entry_id="1656" table_id="617">\n<!-- Victoire --></string>
+	<string block_id="0" entry_id="1657" table_id="617">Cooldown..</string>
+	<!-- Sinnoh - Route 228 - Ranger Kyler - $3,540 -->
+	<string block_id="0" entry_id="1682" table_id="617">\n<!-- Combat --></string>
+	<string block_id="0" entry_id="1680" table_id="617">\n<!-- Victoire --></string>
+	<string block_id="0" entry_id="1681" table_id="617">Cooldown..</string>
+	<!-- Sinnoh - Route 228 - Ranger Krista - $3,540 -->
+	<string block_id="0" entry_id="1702" table_id="617">\n<!-- Combat --></string>
+	<string block_id="0" entry_id="1700" table_id="617">\n<!-- Victoire --></string>
+	<string block_id="0" entry_id="1701" table_id="617">Cooldown..</string>
+	<!-- Sinnoh - Route 228 - Ace Trainer Moira - $3,712 -->
+	<string block_id="0" entry_id="1646" table_id="617">\n<!-- Combat --></string>
+	<string block_id="0" entry_id="1644" table_id="617">\n<!-- Victoire --></string>
+	<string block_id="0" entry_id="1645" table_id="617">Cooldown..</string>
+	<!-- Sinnoh - Route 228 - Ace Trainer Jose - $3,712 -->
+	<string block_id="0" entry_id="1626" table_id="617">\n<!-- Combat --></string>
+	<string block_id="0" entry_id="1624" table_id="617">\n<!-- Victoire --></string>
+	<string block_id="0" entry_id="1625" table_id="617">Cooldown..</string>
+
+	<!-- Sinnoh - Route 227 - Ace Trainer Saul - $3,904 -->
+	<string block_id="0" entry_id="1622" table_id="617">\n<!-- Combat --></string>
+	<string block_id="0" entry_id="1620" table_id="617">\n<!-- Victoire --></string>
+	<string block_id="0" entry_id="1621" table_id="617">Cooldown..</string>
+	<!-- Sinnoh - Route 227 - Ranger Felicia - $3,600 -->
+	<string block_id="0" entry_id="1698" table_id="617">\n<!-- Combat --></string>
+	<string block_id="0" entry_id="1696" table_id="617">\n<!-- Victoire --></string>
+	<string block_id="0" entry_id="1697" table_id="617">Cooldown..</string>
+
+	<!-- Sinnoh - Snowpoint City Gym - Ace Trainer Alicia - $3,960 -->
+	<string block_id="0" entry_id="1327" table_id="617">\n<!-- Combat --></string>
+	<string block_id="0" entry_id="1328" table_id="617">\n<!-- Victoire --></string>
+	<string block_id="0" entry_id="1329" table_id="617">Cooldown..</string>
+	<!-- Sinnoh - Snowpoint City Gym - Ace Trainer Anton - $3,960 -->
+	<string block_id="0" entry_id="2329" table_id="617">\n<!-- Combat --></string>
+	<string block_id="0" entry_id="2330" table_id="617">\n<!-- Victoire --></string>
+	<string block_id="0" entry_id="2331" table_id="617">Cooldown..</string>
+	<!-- Sinnoh - Snowpoint City Gym - Ace Trainer Savannah - $3,960 -->
+	<string block_id="0" entry_id="1324" table_id="617">\n<!-- Combat --></string>
+	<string block_id="0" entry_id="1325" table_id="617">\n<!-- Victoire --></string>
+	<string block_id="0" entry_id="1326" table_id="617">Cooldown..</string>
+	<!-- Sinnoh - Snowpoint City Gym - Ace Trainer Isaiah - $3,960 -->
+	<string block_id="0" entry_id="1321" table_id="617">\n<!-- Combat --></string>
+	<string block_id="0" entry_id="1322" table_id="617">\n<!-- Victoire --></string>
+	<string block_id="0" entry_id="1323" table_id="617">Cooldown..</string>
+	<!-- Sinnoh - Snowpoint City Gym - Ace Trainer Sergio - $3,960 -->
+	<string block_id="0" entry_id="1318" table_id="617">\n<!-- Combat --></string>
+	<string block_id="0" entry_id="1319" table_id="617">\n<!-- Victoire --></string>
+	<string block_id="0" entry_id="1320" table_id="617">Cooldown..</string>
+	<!-- Sinnoh - Snowpoint City Gym - Ace Trainer Brenna - $3,960 -->
+	<string block_id="0" entry_id="2332" table_id="617">\n<!-- Combat --></string>
+	<string block_id="0" entry_id="2333" table_id="617">\n<!-- Victoire --></string>
+	<string block_id="0" entry_id="2334" table_id="617">Cooldown..</string>
+</ds_strings_archive>
+
+
+
+
+
+
+
+
+<ds_strings_archive archive_type="0" is_primary="0" lang="fr" region_id="2">
+
+    <!-- only Unys archive_type=0 -->
+
+	<!-- pokémon attrapé envoyé au PC -->
+	<string block_id="0" entry_id="65" table_id="15">Tu as attrapé {00}!</string>
+	<string block_id="0" entry_id="176" table_id="234">{00} Envoyé dans la boite: {01}!</string>
+
+	<!-- un pokémon utilise une capacité hors combat-->
+	<string block_id="0" entry_id="52" table_id="8">\n</string>
+	<string block_id="0" entry_id="53" table_id="8">\n</string>
+	
+	<!-- Aprentissage capacité -->
+	<string block_id="0" entry_id="32" table_id="157">{00} peut apprendre {01}.\nRemplacer une capacité?</string>
+
+	<!-- gain d'xp normal/Multi Exp-->
+	<string block_id="0" entry_id="42" table_id="15">{00} prend {01} Exp</string>
+	<!-- gain d'Exp Réamplificateur -->
+	<string block_id="0" entry_id="43" table_id="15">{00} prend {01} Exp</string> <!-- Lapilou: \n -->
+
+
+	<!-- Cynthia -->
+	<string block_id="0" entry_id="1599" table_id="189"> <!-- Victoire --></string>
+	<!-- Morimotto -->
+	<string block_id="0" entry_id="1342" table_id="189"> <!-- Victoire --></string>
+
+	<!-- GYM LEADERS -->
+	<!-- Ogoesse - Armando (feu) -->
+	<string block_id="0" entry_id="128" table_id="189"> <!-- Victoire --></string>
+	<!-- Ogoesse - Rachid (Plante) - -->
+	<string block_id="0" entry_id="134" table_id="189"> <!-- Victoire --></string>
+	<!-- Ogoesse - Noa (Eau) - -->
+	<string block_id="0" entry_id="131" table_id="189"> <!-- Victoire --></string>
+	<!-- Maillard - Aloé - -->
+	<string block_id="0" entry_id="143" table_id="189"> <!-- Victoire --></string>
+	<!-- Volucité - Artie - -->
+	<string block_id="0" entry_id="151" table_id="189"> <!-- Victoire --></string>
+	<!-- Méanville - Inezia - -->
+	<string block_id="0" entry_id="154" table_id="189"> <!-- Victoire --></string>
+	<!-- Port Yoneuve - Bardane - -->
+	<string block_id="0" entry_id="165" table_id="189"> <!-- Victoire --></string>
+	<!-- Parsemille - Carolina - -->
+	<string block_id="0" entry_id="168" table_id="189"> <!-- Victoire --></string>
+	<!-- Flocombe - Zhu - -->
+	<string block_id="0" entry_id="420" table_id="189"> <!-- Victoire --></string>
+	<!-- Janusia - Iris - -->
+	<string block_id="0" entry_id="423" table_id="189"> <!-- Victoire --></string>
+
+    	<!-- ELITE 4 -->
+	<!-- Anis - -->
+	<string block_id="0" entry_id="1577" table_id="189"> <!-- Victoire --></string>
+	<!-- Pieris - -->
+	<string block_id="0" entry_id="1585" table_id="189"> <!-- Victoire --></string>
+	<!-- Percila - -->
+	<string block_id="0" entry_id="1581" table_id="189"> <!-- Victoire --></string>
+	<!-- Kunz - -->
+	<string block_id="0" entry_id="1589" table_id="189"> <!-- Victoire --></string>
+	<!-- Goyah - -->
+	<string block_id="0" entry_id="1761" table_id="189"> <!-- Victoire --></string>
+
+	<!-- Unys "dresseur re-run" A TRAD -->
+	<!-- Shopping Mall - Lady Isabel - $4080 -->
+	<string block_id="0" entry_id="467" table_id="189"> <!-- Combat --></string>
+	<string block_id="0" entry_id="468" table_id="189"> <!-- Victoire--></string>
+	<string block_id="0" entry_id="469" table_id="189">Cooldown..</string>
+	<!-- Unys - Shopping Mall - Rich Boy - $4080 -->
+	<string block_id="0" entry_id="464" table_id="189"> <!-- Combat --></string>
+	<string block_id="0" entry_id="465" table_id="189"> <!-- Victoire --></string>
+	<string block_id="0" entry_id="466" table_id="189">Cooldown..</string>
+	<!-- Unys - Route 10 - Ace Trainer Johan - $2,968 -->
+	<string block_id="0" entry_id="321" table_id="189"> <!-- Combat --></string>
+	<string block_id="0" entry_id="322" table_id="189"> <!-- Victoire --></string>
+	<string block_id="0" entry_id="323" table_id="189">Cooldown..</string>
+	<!-- Unys - Route 10 - Veteran Karla - $3,300 -->
+	<string block_id="0" entry_id="540" table_id="189"> <!-- Combat --></string>
+	<string block_id="0" entry_id="541" table_id="189"> <!-- Victoire --></string>
+	<string block_id="0" entry_id="542" table_id="189">Cooldown..</string>
+	<!-- Unys - Route 10 - Ace Trainer Cheyenne - $2,968 -->
+	<string block_id="0" entry_id="333" table_id="189"> <!-- Combat --></string>
+	<string block_id="0" entry_id="334" table_id="189"> <!-- Victoire --></string>
+	<string block_id="0" entry_id="335" table_id="189">Cooldown..</string>
+	<!-- Unys - Route 10 - Veteran Chester - $3,300 -->
+	<string block_id="0" entry_id="537" table_id="189"> <!-- Combat --></string>
+	<string block_id="0" entry_id="538" table_id="189"> <!-- Victoire  --></string>
+	<string block_id="0" entry_id="539" table_id="189">Cooldown..</string>
+	<!-- Unys - Route 13 - Socialite Marian - $5,400 -->
+	<string block_id="0" entry_id="1483" table_id="189"> <!-- Combat --></string>
+	<string block_id="0" entry_id="1484" table_id="189"> <!-- Victoire --></string>
+	<string block_id="0" entry_id="1485" table_id="189">Cooldown..</string>
+	<!-- Unys - Route 13 - Gentleman Yan - $5,400 -->
+	<string block_id="0" entry_id="1477" table_id="189"> <!-- Combat --></string>
+	<string block_id="0" entry_id="1478" table_id="189"> <!-- Victoire --></string>
+	<string block_id="0" entry_id="1479" table_id="189">Cooldown..</string>
+</ds_strings_archive>
+
+
+
+
+
+
+
+
+
+<ds_strings_archive archive_type="1" is_primary="0" lang="fr" region_id="2">
+
+	<!-- Peche -->
+    <string block_id="0" entry_id="3" table_id="263">!</string>
+    <string block_id="0" entry_id="4" table_id="263">..</string>
+
+	<!-- Reveil Fossile -->
+	<string block_id="0" entry_id="0" table_id="285"> <!-- Salutation --></string>
+	<string block_id="0" entry_id="1" table_id="285">Reveil de fossile?</string>
+	<string block_id="0" entry_id="2" table_id="285">Quel fossile??</string>
+	<string block_id="0" entry_id="3" table_id="285">Attend.<!-- accept --></string>
+	<string block_id="0" entry_id="4" table_id="285"> <!-- decline --></string>
+	<string block_id="0" entry_id="6" table_id="285">GG.</string>
+	<string block_id="0" entry_id="7" table_id="285"> <!-- collected pokemon --></string>
+	<string block_id="0" entry_id="8" table_id="285">Surnom?</string>
+	<string block_id="0" entry_id="9" table_id="285">Equipe pleine.</string>
+	<string block_id="0" entry_id="10" table_id="285">Apporte moi un fossile.</string>
+
+	<!-- Centre pokémon-->
+	<string block_id="0" entry_id="0" table_id="346">Soins?</string>
+	<string block_id="0" entry_id="1" table_id="346"> </string>
+	<string block_id="0" entry_id="2" table_id="346"> </string>
+	<string block_id="0" entry_id="6" table_id="346"> </string>
+	<string block_id="0" entry_id="7" table_id="346"> </string>
+	<string block_id="0" entry_id="8" table_id="346"> </string>
+	<string block_id="0" entry_id="9" table_id="346"> </string>
+
+	<!-- Soins maman -->
+	<string block_id="0" entry_id="15" table_id="429">Soins? <!-- TA --></string>
+	<string block_id="0" entry_id="14" table_id="429"> <!-- MAMAN --></string>
+	<string block_id="0" entry_id="17" table_id="429"> <!-- EST UNE --></string>
+	<string block_id="0" entry_id="18" table_id="429"> <!-- MERE --></string>
+	<string block_id="0" entry_id="19" table_id="429"> <!-- POULE --></string>
+	<string block_id="0" entry_id="20" table_id="429"> <!-- QUI T'AIME --></string>
+
+	<!-- Vendeurs -->
+	<string block_id="0" entry_id="0" table_id="424"> <!-- Shop --></string>
+	<string block_id="0" entry_id="3" table_id="424"> <!-- Au revoir --></string>
+
+	<!-- Centre commercial -->
+	<string block_id="0" entry_id="0" table_id="424"> <!-- Shop Pokeballs --></string>
+	<string block_id="0" entry_id="3" table_id="424"> <!-- Au revoir Pokeballs --></string>
+	<string block_id="0" entry_id="1" table_id="424"> <!-- Shop CT --></string>
+	<string block_id="0" entry_id="2" table_id="424"> <!-- Au revoir CT --></string>
+
+	<!-- Oeufs messages -->
+	<string block_id="0" entry_id="7" table_id="426"> <!-- Oeuf reçu --></string>
+	<string block_id="0" entry_id="8" table_id="426"> <!-- Prends en soins --></string>
+	<string block_id="0" entry_id="9" table_id="426">Ton equipe est pleine.</string>
+
+	<!-- CT -->
+	<string block_id="0" entry_id="0" table_id="280">Coupe?</string>
+	<string block_id="0" entry_id="1" table_id="280"> <!-- Coupe --></string>
+	<string block_id="0" entry_id="2" table_id="280">Il ne se passe rien.</string>
+
+	<string block_id="0" entry_id="6" table_id="280">Strength?</string>
+	<string block_id="0" entry_id="10" table_id="280"> <!-- used strength --></string>
+	<string block_id="0" entry_id="8" table_id="280">Il ne se passe rien.</string>
+
+	<string block_id="0" entry_id="13" table_id="280">Surf?</string>
+	<string block_id="0" entry_id="14" table_id="280"> <!-- used surf --></string>
+
+	<string block_id="0" entry_id="23" table_id="280">Waterfall?</string>
+	<string block_id="0" entry_id="24" table_id="280"> <!-- used waterfall --></string>
+	<string block_id="0" entry_id="25" table_id="280">Il ne se passe rien.</string>
+
+	<string block_id="0" entry_id="31" table_id="280">Dive?</string>
+	<string block_id="0" entry_id="32" table_id="280"> <!-- used dive --></string>
+	<string block_id="0" entry_id="30" table_id="280">Il ne se passe rien.</string>
+
+	<string block_id="0" entry_id="27" table_id="280"> <!-- flash --></string>
+	<string block_id="0" entry_id="28" table_id="280"> <!-- teleport --></string>
+	<string block_id="0" entry_id="29" table_id="280"> <!-- Tunnel --></string>
+	<string block_id="0" entry_id="9" table_id="280"> <!-- Force --></string>
+	<string block_id="0" entry_id="11" table_id="280"> <!-- Force --></string>
+
+	<!-- Cynthia -->
+	<string block_id="0" entry_id="9" table_id="456">Je te défonce?<!-- Combat --></string>
+	<string block_id="0" entry_id="15" table_id="456"> <!-- Combat v2 --></string>
+	<string block_id="0" entry_id="10" table_id="456"> <!-- Oui --></string>
+	<string block_id="0" entry_id="11" table_id="456">Au revoir.<!-- No --></string>
+	<string block_id="0" entry_id="13" table_id="456">Cooldown..</string>
+	<string block_id="0" entry_id="18" table_id="456"> <!-- Victoire v2 --></string>
+
+	<!-- Morimotto -->
+	<string block_id="0" entry_id="8" table_id="261">Etage?<!-- Ascenseur --></string>
+	<string block_id="0" entry_id="9" table_id="53">Je te défonce?<!-- Combat --></string>
+	<string block_id="0" entry_id="10" table_id="53"> <!-- Oui --></string>
+	<string block_id="0" entry_id="12" table_id="53">A+ refré.<!-- Non --></string>
+	<string block_id="0" entry_id="11" table_id="53">Cooldown..</string>
+
+	<!-- Gym Leaders -->
+	<!-- combat text located in zz_strings_en_PokeStrings_IRB_0.xml -->
+	<!--  Ogoesse - Armando (feu) -->
+	<string block_id="0" entry_id="11" table_id="12"> <!-- Combat --></string>
+	<string block_id="0" entry_id="29" table_id="12">Cooldown...</string>
+	<!--  Ogoesse - Rachid (plante) -->
+	<string block_id="0" entry_id="12" table_id="12"> <!-- Combat --></string>
+	<string block_id="0" entry_id="28" table_id="12">Cooldown...</string>
+	<!--  Ogoesse - Noa (eau) -->
+	<string block_id="0" entry_id="13" table_id="12"> <!-- Combat --></string>
+	<string block_id="0" entry_id="30" table_id="12">Cooldown...</string>
+	<!--  Maillard - Aloé -->
+	<string block_id="0" entry_id="0" table_id="24"> <!-- Combat --></string>
+	<string block_id="0" entry_id="9" table_id="24">Cooldown...</string>
+	<!--  Volucité - Artie -->
+	<string block_id="0" entry_id="9" table_id="34"> <!-- Annoying switch I always hit --></string>
+	<string block_id="0" entry_id="0" table_id="34"> <!-- Combat --></string>
+	<string block_id="0" entry_id="6" table_id="34">Cooldown...</string>
+	<!--  Méanville - Inezia -->
+	<string block_id="0" entry_id="0" table_id="68"> <!-- Combat --></string>
+	<string block_id="0" entry_id="7" table_id="68">Cooldown...</string>
+	<!--  Port Yoneuve - Bardane -->
+	<string block_id="0" entry_id="0" table_id="102"> <!-- Combat --></string>
+	<string block_id="0" entry_id="6" table_id="102">Cooldown...</string>
+	<!--  Parsemille - Carolina -->
+	<string block_id="0" entry_id="0" table_id="113"> <!-- Combat --></string>
+	<string block_id="0" entry_id="6" table_id="113">Cooldown...</string>
+	<!--  Flocombe - Zhu -->
+	<string block_id="0" entry_id="0" table_id="119"> <!-- Combat --></string>
+	<string block_id="0" entry_id="7" table_id="119">Cooldown...</string>
+	<!--  Janusia - Iris -->
+	<string block_id="0" entry_id="0" table_id="126"> <!-- Combat --></string>
+	<string block_id="0" entry_id="6" table_id="126">Cooldown...</string>
+
+	<!-- ELITE 4 -->
+	<!-- combat text located in zz_strings_en_PokeStrings_IRB_0.xml -->
+	<!--  Elite 4 - Gardien -->
+	<string block_id="0" entry_id="4" table_id="141">Bon chance!</string>
+
+	<!--  Elite 4 - Pillar/Door AUCUNE IDEE DE CE QUE C'EST -->
+	<string block_id="0" entry_id="0" table_id="142">SW: Anis\nNW: Pieris\nNE: Percila\nSE: Kunz</string>
+	<string block_id="0" entry_id="0" table_id="143">Gagne ou perd pour partir.</string>
+
+	<!--  Elite 4 - Anis - SW -->
+	<string block_id="0" entry_id="4" table_id="145"> <!-- Combat - Anneau hydro --></string>
+	<string block_id="0" entry_id="5" table_id="145"> <!-- Combat - Tonnerre --></string>
+	<string block_id="0" entry_id="6" table_id="145"> <!-- Combat - trop puissante --></string>
+	<string block_id="0" entry_id="7" table_id="145"> <!-- Combat - ez --></string>
+	<string block_id="0" entry_id="8" table_id="145"> <!-- Combat - elle va reduire tes espoir a néant --></string>
+	<string block_id="0" entry_id="9" table_id="145"> <!-- Victoire --></string>
+	<string block_id="0" entry_id="10" table_id="145">Cooldown..<!-- E4 pas finis --></string>
+	<string block_id="0" entry_id="11" table_id="145">Cooldown..<!-- E4 Finis --></string>
+	<!--  Elite 4 - Pieris - NW -->
+	<string block_id="0" entry_id="4" table_id="146"> <!-- Combat --></string>
+	<string block_id="0" entry_id="5" table_id="146"> <!-- Victoire E4 pas finis --></string>
+	<string block_id="0" entry_id="7" table_id="146"> <!-- Victoire E4 Finis --></string>
+	<string block_id="0" entry_id="6" table_id="146">Cooldown..</string>
+	<!--  Elite 4 - Percila - NE -->
+	<string block_id="0" entry_id="4" table_id="148"> <!-- Combat --></string>
+	<string block_id="0" entry_id="5" table_id="148"> <!-- Victoire E4 pas finis --></string>
+	<string block_id="0" entry_id="7" table_id="148"> <!-- Victoire E4 Finis --></string>
+	<string block_id="0" entry_id="6" table_id="148">Cooldown..</string>
+	<!--  Elite 4 - Kunz - SE -->
+	<string block_id="0" entry_id="4" table_id="147"> <!-- Combat --></string>
+	<string block_id="0" entry_id="5" table_id="147"> <!-- Victoire E4 pas finis --></string>
+	<string block_id="0" entry_id="7" table_id="147"> <!-- Victoire E4 Finis --></string>
+	<string block_id="0" entry_id="6" table_id="147">Cooldown..</string>
+	<!--  Elite 4 - Goyah -->
+	<string block_id="0" entry_id="23" table_id="149"> <!-- Combat --></string>
+	<string block_id="0" entry_id="24" table_id="149"> <!-- Viens avec moi --></string>
+	<string block_id="0" entry_id="1" table_id="150"> <!-- J'aime cette endroit --></string>
+	<string block_id="0" entry_id="2" table_id="150"> <!-- Bon ben.. --></string>
+	<string block_id="0" entry_id="4" table_id="150"> <!-- T'es un pgm maintenant --></string>
+</ds_strings_archive>
+
