@@ -6,7 +6,7 @@
 
 Dialogues de Pokémmo personnalisés pour gagner du temps. Gilan's Ecounter Counter marche avec ces strings. Aucun des strings ne supprime les dialogues de Pokemmo, vous pouvez faire les mises a jours sans craintes. J'utilise des traductions Français/anglais des natures, villes et emplacements importants. J'aurais aimé rajouter une traduction de tout le pokédex exemple: Miaous (Meowth). Mais Gilian encounter Counter utilise les strings de nom de pokémon pour compter. La traduction l'empêche d'en compter certain.
 
-## Installation
+## Installation Windows
 
 **Les strings seront directement installés sur la langue Française du jeu.**
 
@@ -14,7 +14,19 @@ Dialogues de Pokémmo personnalisés pour gagner du temps. Gilan's Ecounter Coun
 2. Enlever tout les strings déjà customisés dans votre dossier ```...\pokeMMO\Data\strings```
 3. Décompresser le fichier téléchargé.
 4. Copier tout les fichiers XML et les mettre dans  ```...\pokeMMO\Data\strings```.
-5. Si vous ne voulez pas certaines ou toutes les traductions typé "Français (Anglais)" des natures, de la carte et des baies. Vous pouvez retirer les fichiers: ```zz_TraductionNature_string_fr_larks.xml``` , ```zz_TraductionMap_strings_fr_larks.xml``` et ```zz_TraductionBaies_strings_fr_larks.xml```
+5. Si vous ne voulez pas certaines ou toutes les traductions typé "Français (Anglais)" des natures, de la carte et des baies. Vous pouvez retirer les fichiers: ```z_TraductionNature_fr_larks.xml``` , ```z_TraductionMap_fr_larks.xml``` et ```z_TraductionBaies_fr_larks.xml```
+
+## Installation Android
+
+**Les strings seront directement installés sur la langue Française du jeu.**
+
+1. Mettre le jeu en Français.
+2. Aller dans gestion de client sur l'écran de connexion.
+3. Appuyer sur "Effacer les Strings Importées"
+4. Aller sur importer le fichier de Strings. Ouvrir le dossier zip telechargé (Dézippez le si votre telephone ne le fait pas tout seul) et cliquer sur le fichier ```z_fr_Android_larks.xml```
+
+**Le jeu sous Android ne semble accepter qu'un seul fichier de Strings à la fois**
+
 
 ## Features
 - [x] Hoenn changement Vélo.
