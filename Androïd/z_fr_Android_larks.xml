@@ -480,8 +480,6 @@
 	<string id="1544611">\n<!-- trop bien pokemon oé --></string>
 	<string id="1544751">\n<!-- Panthéon ! --></string>
 
-</strings>
-
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <ds_strings_archive archive_type="0" is_primary="0" lang="fr" region_id="4">
 
@@ -642,3 +640,5 @@
     <string block_id="0" entry_id="0" table_id="528">\n<!-- Et c'est--></string>
     <string block_id="0" entry_id="1" table_id="528">\n<!-- Le pantéon GG--></string>
 </ds_strings_archive>
+
+</strings>
