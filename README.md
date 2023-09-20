@@ -6,8 +6,6 @@
 
 Dialogues de Pokémmo personnalisés pour gagner du temps. Gilan's Ecounter Counter marche avec ces strings. Aucun des strings ne supprime les dialogues de Pokemmo, vous pouvez faire les mises a jours sans craintes. J'utilise des traductions Français/anglais des natures, villes et emplacements importants. J'aurais aimé rajouter une traduction de tout le pokédex exemple: Miaous (Meowth). Mais Gilian encounter Counter utilise les strings de nom de pokémon pour compter. La traduction l'empêche d'en compter certain.
 
-Devrais marcher sur la version Androïde de pokeMMO (plus de test soon, feedback apprecié)
-
 ## Installation
 
 **Les strings seront directement installés sur la langue Française du jeu.**
@@ -67,6 +65,7 @@ Devrais marcher sur la version Androïde de pokeMMO (plus de test soon, feedback
 - [x] Traduction Français (anglais) des natures.
 - [x] Traduction Français (anglais) des villes et emplacements importants.
 - [x] Traduction Français (anglais) des Baies.
+- [x] Android
 - [ ] Je mettrais à jour les Dialogues d'Event au fur et a mesure de leur mise en place
 
 ## Special thanks to
