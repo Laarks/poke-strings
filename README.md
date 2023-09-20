@@ -23,7 +23,7 @@ Dialogues de Pokémmo personnalisés pour gagner du temps. Gilan's Ecounter Coun
 1. Mettre le jeu en Français.
 2. Aller dans gestion de client sur l'écran de connexion.
 3. Appuyer sur "Effacer les Strings Importées"
-4. Aller sur importer le fichier de Strings. Ouvrir le dossier zip telechargé (Dézippez le si votre telephone ne le fait pas tout seul) et cliquer sur le fichier ```z_fr_Android_larks.xml```
+4. Aller sur importer le fichier de Strings. Ouvrir le dossier .zip telechargé (Dézippez le si votre telephone ne le fait pas tout seul) et cliquez sur le fichier ```z_fr_Android_larks.xml```
 
 **Le jeu sous Android ne semble accepter qu'un seul fichier de Strings à la fois**
 
