@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<strings is_primary="0" lang="fr" lang_full="Français (French)">
-
-<!-- Usefull global stuff that i cannot put elsewhere -->
-
+<strings is_override="0" is_primary="0" lang="fr">
 	<!-- Changement de Resume rapide de l'equipe en sac-->
 	<string id="5121">Utilise des objets.</string>
 
