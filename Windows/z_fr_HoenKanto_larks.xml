@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<strings is_primary="0" lang="fr" lang_full="Français (French)">*
+<strings is_override="0" is_primary="0" lang="fr">
 
 <!-- Usefull global stuff that i cannot put elsewhere -->
 
@@ -200,6 +200,7 @@
 
 	<string id="16780320">\n</string>
 	<string id="16780321">Presque inondé.</string>
+	<string id="16780324">\n</string>
 	<string id="16780326">\n<!-- Planter? --></string>
 	<string id="16780327">\n<!-- Arroser? --></string>
 	<string id="16780328">\n</string>

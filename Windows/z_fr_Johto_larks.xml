@@ -7,7 +7,7 @@
 	
 	<!-- Centre pokémon -->
 	<string block_id="0" entry_id="83" table_id="40">\n<!-- Salutation --></string>
-	<string block_id="0" entry_id="84" table_id="40">Soins?<!-- Salutation --></string>
+	<string block_id="0" entry_id="84" table_id="40">\n<!-- Soins? --></string>
 	<string block_id="0" entry_id="0" table_id="40">\n<!-- Salutation --></string>
 	<string block_id="0" entry_id="1" table_id="40">\n<!-- Oui --></string>
 	<string block_id="0" entry_id="2" table_id="40">\n<!-- pokémon soigné --></string>
