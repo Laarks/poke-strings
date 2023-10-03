@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <ds_strings_archive archive_type="1" is_primary="0" lang="fr" region_id="2">
 
+	   <!-- only Unys archive_type=1 -->
+
 	<!-- Peche -->
     <string block_id="0" entry_id="3" table_id="263">!</string>
     <string block_id="0" entry_id="4" table_id="263">..</string>

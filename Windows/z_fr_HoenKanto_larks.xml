@@ -45,7 +45,7 @@
 	<string id="16780151">{01}, Tu as du courrier!</string>
 
 	<!-- Maman changement de région -->
-	<string id="16780130">Tu t'es fail frérot {00}?</string>
+	<string id="16780130">Tu veux retourner à {00}?</string>
 
 	<!-- Region Ferry -->
 	<string id="16780100">Région?<!-- Bonjour --></string>
