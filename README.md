@@ -13,7 +13,7 @@ Dialogues de Pokémmo personnalisés pour gagner du temps. Gilan's Ecounter Coun
 1. Mettre le jeu en Français.
 2. Enlever tout les strings déjà customisés dans votre dossier ```...\pokeMMO\Data\strings```
 3. Décompresser le fichier téléchargé.
-4. Copier tout les fichiers XML et les mettre dans  ```...\pokeMMO\Data\strings```.
+4. Copier tout les fichiers .XML et les mettre dans  ```...\pokeMMO\Data\strings```.
 5. Si vous ne voulez pas certaines ou toutes les traductions typé "Français (Anglais)" des natures, de la carte et des baies. Vous pouvez retirer les fichiers: ```z_TraductionNature_fr_larks.xml``` , ```z_TraductionMap_fr_larks.xml``` et ```z_TraductionBaies_fr_larks.xml```
 
 ## Installation Android
@@ -23,9 +23,8 @@ Dialogues de Pokémmo personnalisés pour gagner du temps. Gilan's Ecounter Coun
 1. Mettre le jeu en Français.
 2. Aller dans gestion de client sur l'écran de connexion.
 3. Appuyer sur "Effacer les Strings Importées"
-4. Aller sur importer le fichier de Strings. Ouvrir le dossier .zip telechargé (Dézippez le si votre telephone ne le fait pas tout seul) et cliquez sur le fichier ```z_fr_Android_larks.xml```
-
-**Le jeu sous Android ne semble accepter qu'un seul fichier de Strings à la fois**
+4. Aller sur importer le fichier de Strings. Ouvrir le dossier .zip telechargé (Dézippez le si votre telephone ne le fait pas tout seul) et cliquez sur tout les fichiers en .XML
+5. Si vous ne voulez pas certaines ou toutes les traductions typé "Français (Anglais)" des natures, de la carte et des baies. Vous pouvez ne pas cliquer sur les fichiers: ```z_TraductionNature_fr_larks.xml``` , ```z_TraductionMap_fr_larks.xml``` et ```z_TraductionBaies_fr_larks.xml```
 
 
 ## Features

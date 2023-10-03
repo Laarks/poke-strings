@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ds_strings_archive archive_type="0" lang="fr" region_id="2">
+<ds_strings_archive archive_type="0" is_primary="0" lang="fr" region_id="2">
     <string block_id="0" entry_id="0" table_id="24">Hardi (hardy)</string>
     <string block_id="0" entry_id="1" table_id="24">Solo (Lonely)</string>
     <string block_id="0" entry_id="2" table_id="24">Brave (Brave)</string>

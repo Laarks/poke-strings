@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<strings is_primary="0" lang="fr" lang_full="Français (French)">
+<strings is_override="0" is_primary="0" lang="fr">
 
     <!-- Kanto-->
     <string id="140000">BOURG PALETTE (PALLET TOWN)</string>
