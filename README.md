@@ -24,7 +24,7 @@ Dialogues de Pokémmo personnalisés pour gagner du temps. Gilan's Ecounter Coun
 2. Aller dans gestion de client sur l'écran de connexion.
 3. Appuyer sur "Effacer les Strings Importées"
 4. Aller sur importer le fichier de Strings. Ouvrir le dossier .zip telechargé (Dézippez le si votre telephone ne le fait pas tout seul) et cliquez sur tout les fichiers en .XML
-5. Si vous ne voulez pas certaines ou toutes les traductions typé "Français (Anglais)" des natures, de la carte et des baies. Vous pouvez ne pas cliquer sur les fichiers: ```z_TraductionNature_fr_larks.xml``` , ```z_TraductionMap_fr_larks.xml``` et ```z_TraductionBaies_fr_larks.xml```
+5. Si vous ne voulez pas certaines ou toutes les traductions typé "Français (Anglais)" des natures, de la carte et des baies. Vous devrez ouvrir les fichiers ```z_fr_HoennKanto_larks.xml``` et ```z_fr_Unys0_larks.xml``` pour supprimer les lignes de traductions. Ce n'est cependant pas recommandé.
 
 
 ## Features
@@ -76,7 +76,7 @@ Dialogues de Pokémmo personnalisés pour gagner du temps. Gilan's Ecounter Coun
 - [x] Traduction Français (anglais) des natures.
 - [x] Traduction Français (anglais) des villes et emplacements importants.
 - [x] Traduction Français (anglais) des Baies.
-- [] Android
+- [x] Android
 - [ ] Je mettrais à jour les Dialogues d'Event au fur et a mesure de leur mise en place
 
 ## Special thanks to
