@@ -2,11 +2,36 @@
 <strings is_primary="0" lang="fr">
 
 <!-- Haloween -->
-    <!-- "better" halloween strings ; thanks nurver, pas traduis je verrais quand les events seront là pour faire mes tests -->
-	<string id="101608">Restores 25% HP when eaten.\nWhen fighting Pumpking, clears\nstat modifications from allied field.</string>
-	<string id="101609">Restores 25% HP when eaten.\nWhen fighting Pumpking, grants the ability {STRING_210064}\nand causes attacks to drain their target. Lasts 5 turns.</string>
-	<string id="101610">Restores 25% HP when eaten.\nWhen fighting Pumpking, heals the\nallied field by 33%.</string>
-	<string id="101611">Restores 25% HP when eaten.\nWhen fighting Pumpking, heals the\nallied field of status ailments.</string>
-	<string id="101612">Restores 25% HP when eaten.\nWhen fighting Pumpking, doubles\nallied field's speed. Lasts 4 turns.</string>
+	<!-- Pump talk-->
+    <string id="16800040">Nourrir?</string>a
+	<!-- Mini bosses-->
+	<string id="16800210">Mini-boss? (tu gagne des bonbons Spéciaux)</string>
+	<!-- kid catch line-->
+	<string id="16800025">Des bonbons ou une farce !</string>
+    <string id="16800026">Bouh!</string>
+    <string id="16800027">Joyeux Halloween!</string>
+	<!-- kid end of battle lines -->
+	<string id="16800024">\n</string>
+	<string id="16800024">\n</string>
+	<!--kids victory line-->
+	<string id="16800028">Tout est juste, tiens.</string>
+	<!-- kids loose line-->
+	<string id="16800023">Tu t'es fait avoir!</string>
+	<!-- No more candies-->
+	<string id="16800029">J'ai plus de bonbons!</string>
+	<!-- traduction error-->
+	<string id="16800041">{01} jete le Bonbon spécial dedans.</string>
+	<!-- Pump boss easy mode-->
+	<string id="16800030">Phase 1</string>
+    <string id="16800031">\n</string>
+    <string id="16800032">Phase 2</string>
+    <string id="16800033">\n</string>
+    <string id="16800034">Phase 3</string>
+    <string id="16800035">Hmph... Tu m'as battu cette fois,\nmais je reviendrai !</string>
+	<string id="16800037">\n</string>
 
+	<!-- Pump boss hard mode-->
+	<string id="16800043">Phase 1</string>
+    <string id="16800044">Phase 2</string>
+    <string id="16800045">Phase 3</string>
 </strings>
