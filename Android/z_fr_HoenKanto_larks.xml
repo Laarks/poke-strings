@@ -785,4 +785,37 @@
     <string id="144232">Tour Enfouie (Embedded Tower)</string>
     <string id="144234">Portail Falaise (Cliff Edge Gate)</string>
 
+<!-- Haloween Event-->
+	<!-- Pump talk-->
+    <string id="16800040">Nourrir?</string>a
+	<!-- Mini bosses-->
+	<string id="16800210">Mini-boss? (tu gagne des bonbons Spéciaux)</string>
+	<!-- kid catch line-->
+	<string id="16800025">Des bonbons ou une farce !</string>
+    <string id="16800026">Bouh!</string>
+    <string id="16800027">Joyeux Halloween!</string>
+	<!-- kid end of battle lines -->
+	<string id="16800024">\n</string>
+	<string id="16800024">\n</string>
+	<!--kids victory line-->
+	<string id="16800028">Tout est juste, tiens.</string>
+	<!-- kids loose line-->
+	<string id="16800023">Tu t'es fait avoir!</string>
+	<!-- No more candies-->
+	<string id="16800029">J'ai plus de bonbons!</string>
+	<!-- traduction error-->
+	<string id="16800041">{01} jete le Bonbon spécial dedans.</string>
+	<!-- Pump boss easy mode-->
+	<string id="16800030">Phase 1</string>
+    <string id="16800031">\n</string>
+    <string id="16800032">Phase 2</string>
+    <string id="16800033">\n</string>
+    <string id="16800034">Phase 3</string>
+    <string id="16800035">Hmph... Tu m'as battu cette fois,\nmais je reviendrai !</string>
+	<string id="16800037">\n</string>
+
+	<!-- Pump boss hard mode-->
+	<string id="16800043">Phase 1</string>
+    <string id="16800044">Phase 2</string>
+    <string id="16800045">Phase 3</string>
 </strings>
