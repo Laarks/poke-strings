@@ -121,6 +121,7 @@
 
 	<!-- E4 Johto-->
 	<!-- Gardien-->
+	<string block_id="0" entry_id="5" table_id="522">\n</string>
     <string block_id="0" entry_id="6" table_id="522">\n<!-- Si tu entre tu pourras plus reculer--></string>
 
 	<!-- Clément -->
@@ -148,6 +149,8 @@
     <string block_id="0" entry_id="2" table_id="527">\n<!-- Victory--></string>
     <string block_id="0" entry_id="3" table_id="527">\n<!-- Victory--></string>
     <string block_id="0" entry_id="4" table_id="527">\n<!-- Victory--></string>
+	<string block_id="0" entry_id="234" table_id="728">\n<!-- Victory fight--></string>
+	<string block_id="0" entry_id="249" table_id="728">\n<!-- Victory fight--></string>
     <string block_id="0" entry_id="5" table_id="527">\n<!-- Lula est déçue--></string>
     <string block_id="0" entry_id="6" table_id="527">\n<!-- Le prof Chen--></string>
     <string block_id="0" entry_id="7" table_id="527">\n<!-- Te fait une belle fellation--></string>
