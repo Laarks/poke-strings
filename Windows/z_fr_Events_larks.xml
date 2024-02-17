@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <strings is_primary="0" lang="fr">
 
-<!-- Haloween -->
+<!-- Halloween 2023-->
 	<!-- Pump talk-->
     <string id="16800040">Nourrir?</string>a
 	<!-- Mini bosses-->
@@ -34,4 +34,20 @@
 	<string id="16800043">Phase 1</string>
     <string id="16800044">Phase 2</string>
     <string id="16800045">Phase 3</string>
+
+<!-- New lunar year 2024-->
+	<!-- old woman -->
+	<string id="16805082">Apporte moi un pokémon.</string>
+		<!-- Give her a pokemon -->
+		<string id="16805085">\n</string>
+		<!-- Wrong Pokemon -->
+		<string id="16805091">Pokémon non valide</string>
+		<!-- Are you sure ?-->
+		<string id="16805084">Tu es sur ?</string>
+		<!-- thnx with missing Pokemons -->
+		<string id="16805083">{00} pour la prochaine récompense.</string>
+		<!-- thnx with gift -->
+		<string id="16805092">\n</string>
+		<!-- Again?-->
+		<string id="16805093">Encore ?</string>
 </strings>
