@@ -21,75 +21,75 @@
 
 
 	<!-- Cynthia -->
-	<string block_id="0" entry_id="1599" table_id="189"> <!-- Victoire --></string>
+	<string block_id="0" entry_id="1599" table_id="189">\n<!-- Victoire --></string>
 	<!-- Morimotto -->
-	<string block_id="0" entry_id="1342" table_id="189"> <!-- Victoire --></string>
+	<string block_id="0" entry_id="1342" table_id="189">\n<!-- Victoire --></string>
 
 	<!-- GYM LEADERS -->
 	<!-- Ogoesse - Armando (feu) -->
-	<string block_id="0" entry_id="128" table_id="189"> <!-- Victoire --></string>
+	<string block_id="0" entry_id="128" table_id="189">\n<!-- Victoire --></string>
 	<!-- Ogoesse - Rachid (Plante) - -->
-	<string block_id="0" entry_id="134" table_id="189"> <!-- Victoire --></string>
+	<string block_id="0" entry_id="134" table_id="189">\n<!-- Victoire --></string>
 	<!-- Ogoesse - Noa (Eau) - -->
-	<string block_id="0" entry_id="131" table_id="189"> <!-- Victoire --></string>
+	<string block_id="0" entry_id="131" table_id="189">\n<!-- Victoire --></string>
 	<!-- Maillard - Aloé - -->
-	<string block_id="0" entry_id="143" table_id="189"> <!-- Victoire --></string>
+	<string block_id="0" entry_id="143" table_id="189">\n<!-- Victoire --></string>
 	<!-- Volucité - Artie - -->
-	<string block_id="0" entry_id="151" table_id="189"> <!-- Victoire --></string>
+	<string block_id="0" entry_id="151" table_id="189">\n<!-- Victoire --></string>
 	<!-- Méanville - Inezia - -->
-	<string block_id="0" entry_id="154" table_id="189"> <!-- Victoire --></string>
+	<string block_id="0" entry_id="154" table_id="189">\n<!-- Victoire --></string>
 	<!-- Port Yoneuve - Bardane - -->
-	<string block_id="0" entry_id="165" table_id="189"> <!-- Victoire --></string>
+	<string block_id="0" entry_id="165" table_id="189">\n<!-- Victoire --></string>
 	<!-- Parsemille - Carolina - -->
-	<string block_id="0" entry_id="168" table_id="189"> <!-- Victoire --></string>
+	<string block_id="0" entry_id="168" table_id="189">\n<!-- Victoire --></string>
 	<!-- Flocombe - Zhu - -->
-	<string block_id="0" entry_id="420" table_id="189"> <!-- Victoire --></string>
+	<string block_id="0" entry_id="420" table_id="189">\n<!-- Victoire --></string>
 	<!-- Janusia - Iris - -->
-	<string block_id="0" entry_id="423" table_id="189"> <!-- Victoire --></string>
+	<string block_id="0" entry_id="423" table_id="189">\n<!-- Victoire --></string>
 
     	<!-- ELITE 4 -->
 	<!-- Anis - -->
-	<string block_id="0" entry_id="1577" table_id="189"> <!-- Victoire --></string>
+	<string block_id="0" entry_id="1577" table_id="189">\n<!-- Victoire --></string>
 	<!-- Pieris - -->
-	<string block_id="0" entry_id="1585" table_id="189"> <!-- Victoire --></string>
+	<string block_id="0" entry_id="1585" table_id="189">\n<!-- Victoire --></string>
 	<!-- Percila - -->
-	<string block_id="0" entry_id="1581" table_id="189"> <!-- Victoire --></string>
+	<string block_id="0" entry_id="1581" table_id="189">\n<!-- Victoire --></string>
 	<!-- Kunz - -->
-	<string block_id="0" entry_id="1589" table_id="189"> <!-- Victoire --></string>
+	<string block_id="0" entry_id="1589" table_id="189">\n<!-- Victoire --></string>
 	<!-- Goyah - -->
-	<string block_id="0" entry_id="1761" table_id="189"> <!-- Victoire --></string>
+	<string block_id="0" entry_id="1761" table_id="189">\n<!-- Victoire --></string>
 
 	<!-- Unys "dresseur re-run" A TRAD -->
 	<!-- Shopping Mall - Lady Isabel - $4080 -->
-	<string block_id="0" entry_id="467" table_id="189"> <!-- Combat --></string>
-	<string block_id="0" entry_id="468" table_id="189"> <!-- Victoire--></string>
+	<string block_id="0" entry_id="467" table_id="189">\n<!-- Combat --></string>
+	<string block_id="0" entry_id="468" table_id="189">\n<!-- Victoire--></string>
 	<string block_id="0" entry_id="469" table_id="189">Cooldown..</string>
 	<!-- Unys - Shopping Mall - Rich Boy - $4080 -->
-	<string block_id="0" entry_id="464" table_id="189"> <!-- Combat --></string>
-	<string block_id="0" entry_id="465" table_id="189"> <!-- Victoire --></string>
+	<string block_id="0" entry_id="464" table_id="189">\n<!-- Combat --></string>
+	<string block_id="0" entry_id="465" table_id="189">\n<!-- Victoire --></string>
 	<string block_id="0" entry_id="466" table_id="189">Cooldown..</string>
 	<!-- Unys - Route 10 - Ace Trainer Johan - $2,968 -->
-	<string block_id="0" entry_id="321" table_id="189"> <!-- Combat --></string>
-	<string block_id="0" entry_id="322" table_id="189"> <!-- Victoire --></string>
+	<string block_id="0" entry_id="321" table_id="189">\n<!-- Combat --></string>
+	<string block_id="0" entry_id="322" table_id="189">\n<!-- Victoire --></string>
 	<string block_id="0" entry_id="323" table_id="189">Cooldown..</string>
 	<!-- Unys - Route 10 - Veteran Karla - $3,300 -->
-	<string block_id="0" entry_id="540" table_id="189"> <!-- Combat --></string>
-	<string block_id="0" entry_id="541" table_id="189"> <!-- Victoire --></string>
+	<string block_id="0" entry_id="540" table_id="189">\n<!-- Combat --></string>
+	<string block_id="0" entry_id="541" table_id="189">\n<!-- Victoire --></string>
 	<string block_id="0" entry_id="542" table_id="189">Cooldown..</string>
 	<!-- Unys - Route 10 - Ace Trainer Cheyenne - $2,968 -->
-	<string block_id="0" entry_id="333" table_id="189"> <!-- Combat --></string>
-	<string block_id="0" entry_id="334" table_id="189"> <!-- Victoire --></string>
+	<string block_id="0" entry_id="333" table_id="189">\n<!-- Combat --></string>
+	<string block_id="0" entry_id="334" table_id="189">\n<!-- Victoire --></string>
 	<string block_id="0" entry_id="335" table_id="189">Cooldown..</string>
 	<!-- Unys - Route 10 - Veteran Chester - $3,300 -->
-	<string block_id="0" entry_id="537" table_id="189"> <!-- Combat --></string>
-	<string block_id="0" entry_id="538" table_id="189"> <!-- Victoire  --></string>
+	<string block_id="0" entry_id="537" table_id="189">\n<!-- Combat --></string>
+	<string block_id="0" entry_id="538" table_id="189">\n<!-- Victoire  --></string>
 	<string block_id="0" entry_id="539" table_id="189">Cooldown..</string>
 	<!-- Unys - Route 13 - Socialite Marian - $5,400 -->
-	<string block_id="0" entry_id="1483" table_id="189"> <!-- Combat --></string>
-	<string block_id="0" entry_id="1484" table_id="189"> <!-- Victoire --></string>
+	<string block_id="0" entry_id="1483" table_id="189">\n<!-- Combat --></string>
+	<string block_id="0" entry_id="1484" table_id="189">\n<!-- Victoire --></string>
 	<string block_id="0" entry_id="1485" table_id="189">Cooldown..</string>
 	<!-- Unys - Route 13 - Gentleman Yan - $5,400 -->
-	<string block_id="0" entry_id="1477" table_id="189"> <!-- Combat --></string>
-	<string block_id="0" entry_id="1478" table_id="189"> <!-- Victoire --></string>
+	<string block_id="0" entry_id="1477" table_id="189">\n<!-- Combat --></string>
+	<string block_id="0" entry_id="1478" table_id="189">\n<!-- Victoire --></string>
 	<string block_id="0" entry_id="1479" table_id="189">Cooldown..</string>
 </ds_strings_archive>
