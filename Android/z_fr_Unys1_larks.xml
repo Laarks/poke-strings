@@ -53,29 +53,29 @@
 
 	<!-- CT -->
 	<string block_id="0" entry_id="0" table_id="280">Coupe?</string>
-	<string block_id="0" entry_id="1" table_id="280"> <!-- Coupe --></string>
+	<string block_id="0" entry_id="1" table_id="280">\n<!-- Coupe --></string>
 	<string block_id="0" entry_id="2" table_id="280">Il ne se passe rien.</string>
 
 	<string block_id="0" entry_id="6" table_id="280">Strength?</string>
-	<string block_id="0" entry_id="10" table_id="280"> <!-- used strength --></string>
+	<string block_id="0" entry_id="10" table_id="280">\n<!-- used strength --></string>
 	<string block_id="0" entry_id="8" table_id="280">Il ne se passe rien.</string>
 
 	<string block_id="0" entry_id="13" table_id="280">Surf?</string>
-	<string block_id="0" entry_id="14" table_id="280"> <!-- used surf --></string>
+	<string block_id="0" entry_id="14" table_id="280">\n<!-- used surf --></string>
 
 	<string block_id="0" entry_id="23" table_id="280">Waterfall?</string>
-	<string block_id="0" entry_id="24" table_id="280"> <!-- used waterfall --></string>
+	<string block_id="0" entry_id="24" table_id="280">\n<!-- used waterfall --></string>
 	<string block_id="0" entry_id="25" table_id="280">Il ne se passe rien.</string>
 
 	<string block_id="0" entry_id="31" table_id="280">Dive?</string>
-	<string block_id="0" entry_id="32" table_id="280"> <!-- used dive --></string>
+	<string block_id="0" entry_id="32" table_id="280">\n<!-- used dive --></string>
 	<string block_id="0" entry_id="30" table_id="280">Il ne se passe rien.</string>
 
-	<string block_id="0" entry_id="27" table_id="280"> <!-- flash --></string>
-	<string block_id="0" entry_id="28" table_id="280"> <!-- teleport --></string>
-	<string block_id="0" entry_id="29" table_id="280"> <!-- Tunnel --></string>
-	<string block_id="0" entry_id="9" table_id="280"> <!-- Force --></string>
-	<string block_id="0" entry_id="11" table_id="280"> <!-- Force --></string>
+	<string block_id="0" entry_id="27" table_id="280">\n<!-- flash --></string>
+	<string block_id="0" entry_id="28" table_id="280">\n<!-- teleport --></string>
+	<string block_id="0" entry_id="29" table_id="280">\n<!-- Tunnel --></string>
+	<string block_id="0" entry_id="9" table_id="280">\n<!-- Force --></string>
+	<string block_id="0" entry_id="11" table_id="280">\n<!-- Force --></string>
 
 	<!-- Cynthia -->
 	<string block_id="0" entry_id="9" table_id="456">Je te défonce?<!-- Combat --></string>
