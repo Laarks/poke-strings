@@ -288,27 +288,27 @@
 	<!-- ELITE 4 -->
 	<!--Gardien -->
 	<string id="270702312">\n<!-- Badge Check --></string>
-	<string id="270702575">Bon chanss.<!-- Juste fait le --></string>
+	<string id="270702575">\n<!-- Juste fait le --></string>
 
 	<!-- Damien -->
 	<string id="270696359">\n<!-- Combat --></string>
 	<string id="270696610">\n<!-- Victoire --></string>
-	<string id="270696684">Cooldown...</string>
+	<string id="270696684">\n</string>
 
 	<!-- Spectra -->
 	<string id="270696974">\n<!-- Combat --></string>
 	<string id="270697253">\n<!-- Victoire --></string>
-	<string id="270697283">Cooldown..</string>
+	<string id="270697283">\n</string>
 
 	<!-- Glacia -->
 	<string id="270697644">\n<!-- Combat --></string>
 	<string id="270697908">\n<!-- Victoire --></string>
-	<string id="270698048">Cooldown..</string>
+	<string id="270698048">\n</string>
 
 	<!-- Aragon -->
 	<string id="270698302">\n<!-- Combat --></string>
 	<string id="270698645">\n<!-- Victoire --></string>
-	<string id="270698672">Cooldown..</string>
+	<string id="270698672">\n</string>
 
 	<!-- Marc -->
 	<string id="270699596">\n<!-- Combat --></string>
@@ -416,32 +416,32 @@
 	<!-- Azuria - Ondine -->
 	<string id="1647087">\n<!-- Combat --></string>
 	<string id="1647661">\n<!-- Victoire --></string>
-	<string id="1647295">On Cooldown...</string>
+	<string id="1647295">Cooldown...</string>
 
 	<!-- Carmin sur mer - Major Bob -->
 	<string id="1657764">\n<!-- Combat --></string>
 	<string id="1658371">\n<!-- Victoire --></string>
-	<string id="1657998">On Cooldown...</string>
+	<string id="1657998">Cooldown...</string>
 
 	<!--  Céladopole - Erika -->
 	<string id="1667348">\n<!-- Combat --></string>
 	<string id="1667680">\n<!-- Victoire --></string>
-	<string id="1667768">On Cooldown...</string>
+	<string id="1667768">Cooldown...</string>
 
 	<!-- Safrania - Morgane -->
 	<string id="1684796">\n<!-- Combat --></string>
 	<string id="1684994">\n<!-- Victoire --></string>
-	<string id="1685490">On Cooldown...</string>
+	<string id="1685490">Cooldown...</string>
 
 	<!-- Parmanie - Koga -->
 	<string id="1671982">\n<!-- Combat --></string>
 	<string id="1672260">\n<!-- Victoire --></string>
-	<string id="1672321">On Cooldown...</string>
+	<string id="1672321">Cooldown...</string>
 
 	<!-- Cramois'île - Auguste -->
 	<string id="1676611">\n<!-- Combat --></string>
 	<string id="1676794">\n<!-- Victoire --></string>
-	<string id="1677085">On Cooldown...</string>
+	<string id="1677085">Cooldown...</string>
 
 	<!-- Jadielle - Giovanni -->
 	<!-- Giovanni s'en va, on ne peux pas le rerun -->
@@ -456,22 +456,22 @@
 	<!-- Olga -->
 	<string id="1540233">\n<!-- Challenge --></string>
 	<string id="1540497">\n<!-- Victory --></string>
-	<string id="1540528">Cooldown...</string>
+	<string id="1540528">\n</string>
 
 	<!-- Aldo -->
 	<string id="1540623">\n<!-- Challenge --></string>
 	<string id="1541129">\n<!-- Victory --></string>
-	<string id="1541152">Cooldown...</string>
+	<string id="1541152">\n</string>
 
 	<!-- Agatha -->
 	<string id="1541197">\n<!-- Challenge --></string>
 	<string id="1541847">\n<!-- Victory --></string>
-	<string id="1541888">Cooldown...</string>
+	<string id="1541888">\n</string>
 
 	<!-- Peter -->
 	<string id="1542333">\n<!-- Challenge --></string>
 	<string id="1542677">\n<!-- Victory --></string>
-	<string id="1542738">Cooldown...</string>
+	<string id="1542738">\n</string>
 
 	<!-- Rival -->
 	<string id="1543380">\n<!-- Je suis un dieu --></string>
@@ -484,5 +484,15 @@
 	<string id="1544335">\n<!-- Blue la victime --></string>
 	<string id="1544611">\n<!-- trop bien pokemon oé --></string>
 	<string id="1544751">\n<!-- Panthéon ! --></string>
+
+	<!-- Kanto casino -->
+
+	<!-- marchand de jeton-->
+	<string id="1665412">\n</string>    
+	<string id="1665500">\n</string>
+	<string id="1665634">\n</string>
+
+	<!-- Marchand de prix contre jeton-->
+	<string id="1667159">\n</string>
 
 </strings>
