@@ -8,47 +8,47 @@
     <string block_id="0" entry_id="4" table_id="263">..</string>
 
 	<!-- Reveil Fossile -->
-	<string block_id="0" entry_id="0" table_id="285"> <!-- Salutation --></string>
+	<string block_id="0" entry_id="0" table_id="285">\n<!-- Salutation --></string>
 	<string block_id="0" entry_id="1" table_id="285">Reveil de fossile?</string>
 	<string block_id="0" entry_id="2" table_id="285">Quel fossile??</string>
 	<string block_id="0" entry_id="3" table_id="285">Attend.<!-- accept --></string>
-	<string block_id="0" entry_id="4" table_id="285"> <!-- decline --></string>
+	<string block_id="0" entry_id="4" table_id="285">\n<!-- decline --></string>
 	<string block_id="0" entry_id="6" table_id="285">GG.</string>
-	<string block_id="0" entry_id="7" table_id="285"> <!-- collected pokemon --></string>
+	<string block_id="0" entry_id="7" table_id="285">\n<!-- collected pokemon --></string>
 	<string block_id="0" entry_id="8" table_id="285">Surnom?</string>
 	<string block_id="0" entry_id="9" table_id="285">Equipe pleine.</string>
 	<string block_id="0" entry_id="10" table_id="285">Apporte moi un fossile.</string>
 
 	<!-- Centre pokémon-->
 	<string block_id="0" entry_id="0" table_id="346">Soins?</string>
-	<string block_id="0" entry_id="1" table_id="346"> </string>
-	<string block_id="0" entry_id="2" table_id="346"> </string>
-	<string block_id="0" entry_id="6" table_id="346"> </string>
-	<string block_id="0" entry_id="7" table_id="346"> </string>
-	<string block_id="0" entry_id="8" table_id="346"> </string>
-	<string block_id="0" entry_id="9" table_id="346"> </string>
+	<string block_id="0" entry_id="1" table_id="346">\n</string>
+	<string block_id="0" entry_id="2" table_id="346">\n</string>
+	<string block_id="0" entry_id="6" table_id="346">\n</string>
+	<string block_id="0" entry_id="7" table_id="346">\n</string>
+	<string block_id="0" entry_id="8" table_id="346">\n</string>
+	<string block_id="0" entry_id="9" table_id="346">\n</string>
 
 	<!-- Soins maman -->
 	<string block_id="0" entry_id="15" table_id="429">Soins? <!-- TA --></string>
-	<string block_id="0" entry_id="14" table_id="429"> <!-- MAMAN --></string>
-	<string block_id="0" entry_id="17" table_id="429"> <!-- EST UNE --></string>
-	<string block_id="0" entry_id="18" table_id="429"> <!-- MERE --></string>
-	<string block_id="0" entry_id="19" table_id="429"> <!-- POULE --></string>
-	<string block_id="0" entry_id="20" table_id="429"> <!-- QUI T'AIME --></string>
+	<string block_id="0" entry_id="14" table_id="429">\n<!-- MAMAN --></string>
+	<string block_id="0" entry_id="17" table_id="429">\n<!-- EST UNE --></string>
+	<string block_id="0" entry_id="18" table_id="429">\n<!-- MERE --></string>
+	<string block_id="0" entry_id="19" table_id="429">\n<!-- POULE --></string>
+	<string block_id="0" entry_id="20" table_id="429">\n<!-- QUI T'AIME --></string>
 
 	<!-- Vendeurs -->
-	<string block_id="0" entry_id="0" table_id="424"> <!-- Shop --></string>
-	<string block_id="0" entry_id="3" table_id="424"> <!-- Au revoir --></string>
+	<string block_id="0" entry_id="0" table_id="424">\n<!-- Shop --></string>
+	<string block_id="0" entry_id="3" table_id="424">\n<!-- Au revoir --></string>
 
 	<!-- Centre commercial -->
-	<string block_id="0" entry_id="0" table_id="424"> <!-- Shop Pokeballs --></string>
-	<string block_id="0" entry_id="3" table_id="424"> <!-- Au revoir Pokeballs --></string>
-	<string block_id="0" entry_id="1" table_id="424"> <!-- Shop CT --></string>
-	<string block_id="0" entry_id="2" table_id="424"> <!-- Au revoir CT --></string>
+	<string block_id="0" entry_id="0" table_id="424">\n<!-- Shop Pokeballs --></string>
+	<string block_id="0" entry_id="3" table_id="424">\n<!-- Au revoir Pokeballs --></string>
+	<string block_id="0" entry_id="1" table_id="424">\n<!-- Shop CT --></string>
+	<string block_id="0" entry_id="2" table_id="424">\n<!-- Au revoir CT --></string>
 
 	<!-- Oeufs messages -->
-	<string block_id="0" entry_id="7" table_id="426"> <!-- Oeuf reçu --></string>
-	<string block_id="0" entry_id="8" table_id="426"> <!-- Prends en soins --></string>
+	<string block_id="0" entry_id="7" table_id="426">\n<!-- Oeuf reçu --></string>
+	<string block_id="0" entry_id="8" table_id="426">\n<!-- Prends en soins --></string>
 	<string block_id="0" entry_id="9" table_id="426">Ton equipe est pleine.</string>
 
 	<!-- CT -->
@@ -79,51 +79,51 @@
 
 	<!-- Cynthia -->
 	<string block_id="0" entry_id="9" table_id="456">Je te défonce?<!-- Combat --></string>
-	<string block_id="0" entry_id="15" table_id="456"> <!-- Combat v2 --></string>
-	<string block_id="0" entry_id="10" table_id="456"> <!-- Oui --></string>
+	<string block_id="0" entry_id="15" table_id="456">\n<!-- Combat v2 --></string>
+	<string block_id="0" entry_id="10" table_id="456">\n<!-- Oui --></string>
 	<string block_id="0" entry_id="11" table_id="456">Au revoir.<!-- No --></string>
 	<string block_id="0" entry_id="13" table_id="456">Cooldown..</string>
-	<string block_id="0" entry_id="18" table_id="456"> <!-- Victoire v2 --></string>
+	<string block_id="0" entry_id="18" table_id="456">\n<!-- Victoire v2 --></string>
 
 	<!-- Morimotto -->
-	<string block_id="0" entry_id="8" table_id="261">Etage?<!-- Ascenseur --></string>
-	<string block_id="0" entry_id="9" table_id="53">Je te défonce?<!-- Combat --></string>
-	<string block_id="0" entry_id="10" table_id="53"> <!-- Oui --></string>
-	<string block_id="0" entry_id="12" table_id="53">A+ refré.<!-- Non --></string>
+	<string block_id="0" entry_id="8" table_id="261">\n<!-- Ascenseur --></string>
+	<string block_id="0" entry_id="9" table_id="53">\n<!-- Combat --></string>
+	<string block_id="0" entry_id="10" table_id="53">\n<!-- Oui --></string>
+	<string block_id="0" entry_id="12" table_id="53">\n<!-- Non --></string>
 	<string block_id="0" entry_id="11" table_id="53">Cooldown..</string>
 
 	<!-- Gym Leaders -->
 	<!-- combat text located in zz_strings_en_PokeStrings_IRB_0.xml -->
 	<!--  Ogoesse - Armando (feu) -->
-	<string block_id="0" entry_id="11" table_id="12"> <!-- Combat --></string>
+	<string block_id="0" entry_id="11" table_id="12">\n<!-- Combat --></string>
 	<string block_id="0" entry_id="29" table_id="12">Cooldown...</string>
 	<!--  Ogoesse - Rachid (plante) -->
-	<string block_id="0" entry_id="12" table_id="12"> <!-- Combat --></string>
+	<string block_id="0" entry_id="12" table_id="12">\n<!-- Combat --></string>
 	<string block_id="0" entry_id="28" table_id="12">Cooldown...</string>
 	<!--  Ogoesse - Noa (eau) -->
-	<string block_id="0" entry_id="13" table_id="12"> <!-- Combat --></string>
+	<string block_id="0" entry_id="13" table_id="12">\n<!-- Combat --></string>
 	<string block_id="0" entry_id="30" table_id="12">Cooldown...</string>
 	<!--  Maillard - Aloé -->
-	<string block_id="0" entry_id="0" table_id="24"> <!-- Combat --></string>
+	<string block_id="0" entry_id="0" table_id="24">\n<!-- Combat --></string>
 	<string block_id="0" entry_id="9" table_id="24">Cooldown...</string>
 	<!--  Volucité - Artie -->
-	<string block_id="0" entry_id="9" table_id="34"> <!-- Annoying switch I always hit --></string>
-	<string block_id="0" entry_id="0" table_id="34"> <!-- Combat --></string>
+	<string block_id="0" entry_id="9" table_id="34">\n<!-- Annoying switch I always hit --></string>
+	<string block_id="0" entry_id="0" table_id="34">\n<!-- Combat --></string>
 	<string block_id="0" entry_id="6" table_id="34">Cooldown...</string>
 	<!--  Méanville - Inezia -->
-	<string block_id="0" entry_id="0" table_id="68"> <!-- Combat --></string>
+	<string block_id="0" entry_id="0" table_id="68">\n<!-- Combat --></string>
 	<string block_id="0" entry_id="7" table_id="68">Cooldown...</string>
 	<!--  Port Yoneuve - Bardane -->
-	<string block_id="0" entry_id="0" table_id="102"> <!-- Combat --></string>
+	<string block_id="0" entry_id="0" table_id="102">\n<!-- Combat --></string>
 	<string block_id="0" entry_id="6" table_id="102">Cooldown...</string>
 	<!--  Parsemille - Carolina -->
-	<string block_id="0" entry_id="0" table_id="113"> <!-- Combat --></string>
+	<string block_id="0" entry_id="0" table_id="113">\n<!-- Combat --></string>
 	<string block_id="0" entry_id="6" table_id="113">Cooldown...</string>
 	<!--  Flocombe - Zhu -->
-	<string block_id="0" entry_id="0" table_id="119"> <!-- Combat --></string>
+	<string block_id="0" entry_id="0" table_id="119">\n<!-- Combat --></string>
 	<string block_id="0" entry_id="7" table_id="119">Cooldown...</string>
 	<!--  Janusia - Iris -->
-	<string block_id="0" entry_id="0" table_id="126"> <!-- Combat --></string>
+	<string block_id="0" entry_id="0" table_id="126">\n<!-- Combat --></string>
 	<string block_id="0" entry_id="6" table_id="126">Cooldown...</string>
 
 	<!-- ELITE 4 -->
@@ -136,33 +136,33 @@
 	<string block_id="0" entry_id="0" table_id="143">Gagne ou perd pour partir.</string>
 
 	<!--  Elite 4 - Anis - SW -->
-	<string block_id="0" entry_id="4" table_id="145"> <!-- Combat - Anneau hydro --></string>
-	<string block_id="0" entry_id="5" table_id="145"> <!-- Combat - Tonnerre --></string>
-	<string block_id="0" entry_id="6" table_id="145"> <!-- Combat - trop puissante --></string>
-	<string block_id="0" entry_id="7" table_id="145"> <!-- Combat - ez --></string>
-	<string block_id="0" entry_id="8" table_id="145"> <!-- Combat - elle va reduire tes espoir a néant --></string>
-	<string block_id="0" entry_id="9" table_id="145"> <!-- Victoire --></string>
-	<string block_id="0" entry_id="10" table_id="145">Cooldown..<!-- E4 pas finis --></string>
-	<string block_id="0" entry_id="11" table_id="145">Cooldown..<!-- E4 Finis --></string>
+	<string block_id="0" entry_id="4" table_id="145">\n<!-- Combat - Anneau hydro --></string>
+	<string block_id="0" entry_id="5" table_id="145">\n<!-- Combat - Tonnerre --></string>
+	<string block_id="0" entry_id="6" table_id="145">\n<!-- Combat - trop puissante --></string>
+	<string block_id="0" entry_id="7" table_id="145">\n<!-- Combat - ez --></string>
+	<string block_id="0" entry_id="8" table_id="145">\n<!-- Combat - elle va reduire tes espoir a néant --></string>
+	<string block_id="0" entry_id="9" table_id="145">\n<!-- Victoire --></string>
+	<string block_id="0" entry_id="10" table_id="145">\n<!-- E4 pas finis --></string>
+	<string block_id="0" entry_id="11" table_id="145">\n<!-- E4 Finis --></string>
 	<!--  Elite 4 - Pieris - NW -->
-	<string block_id="0" entry_id="4" table_id="146"> <!-- Combat --></string>
-	<string block_id="0" entry_id="5" table_id="146"> <!-- Victoire E4 pas finis --></string>
-	<string block_id="0" entry_id="7" table_id="146"> <!-- Victoire E4 Finis --></string>
-	<string block_id="0" entry_id="6" table_id="146">Cooldown..</string>
+	<string block_id="0" entry_id="4" table_id="146">\n<!-- Combat --></string>
+	<string block_id="0" entry_id="5" table_id="146">\n<!-- Victoire E4 pas finis --></string>
+	<string block_id="0" entry_id="7" table_id="146">\n<!-- Victoire E4 Finis --></string>
+	<string block_id="0" entry_id="6" table_id="146">\n</string>
 	<!--  Elite 4 - Percila - NE -->
-	<string block_id="0" entry_id="4" table_id="148"> <!-- Combat --></string>
-	<string block_id="0" entry_id="5" table_id="148"> <!-- Victoire E4 pas finis --></string>
-	<string block_id="0" entry_id="7" table_id="148"> <!-- Victoire E4 Finis --></string>
-	<string block_id="0" entry_id="6" table_id="148">Cooldown..</string>
+	<string block_id="0" entry_id="4" table_id="148">\n<!-- Combat --></string>
+	<string block_id="0" entry_id="5" table_id="148">\n<!-- Victoire E4 pas finis --></string>
+	<string block_id="0" entry_id="7" table_id="148">\n<!-- Victoire E4 Finis --></string>
+	<string block_id="0" entry_id="6" table_id="148">\n</string>
 	<!--  Elite 4 - Kunz - SE -->
-	<string block_id="0" entry_id="4" table_id="147"> <!-- Combat --></string>
-	<string block_id="0" entry_id="5" table_id="147"> <!-- Victoire E4 pas finis --></string>
-	<string block_id="0" entry_id="7" table_id="147"> <!-- Victoire E4 Finis --></string>
-	<string block_id="0" entry_id="6" table_id="147">Cooldown..</string>
+	<string block_id="0" entry_id="4" table_id="147">\n<!-- Combat --></string>
+	<string block_id="0" entry_id="5" table_id="147">\n<!-- Victoire E4 pas finis --></string>
+	<string block_id="0" entry_id="7" table_id="147">\n<!-- Victoire E4 Finis --></string>
+	<string block_id="0" entry_id="6" table_id="147">\n</string>
 	<!--  Elite 4 - Goyah -->
-	<string block_id="0" entry_id="23" table_id="149"> <!-- Combat --></string>
-	<string block_id="0" entry_id="24" table_id="149"> <!-- Viens avec moi --></string>
-	<string block_id="0" entry_id="1" table_id="150"> <!-- J'aime cette endroit --></string>
-	<string block_id="0" entry_id="2" table_id="150"> <!-- Bon ben.. --></string>
-	<string block_id="0" entry_id="4" table_id="150"> <!-- T'es un pgm maintenant --></string>
+	<string block_id="0" entry_id="23" table_id="149">\n<!-- Combat --></string>
+	<string block_id="0" entry_id="24" table_id="149">\n<!-- Viens avec moi --></string>
+	<string block_id="0" entry_id="1" table_id="150">\n<!-- J'aime cette endroit --></string>
+	<string block_id="0" entry_id="2" table_id="150">\n<!-- Bon ben.. --></string>
+	<string block_id="0" entry_id="4" table_id="150">\n<!-- T'es un pgm maintenant --></string>
 </ds_strings_archive>

@@ -88,27 +88,27 @@
 	<!-- ELITE 4 -->
 	<!-- Sinnoh - Elite 4 - Gardien -->
 	<string block_id="0" entry_id="3" table_id="184">\n<!-- As tu tout les badges? --></string>
-	<string block_id="0" entry_id="4" table_id="184">Bonne chance!<!-- tout seul dans ta chambre a te construire des barrières --></string>
+	<string block_id="0" entry_id="4" table_id="184">\n<!-- tout seul dans ta chambre a te construire des barrières --></string>
 	<!-- Sinnoh - Elite 4 - Aaron -->
 	<string block_id="0" entry_id="0" table_id="185">\n<!-- Combat --></string>
 	<string block_id="0" entry_id="1968" table_id="617">\n<!-- Victoire --></string>
 	<string block_id="0" entry_id="1" table_id="185">\n<!-- Victoire Dialogue --></string>
-	<string block_id="0" entry_id="2" table_id="185">Cooldown..</string>
+	<string block_id="0" entry_id="2" table_id="185">\n</string>
 	<!-- Sinnoh - Elite 4 - Terry -->
 	<string block_id="0" entry_id="0" table_id="186">\n<!-- Combat --></string>
 	<string block_id="0" entry_id="1970" table_id="617">\n<!-- Victoire --></string>
 	<string block_id="0" entry_id="1" table_id="186">\n<!-- Victoire Dialogue --></string>
-	<string block_id="0" entry_id="2" table_id="186">Cooldown..</string>
+	<string block_id="0" entry_id="2" table_id="186">\n</string>
 	<!-- Sinnoh - Elite 4 - Adrien -->
 	<string block_id="0" entry_id="4" table_id="187">\n<!-- Combat --></string>
 	<string block_id="0" entry_id="1973" table_id="617">\n<!-- Victoire --></string>
 	<string block_id="0" entry_id="5" table_id="187">\n<!-- Victoire Dialogue --></string>
-	<string block_id="0" entry_id="6" table_id="187">Cooldown..</string>
+	<string block_id="0" entry_id="6" table_id="187">\n</string>
 	<!-- Sinnoh - Elite 4 - Lucio -->
 	<string block_id="0" entry_id="0" table_id="188">\n<!-- Combat --></string>
 	<string block_id="0" entry_id="1975" table_id="617">\n<!-- Victoire --></string>
 	<string block_id="0" entry_id="1" table_id="188">\n<!-- Victoire Dialogue --></string>
-	<string block_id="0" entry_id="2" table_id="188">Cooldown..</string>
+	<string block_id="0" entry_id="2" table_id="188">\n</string>
 	<!-- Sinnoh - Elite 4 - Cynthia -->
 	<string block_id="0" entry_id="3" table_id="189">\n<!-- Combat --></string>
 	<string block_id="0" entry_id="1978" table_id="617">\n<!-- Victoire --></string>

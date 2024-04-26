@@ -287,7 +287,7 @@
 	<!-- ELITE 4 -->
 	<!--Gardien -->
 	<string id="270702312">\n<!-- Badge Check --></string>
-	<string id="270702575">Bon chanss.<!-- Juste fait le --></string>
+	<string id="270702575">/n<!-- Juste fait le --></string>
 
 	<!-- Damien -->
 	<string id="270696359">\n<!-- Combat --></string>
@@ -455,22 +455,22 @@
 	<!-- Olga -->
 	<string id="1540233">\n<!-- Challenge --></string>
 	<string id="1540497">\n<!-- Victory --></string>
-	<string id="1540528">Cooldown...</string>
+	<string id="1540528">\n</string>
 
 	<!-- Aldo -->
 	<string id="1540623">\n<!-- Challenge --></string>
 	<string id="1541129">\n<!-- Victory --></string>
-	<string id="1541152">Cooldown...</string>
+	<string id="1541152">\n</string>
 
 	<!-- Agatha -->
 	<string id="1541197">\n<!-- Challenge --></string>
 	<string id="1541847">\n<!-- Victory --></string>
-	<string id="1541888">Cooldown...</string>
+	<string id="1541888">\n</string>
 
 	<!-- Peter -->
 	<string id="1542333">\n<!-- Challenge --></string>
 	<string id="1542677">\n<!-- Victory --></string>
-	<string id="1542738">Cooldown...</string>
+	<string id="1542738">\n</string>
 
 	<!-- Rival -->
 	<string id="1543380">\n<!-- Je suis un dieu --></string>
@@ -483,6 +483,17 @@
 	<string id="1544335">\n<!-- Blue la victime --></string>
 	<string id="1544611">\n<!-- trop bien pokemon oé --></string>
 	<string id="1544751">\n<!-- Panthéon ! --></string>
+	
+	<!-- Kanto casino -->
+
+		<!-- marchand de jeton-->
+		<string id="1665412">\n</string>    
+		<string id="1665500">\n</string>
+		<string id="1665634">\n</string>
+
+		<!-- Marchand de prix contre jeton-->
+		<string id="1667159">\n</string>
+
 
 	<!-- EVENTS (WIP)-->
 
