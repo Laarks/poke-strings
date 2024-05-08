@@ -3,6 +3,12 @@
 
 <!-- Usefull global stuff that i cannot put elsewhere -->
 
+	<string id="271002232">1Obtenu: {03}!</string>
+
+	<string id="271002377">2Obtenu: {03}!</string>
+
+	<string id="1724918">3Obtenu: {03}!</string>
+
 	<!-- Changement de Resume rapide de l'equipe en sac-->
 	<string id="5121">Utilise des objets.</string>
 

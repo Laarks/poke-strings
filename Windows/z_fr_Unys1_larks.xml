@@ -4,8 +4,8 @@
 	   <!-- only Unys archive_type=1 -->
 
 	<!-- Peche -->
-    <string block_id="0" entry_id="3" table_id="263">!</string>
-    <string block_id="0" entry_id="4" table_id="263">..</string>
+    <string block_id="0" entry_id="3" table_id="263">\n</string>
+    <string block_id="0" entry_id="4" table_id="263">\n</string>
 
 	<!-- Reveil Fossile -->
 	<string block_id="0" entry_id="0" table_id="285">\n<!-- Salutation --></string>

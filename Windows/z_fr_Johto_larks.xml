@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <ds_strings_archive archive_type="0" is_primary="0" lang="fr" region_id="4">
 
+	<!-- Obtenu et Rangement de sac - Optionnel - A activer quand tu rend un grand nombre de tesson à l'echangeur-->
+		<!-- 
+		<string block_id="0" entry_id="25" table_id="40">\n</string>
+		<string block_id="0" entry_id="89" table_id="40">\n</string>
+		-->
+
+	<!-- Echangeur de tesson contre baie-->
+    <string block_id="0" entry_id="17" table_id="556">\n</string>
+    <string block_id="0" entry_id="18" table_id="556">\n</string>
+    <string block_id="0" entry_id="19" table_id="556">\n</string>
+    <string block_id="0" entry_id="20" table_id="556">\n</string>
+    <string block_id="0" entry_id="21" table_id="556">\n</string>
+    <string block_id="0" entry_id="22" table_id="556">\n</string>
+    <string block_id="0" entry_id="23" table_id="556">\n</string>
+    <string block_id="0" entry_id="24" table_id="556">\n</string>
+
 	<!-- Breeding Oeufs -->
     	<string block_id="0" entry_id="5" table_id="439">\n<!-- oeufs reçu --></string>
     	<string block_id="0" entry_id="6" table_id="439">\n<!-- Prends en soins --></string>
@@ -160,4 +176,31 @@
     <string block_id="0" entry_id="11" table_id="527">\n<!-- ZzzZ ça parle trop--></string>
     <string block_id="0" entry_id="0" table_id="528">\n<!-- Et c'est--></string>
     <string block_id="0" entry_id="1" table_id="528">\n<!-- Le pantéon GG--></string>
+	<!-- Traduction Johto(shitty place but no choice)-->
+		<!-- Safari Zones-->
+		<string block_id="0" entry_id="16" table_id="429">Prairie/Plains</string>
+		<string block_id="0" entry_id="17" table_id="429">Champ de fleurs/Meadow</string>
+		<string block_id="0" entry_id="18" table_id="429">Savane/Savannah</string>
+		<string block_id="0" entry_id="19" table_id="429">Rochers/Peak</string>
+		<string block_id="0" entry_id="20" table_id="429">Rocs et lac/Rocky Beach</string>
+		<string block_id="0" entry_id="21" table_id="429">Terre humide/Wetland</string>
+		<string block_id="0" entry_id="22" table_id="429">Bois/Forest</string>
+		<string block_id="0" entry_id="23" table_id="429">Bois et lacs/Swamp</string>
+		<string block_id="0" entry_id="24" table_id="429">Marais/Marshland</string>
+		<string block_id="0" entry_id="25" table_id="429">Terre aride/Wasteland</string>
+		<string block_id="0" entry_id="26" table_id="429">Montagne/Mountain</string>
+		<string block_id="0" entry_id="27" table_id="429">Désert</string>
+		<!-- Start pick-->
+		<string block_id="0" entry_id="0" table_id="428">Prairie/Plains</string>
+		<string block_id="0" entry_id="1" table_id="428">Fleurie/Meadow</string>
+		<string block_id="0" entry_id="2" table_id="428">Savane/Savannah</string>
+		<string block_id="0" entry_id="3" table_id="428">Rochers/Peak</string>
+		<string block_id="0" entry_id="4" table_id="428">Rocs &amp; lac/Rocky Beach</string>
+		<string block_id="0" entry_id="5" table_id="428">Terre humide/Wetland</string>
+		<string block_id="0" entry_id="6" table_id="428">Bois/Forest</string>
+		<string block_id="0" entry_id="7" table_id="428">Bois &amp; lacs/Swamp</string>
+		<string block_id="0" entry_id="8" table_id="428">Marais/Marshland</string>
+		<string block_id="0" entry_id="9" table_id="428">Aride/Wasteland</string>
+		<string block_id="0" entry_id="10" table_id="428">Montagne/Mountain</string>
+		<string block_id="0" entry_id="11" table_id="428">Désert</string>
 </ds_strings_archive>
