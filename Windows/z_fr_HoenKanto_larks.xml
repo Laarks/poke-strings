@@ -9,6 +9,14 @@
 
 	<string id="1724918">3Obtenu: {03}!</string>
 
+	<!-- Casino global stuff-->
+
+	<string id="16777241">\n</string>
+    <string id="16777242">\n</string>
+    <string id="16777243">\n</string> <!-- ici envois au pc-->
+    <string id="16777244">\n</string> <!-- ici obtention pokemon-->
+	<string id="16777245">\n</string>
+
 	<!-- Changement de Resume rapide de l'equipe en sac-->
 	<string id="5121">Utilise des objets.</string>
 
@@ -51,7 +59,7 @@
 	<string id="16780151">{01}, Tu as du courrier!</string>
 
 	<!-- Maman changement de région -->
-	<string id="16780130">Tu veux retourner à {00}?</string>
+	<string id="16780130">Tu veux retourner à {00}?</string> 
 
 	<!-- Region Ferry -->
 	<string id="16780100">Région?<!-- Bonjour --></string>
@@ -493,6 +501,7 @@
 
 	<!-- Kanto casino -->
 
+	<string id="1667229">\n</string>
 	<!-- marchand de jeton-->
 	<string id="1665412">\n</string>    
 	<string id="1665500">\n</string>

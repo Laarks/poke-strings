@@ -5,6 +5,16 @@
 	<string block_id="0" entry_id="5" table_id="547">\n<!-- Oeuf reçu --></string>
 	<string block_id="0" entry_id="6" table_id="547">\n<!-- Prends en soins--></string>
 
+	<!-- Casino-->
+	<string block_id="0" entry_id="0" table_id="156">\n</string>
+    <string block_id="0" entry_id="1" table_id="156">\n</string>
+	<string block_id="0" entry_id="0" table_id="147">\n</string>
+    <string block_id="0" entry_id="1" table_id="147">\n</string>
+    <string block_id="0" entry_id="2" table_id="147">\n</string>
+    <string block_id="0" entry_id="3" table_id="147">\n</string>
+    <string block_id="0" entry_id="4" table_id="147">\n</string>
+    <string block_id="0" entry_id="5" table_id="147">\n</string>
+    <string block_id="0" entry_id="6" table_id="147">\n</string>
 	<!-- Sinnoh parc Safari -->
 	<string block_id="0" entry_id="0" table_id="136">$500?</string>
 	<string block_id="0" entry_id="1" table_id="136">\n</string>
