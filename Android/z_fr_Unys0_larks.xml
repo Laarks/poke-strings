@@ -93,8 +93,40 @@
 	<string block_id="0" entry_id="1478" table_id="189">\n<!-- Victoire --></string>
 	<string block_id="0" entry_id="1479" table_id="189">Cooldown..</string>
 
-    <!-- Traduction français (anglais) des baies -->
-	    
+	<!--Textes de combat dresseurs et hordes + captures -->
+	<string block_id="0" entry_id="7" table_id="15">\n</string>
+	<string block_id="0" entry_id="972" table_id="197">ici\n</string>
+	<string block_id="0" entry_id="991" table_id="197">là\n</string>
+	<string block_id="0" entry_id="991" table_id="197">test\n</string>
+    <string block_id="0" entry_id="1" table_id="14">\n</string>
+    <string block_id="0" entry_id="385" table_id="14">\n</string>
+    <string block_id="0" entry_id="388" table_id="14">\n</string>
+    <string block_id="0" entry_id="61" table_id="15">\n</string>
+    <string block_id="0" entry_id="62" table_id="15">\n</string>
+    <string block_id="0" entry_id="63" table_id="15">\n</string>
+    <string block_id="0" entry_id="64" table_id="15">\n</string>
+    <string block_id="0" entry_id="65" table_id="15">\n</string>
+    <string block_id="0" entry_id="176" table_id="234">\n</string>
+    <string block_id="0" entry_id="6" table_id="15">\n</string>
+    <string block_id="0" entry_id="7" table_id="15">\n</string>
+    <string block_id="0" entry_id="8" table_id="15">\n</string>
+    <string block_id="0" entry_id="44" table_id="15">\n</string>
+    <string block_id="0" entry_id="45" table_id="15">\n</string>
+    <string block_id="0" entry_id="58" table_id="15">\n</string>
+    <string block_id="0" entry_id="1058" table_id="14">\n</string>
+    <string block_id="0" entry_id="307" table_id="14">\n</string>
+	<string block_id="0" entry_id="310" table_id="14">\n</string>
+    <string block_id="0" entry_id="313" table_id="14">\n</string>
+    <string block_id="0" entry_id="316" table_id="14">\n</string>
+    <string block_id="0" entry_id="319" table_id="14">\n</string>
+    <string block_id="0" entry_id="59" table_id="15">\n</string>
+    <string block_id="0" entry_id="122" table_id="15">\n</string>
+    <string block_id="0" entry_id="469" table_id="13">\n</string>
+    <string block_id="0" entry_id="433" table_id="13">\n</string>
+    <string block_id="0" entry_id="223" table_id="14">\n</string>
+    <string block_id="0" entry_id="647" table_id="14">\n</string>  
+
+    <!-- Traduction français (anglais) des baies -->  
     <string block_id="0" entry_id="149" table_id="54">Baie Ceriz (Cheri Berry)</string>
     <string block_id="0" entry_id="150" table_id="54">Baie Maron (Chesto Berry)</string>
     <string block_id="0" entry_id="151" table_id="54">Baie Pêcha (Pecha Berry)</string>

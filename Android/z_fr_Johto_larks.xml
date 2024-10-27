@@ -205,16 +205,16 @@
 		<string block_id="0" entry_id="26" table_id="429">Montagne/Mountain</string>
 		<string block_id="0" entry_id="27" table_id="429">Désert</string>
 		<!-- Start pick-->
-		<string block_id="0" entry_id="0" table_id="428">Prairie/Plains</string>
-		<string block_id="0" entry_id="1" table_id="428">Fleurie/Meadow</string>
-		<string block_id="0" entry_id="2" table_id="428">Savane/Savannah</string>
-		<string block_id="0" entry_id="3" table_id="428">Rochers/Peak</string>
-		<string block_id="0" entry_id="4" table_id="428">Rocs &amp; lac/Rocky Beach</string>
-		<string block_id="0" entry_id="5" table_id="428">Terre humide/Wetland</string>
-		<string block_id="0" entry_id="6" table_id="428">Bois/Forest</string>
-		<string block_id="0" entry_id="7" table_id="428">Bois &amp; lacs/Swamp</string>
-		<string block_id="0" entry_id="8" table_id="428">Marais/Marshland</string>
-		<string block_id="0" entry_id="9" table_id="428">Aride/Wasteland</string>
-		<string block_id="0" entry_id="10" table_id="428">Montagne/Mountain</string>
+		<string block_id="0" entry_id="0" table_id="428">Prairie</string>
+		<string block_id="0" entry_id="1" table_id="428">Fleurie</string>
+		<string block_id="0" entry_id="2" table_id="428">Savane</string>
+		<string block_id="0" entry_id="3" table_id="428">Rochers</string>
+		<string block_id="0" entry_id="4" table_id="428">Rocs &amp; lac</string>
+		<string block_id="0" entry_id="5" table_id="428">Terre humide</string>
+		<string block_id="0" entry_id="6" table_id="428">Bois</string>
+		<string block_id="0" entry_id="7" table_id="428">Bois &amp; lac</string>
+		<string block_id="0" entry_id="8" table_id="428">Marais</string>
+		<string block_id="0" entry_id="9" table_id="428">Aride</string>
+		<string block_id="0" entry_id="10" table_id="428">Montagne</string>
 		<string block_id="0" entry_id="11" table_id="428">Désert</string>
 </ds_strings_archive>
