@@ -215,4 +215,8 @@
 		<string block_id="0" entry_id="9" table_id="428">Aride/Wasteland</string>
 		<string block_id="0" entry_id="10" table_id="428">Montagne/Mountain</string>
 		<string block_id="0" entry_id="11" table_id="428">Désert</string>
+	<!-- Combat debut/pokemon utilise attaque/pokemon ennemi est KO/pokemn est envoyé par dresseur/dresseur remporte argent/vous avez battu-->
+	 <string block_id="0" entry_id="969" table_id="197">\n</string>
+	 <!--combat test-->
+	<string block_id="0" entry_id="857" table_id="197">3</string>
 </ds_strings_archive>
