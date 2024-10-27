@@ -1,0 +1,863 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<strings is_override="0" is_primary="0" lang="fr">
+
+<!-- Usefull global stuff that i cannot put elsewhere -->
+
+	<!-- Changement de Resume rapide de l'equipe en sac-->
+	<string id="5121">Utilise des objets.</string>
+
+    <!-- Evolution Munja -->
+    <string id="2565">Niveau {00} - Place libre dans l'équipe avec une {STRING_245004}\nAttentionl: tu ne garderas que 3 IVs aléatoire</string>
+
+    <!-- Massacrer plusieurs pokemon a la fois -->
+    <string id="200436">{01} d'un coup !</string>
+
+    <!-- Ramassage -->
+	<string id="6066">{01} via ramassage !</string>
+
+	<!-- objet trouvé -->
+    <string id="6062">{00} trouve {01}!</string>
+	<string id="6063">j'ai trouvé {00}!</string>
+
+    <!-- Effet repousse et leurre -->
+	<string id="6011">{00} est fini.</string>
+	<string id="6012">Encore un {00}?</string>
+
+    <!-- Breed Général -->
+	<string id="16779080">\n<!-- Breed --></string>
+	<string id="16779081">Il te manque un {STRING_0}...<!-- only one pokemon --></string>
+	<string id="16779082">\n<!-- Positif --></string>
+	<string id="16779083">\n<!-- Quel pokemon? --></string>
+	<string id="16779087">\n<!-- Oeuf? --></string>
+	<string id="16779091">♂/♀?</string>
+	<string id="16779092">♂/♀?</string>
+	<string id="16779093">+${00}?</string>
+	<string id="16777221">\n<!-- pokeball --></string>
+
+	<!-- Vendeur de bracelet -->
+	<string id="16779070">\n</string>
+
+    <!-- PC -->
+	<string id="2350">\n</string>
+
+	<!-- Mail -->
+	<string id="16780150">Envoyer Mails?</string>
+	<string id="16780151">{01}, Tu as du courrier!</string>
+
+	<!-- Maman changement de région -->
+	<string id="16780130">Tu veux retourner à {00}?</string>
+
+	<!-- Region Ferry -->
+	<string id="16780100">Région?<!-- Bonjour --></string>
+	<string id="16780102">Attention commencer la region enverra tout tes {STRING_0} au PC.</string>
+	<string id="16780103">\n</string>
+	<string id="16780104">\n</string>
+	<string id="16780105">Le PC est plein.</string>
+
+	<!-- Tuteur de capacité -->
+	<string id="16779000">\n<!-- Salut --></string>
+	<string id="16779002">Tuteur?</string>
+	<string id="16779004">A+.</string>
+	<string id="16779003">Lequel?</string>
+	<string id="16779005">Un autre?</string>
+	<string id="16779052">{00}x {01}?</string>
+	<string id="16779054">{00}x {01} et\n{02}x {03}?</string>
+
+	<!-- Réapprendre capacité -->
+	<string id="16779020">\n<!-- Salut --></string>
+	<string id="16779022">Ré-apprendre ou oublier?</string>
+	<string id="16779023">Reviens si tu change d'avis.</string>
+	<string id="16779031">Lequel?</string>
+	<string id="16779032">${00} pour {01} sur {02}?</string>
+	<string id="16779033">{00} oublie {01}!</string>
+	<string id="16779034">Un autre?</string>
+	<string id="16779035">Lequel?</string>
+
+	<!-- CT -->
+	<!-- Gains de PP -->
+	<string id="8600">+PP {01}?</string>
+
+	<!-- Texte Ocarina -->
+	<string id="16780155">\n</string>
+
+	<!-- Hoenn -->
+    
+	<!-- Fossiles-->
+	<string id="270606152">T'as un fossile pour moi?</string>
+    <string id="270606246">reveil?</string>
+    <string id="270606406">oh... Dommage !</string>
+    <string id="270606482">Lequel?</string>
+    <string id="270606675">\n</string>
+    <string id="270606754">Reviens plus tard</string>
+    <string id="270606929">C'était un {03}!</string>
+    <string id="270607051">\n</string>
+
+	<!-- Hoenn Echange de vélo -->
+	<string id="270594555">Echange?<!-- Vélo--></string>
+	<string id="270594607">\n<!-- Oui --></string>
+	<string id="270594756">\n<!-- Non --></string>
+	<string id="270594659">\n<!-- Velo cross--></string>
+	<string id="270594708">\n<!-- Velo Course--></string>
+	<string id="270594493">\n<!-- Au revoir --></string>
+	<string id="271002232">{03}!<!-- Message --></string>
+
+	<!-- Message Oeuf - Hoenn-->
+	<string id="271131044">\n<!-- Oeuf reçu --></string>
+	<string id="271131087">\n<!-- Prends en soin --></string>
+
+	<!-- Hoenn Centre Pokemon -->
+	<string id="271001323">Soins?</string>
+	<string id="271001496">\n</string>
+	<string id="271001563">\n</string>
+	<string id="271002048">\n</string>
+	<string id="271001589">\n</string>
+
+	<!-- Hoenn - Soins Maman -->
+	<string id="270499080">Soins?</string>
+	<string id="270499164">\n<!-- Au revoir --></string>
+
+	<!-- Hoenn - Soins sources chaudes -->
+	<string id="1561680">\n</string>
+
+	<!-- Hoenn Vendeurs -->
+	<string id="271002145">\n<!-- Shop --></string>
+	<string id="271002175">\n<!-- Au revoir --></string>
+
+	<!-- Hoenn - Vendeur point de combats -->
+	<string id="270923770">\n<!-- Shop --></string>
+	<string id="270925586">\n<!-- Au revoir --></string>
+
+	<!-- Hoenn - Coupe -->
+	<string id="271124270">\n<!-- Coupe --></string>
+	<string id="271124337">\n</string>
+	<string id="271124349">Il ne se passe rien</string>
+
+	<!-- Hoenn - Surf -->
+	<string id="271003606">\n<!-- Surf --></string>
+	<string id="271003661">\n</string>
+
+	<!-- Hoenn - Eclate-Roc -->
+	<string id="271124538">\n<!-- Eclate-roc --></string>
+	<string id="271124607">Il ne se passe rien</string>
+
+	<!-- Hoenn - Force -->
+	<string id="271124780">\n<!-- Force --></string>
+	<string id="271124876">\n</string>
+	<string id="271124950">Il ne se passe rien</string>
+	<string id="271125014">\n</string>
+
+	<!-- Hoenn - Plongée -->
+	<string id="271125418">Il ne se passe rien</string>
+	<string id="271125480">Plongée?</string>
+	<string id="271125530">\n</string>
+	<string id="271125544">Il ne se passe rien</string>
+	<string id="271125614">Plongée?</string>
+
+	<!-- Hoenn - Cascade -->
+	<string id="271125134">Il ne se passe rien</string>
+	<string id="271125187">\n<!-- Cascade --></string>
+	<string id="271125244">\n</string>
+
+	<!-- Menu de Combat Safari -->
+	<string id="5109">Ball ({00})</string>
+	<string id="5100">Combat</string>
+	<string id="5104">Sac</string>
+	<string id="5106">Fuite</string>
+	<string id="5108">Ball</string>
+	<string id="5118">Boue</string>
+	<string id="5110">Pierre</string>
+	<string id="5112">Appât</string>
+	<string id="5114">Shift</string>
+	<string id="5116">Forfait</string>
+	<string id="5120">Resumé</string>
+
+	<!-- Safari Hoenn -->
+	<string id="271208308">$500?</string>
+	<string id="271208475">\n</string>
+	<string id="271208502">\n</string>
+	<string id="271208530">\n</string>
+	<string id="271208559">\n</string>
+	<string id="271207462">Temps écoulé!</string>
+	<string id="271207510">T'as n'as plus de Balls.</string>
+	    <!-- trainer blocking door -->
+	<string id="271209131">Bon chance!</string>
+	<string id="271208916">Tu pars déjà??</string>
+	<string id="271209032">oh.. d'accord..<!-- yes --></string>
+	<string id="271208986">Bon chance!<!-- no --></string>
+
+	<!-- Baies -->
+	<string id="4">Baies</string>
+	<string id="300014">Baies</string>
+	<string id="310018">Baies</string>
+
+	<string id="16780309">\n</string>
+	<string id="16780310">\n</string>
+	<string id="16780311">\n</string>
+	<string id="16780312">\n</string>
+	<string id="16780313">\n</string>
+
+	<string id="16780315">\n</string>
+	<string id="16780316">\n</string>
+	<string id="16780317">Mouillé.</string>
+	<string id="16780318">Inondé.</string>
+
+	<string id="16780320">\n</string>
+	<string id="16780321">Presque inondé.</string>
+	<string id="16780324">\n</string>
+	<string id="16780326">\n<!-- Planter? --></string>
+	<string id="16780327">\n<!-- Arroser? --></string>
+	<string id="16780328">\n</string>
+
+	<string id="16780329">\n</string>
+	<string id="16780330">\n</string>
+	<string id="16780331">\n</string>
+
+	<string id="16780335">\n</string>
+	<string id="16780336">\n</string>
+	<string id="16780337">\n</string>
+	<string id="16780338">Mouillé.</string>
+	<string id="16780339">Presque inondé.</string>
+	<string id="16780340">Inondé.</string>
+
+	<string id="16780350">\n</string>
+	<string id="16780351">\n</string>
+	<string id="16780352">\n</string>
+	<string id="16780353">\n</string>
+
+	<!-- Champion d'arene -->
+
+
+	<!-- Mérouville - Roxanne -->
+	<string id="270613551">\n<!-- Combat --></string>
+	<string id="270613753">\n<!-- Victoire --></string>
+	<string id="270612903">Cooldown...</string>
+	<string id="270613907">Qu'un seul {STRING_0}?</string>
+
+	<!-- Myokara - Bastien -->
+	<string id="270521028">\n<!-- Combat --></string>
+	<string id="270521191">\n<!-- Victoire --></string>
+	<string id="270520845">Cooldown...</string>
+	<string id="270521310">Qu'un seul {STRING_0}?</string>
+
+	<!-- Lavandia - Voltère -->
+	<string id="270592423">\n<!-- Combat --></string>
+	<string id="270592578">\n<!-- Victoire --></string>
+	<string id="270592293">Cooldown...</string>
+	<string id="270592765">Qu'un seul {STRING_0}?</string>
+
+	<!-- Vermilava - Adriane -->
+	<string id="270530049">\n<!-- Combat --></string>
+	<string id="270530207">\n<!-- Victoire --></string>
+	<string id="270529862">Cooldown...</string>
+	<string id="270530398">Qu'un seul {STRING_0}?</string>
+
+	<!-- Clémenti-ville - Norman -->
+	<string id="270562466">\n <!-- Combat --></string>
+	<string id="270562766">\n <!-- Victoire --></string>
+	<string id="270562807">Cooldown...</string>
+	<string id="270562890">Qu'un seul {STRING_0}?</string>
+	<!-- Porte de l'arene clémenti-ville -->
+	<string id="270561822">\n<!-- VITESSE ROOM --></string>
+	<string id="270561920">\n<!-- PRECISION ROOM --></string>
+	<string id="270561979">\n<!-- CONFUSION ROOM --></string>
+	<string id="270562039">\n<!-- DEFENSE ROOM --></string>
+	<string id="270562097">\n<!-- RECUPERATION ROOM --></string>
+	<string id="270562156">\n<!-- FORCE ROOM --></string>
+	<string id="270562215">\n<!-- KO EN UN COUP ROOM --></string>
+	<string id="270562276">\n<!-- PAPA ROOM --></string>
+
+	<!-- Cimetronelle - Alizée -->
+	<string id="270627072">\n<!-- Combat --></string>
+	<string id="270627302">\n<!-- Victoire --></string>
+	<string id="270626929">Cooldown...</string>
+	<string id="270627474">Qu'un seul {STRING_0}?</string>
+
+	<!-- Algatia - Lévy & Tatia -->
+	<string id="270671115">\n<!-- Combat --></string>
+	<string id="270671365">\n<!-- Victoire --></string>
+	<string id="270670621">Cooldown...</string>
+	<string id="270671544">Qu'un seul {STRING_0}?</string>
+
+	<!-- Atalanopolis - Marc -->
+	<string id="270686544">\n<!-- Combat --></string>
+	<string id="270686766">\n<!-- Victoire --></string>
+	<string id="270686072">Cooldown...</string>
+	<string id="270687048">Qu'un seul {STRING_0}?</string>
+
+	<!-- ELITE 4 -->
+	<!--Gardien -->
+	<string id="270702312">\n<!-- Badge Check --></string>
+	<string id="270702575">/n<!-- Juste fait le --></string>
+
+	<!-- Damien -->
+	<string id="270696359">\n<!-- Combat --></string>
+	<string id="270696610">\n<!-- Victoire --></string>
+	<string id="270696684">Cooldown...</string>
+
+	<!-- Spectra -->
+	<string id="270696974">\n<!-- Combat --></string>
+	<string id="270697253">\n<!-- Victoire --></string>
+	<string id="270697283">Cooldown..</string>
+
+	<!-- Glacia -->
+	<string id="270697644">\n<!-- Combat --></string>
+	<string id="270697908">\n<!-- Victoire --></string>
+	<string id="270698048">Cooldown..</string>
+
+	<!-- Aragon -->
+	<string id="270698302">\n<!-- Combat --></string>
+	<string id="270698645">\n<!-- Victoire --></string>
+	<string id="270698672">Cooldown..</string>
+
+	<!-- Marc -->
+	<string id="270699596">\n<!-- Combat --></string>
+	<string id="270700204">\n<!-- Victoire --></string>
+
+	<!-- Félicitation -->
+	<string id="270700390">\n<!-- GG --></string>
+	<string id="270700746">\n<!-- trop fort --></string>
+	<string id="270700811">\n<!-- On est tous choqué --></string>
+	<string id="270700882">\n<!-- de la puissance --></string>
+	<string id="270700962">\n<!-- de ta super --></string>
+	<string id="270701030">\n<!-- Team de pokémon --></string>
+	<string id="270701389">\n<!-- Blablabla --></string>
+	<string id="270701465">\n<!-- Respect sur toute ta famille --></string>
+	<string id="270701547">\n<!-- Le rival est vraiment très nul --></string>
+	<string id="270701689">\n<!-- ca boude fort --></string>
+	<string id="270701813">\n<!-- tré p800 --></string>
+	<string id="271211820">Vu: {02}\nAttrapé: {03}</string>
+	<string id="271213373">National;\nVu: {02}\nAttrapé: {03}</string>
+	<string id="270702862">\n<!-- trop belle la room --></string>
+	<string id="270703011">\n<!-- Le panthéon de tes pokémons très fort --></string>
+
+	<!-- Kanto -->
+
+	<!-- Fossiles -->
+	<string id="1680002">T'as un fossile pour moi?</string>
+    <string id="1680148">oh.. Dommage!</string>
+    <string id="1680207">\n</string>
+    <string id="1680286">\n</string>
+    <string id="1680340">\n<!-- Bla bla --></string>
+    <string id="1680477">\n<!-- il parle trop --></string>
+    <string id="1680555">Reviens plus tard</string>
+
+	<!-- Message Oeuf - Kanto-->
+	<string id="1832746">\n<!-- Oeuf reçu --></string>
+	<string id="1832789">\n<!-- Prends en soins --></string>
+
+    <!-- Kanto centre pokémon -->
+	<string id="1725571">Soins?</string>
+	<string id="1725665">\n</string>
+	<string id="1725713">\n</string>
+	<string id="1725739">\n</string>
+
+	<!-- Kanto - Infirmiere Sexy -->
+	<string id="1627089">Soins?</string>
+	<string id="1627128">\n<!-- Au revoir --></string>
+
+	<!-- Kanto Vendeurs -->
+	<string id="1729041">\n<!-- Shop --></string>
+	<string id="1724816">\n<!-- Au revoir --></string>
+
+    <!-- Kanto - Surf -->
+	<string id="1725806">\n<!-- Surf --></string>
+	<string id="1725861">\n</string>
+
+	<!-- Kanto - Force -->
+	<string id="1827226">\n<!-- Force --></string>
+	<string id="1827322">\n</string>
+	<string id="1827396">Il ne se passe rien</string>
+	<string id="1827460">\n</string>
+
+	<!-- Kanto - Cascade -->
+	<string id="1827594">Il ne se passe rien</string>
+	<string id="1827647">\n<!-- Cascade --></string>
+	<string id="1827704">\n</string>
+
+	<!-- Kanto - plongée (ça existe pas ?)
+	<string id="1827883">Il ne se passe rien</string>
+	<string id="1827945">Plongée?</string>
+	<string id="1827995">\n</string>
+	<string id="1828009">Il ne se passe rien</string>
+	<string id="1828079">Plongée?</string> -->
+
+	<!-- Kanto - Coupe -->
+	<string id="1826708">\n<!-- Coupe --></string>
+	<string id="1826775">\n</string>
+	<string id="1826787">\n</string>
+
+	<!-- Kanto - Eclate-roc -->
+	<string id="1826973">\n<!-- Eclate-roc --></string>
+	<string id="1827042">Il ne se passe rien</string>
+
+    <!-- Safari Kanto -->
+	<string id="1670251">SAFARI ZONE!</string>
+	<string id="1670279">$500?</string>
+	<string id="1670407">\n</string>
+	<string id="1670480">\n</string>
+	<string id="1670528">Bon chance!</string>
+	<string id="1670633">Au revoir!</string>
+	<string id="1670658">Tu n'as pas assez d'argent!</string>
+	<string id="1670682">Tu pars déjà??</string>
+	<string id="1670728">\n</string>
+	<string id="1670778">Bonne chance!</string>
+	<string id="1670789">Reviens nous voir!</string>
+	<string id="1834011">Temps écoulé!</string>
+	<string id="1834067">Tu n'as plus de Balls.</string>
+
+    <!-- Champion d'arene -->
+
+    <!-- Argenta - Pierre -->
+	<string id="1641684">\n<!-- Combat --></string>
+	<string id="1642063">\n<!-- Victoire --></string>
+	<string id="1642767">Cooldown...</string>
+
+	<!-- Azuria - Ondine -->
+	<string id="1647087">\n<!-- Combat --></string>
+	<string id="1647661">\n<!-- Victoire --></string>
+	<string id="1647295">On Cooldown...</string>
+
+	<!-- Carmin sur mer - Major Bob -->
+	<string id="1657764">\n<!-- Combat --></string>
+	<string id="1658371">\n<!-- Victoire --></string>
+	<string id="1657998">On Cooldown...</string>
+
+	<!--  Céladopole - Erika -->
+	<string id="1667348">\n<!-- Combat --></string>
+	<string id="1667680">\n<!-- Victoire --></string>
+	<string id="1667768">On Cooldown...</string>
+
+	<!-- Safrania - Morgane -->
+	<string id="1684796">\n<!-- Combat --></string>
+	<string id="1684994">\n<!-- Victoire --></string>
+	<string id="1685490">On Cooldown...</string>
+
+	<!-- Parmanie - Koga -->
+	<string id="1671982">\n<!-- Combat --></string>
+	<string id="1672260">\n<!-- Victoire --></string>
+	<string id="1672321">On Cooldown...</string>
+
+	<!-- Cramois'île - Auguste -->
+	<string id="1676611">\n<!-- Combat --></string>
+	<string id="1676794">\n<!-- Victoire --></string>
+	<string id="1677085">On Cooldown...</string>
+
+	<!-- Jadielle - Giovanni -->
+	<!-- Giovanni s'en va, on ne peux pas le rerun -->
+
+    <!-- Elite 4-->
+    <!-- Elite 4 - Warden -->
+	<string id="1681624">Good luck!</string>
+
+	<!-- Gardiens -->
+	<string id="16777231">Return in\n{00}.</string>
+
+	<!-- Olga -->
+	<string id="1540233">\n<!-- Challenge --></string>
+	<string id="1540497">\n<!-- Victory --></string>
+	<string id="1540528">\n</string>
+
+	<!-- Aldo -->
+	<string id="1540623">\n<!-- Challenge --></string>
+	<string id="1541129">\n<!-- Victory --></string>
+	<string id="1541152">\n</string>
+
+	<!-- Agatha -->
+	<string id="1541197">\n<!-- Challenge --></string>
+	<string id="1541847">\n<!-- Victory --></string>
+	<string id="1541888">\n</string>
+
+	<!-- Peter -->
+	<string id="1542333">\n<!-- Challenge --></string>
+	<string id="1542677">\n<!-- Victory --></string>
+	<string id="1542738">\n</string>
+
+	<!-- Rival -->
+	<string id="1543380">\n<!-- Je suis un dieu --></string>
+	<string id="1543743">\n<!-- trop fort. --></string>
+	<string id="1543983">\n<!-- je retourne pleurer dans les jupes de ma mére. --></string>
+
+	<!-- Chen -->
+	<string id="1544134">\n<!-- Bien joué --></string>
+	<string id="1544143">\n<!-- C'est gagné, c'est gagné --></string>
+	<string id="1544335">\n<!-- Blue la victime --></string>
+	<string id="1544611">\n<!-- trop bien pokemon oé --></string>
+	<string id="1544751">\n<!-- Panthéon ! --></string>
+	
+	<!-- Kanto casino -->
+
+	<string id="16780500">\n</string>
+	<string id="16780501">\n</string>
+	<string id="16780502">\n</string>
+	<string id="16780503">\n</string>
+	<string id="16780504">\n</string>
+	<string id="16777241">\n</string>
+    <string id="16777242">\n</string>
+    <string id="16777243">\n</string> <!-- ici envois au pc-->
+    <string id="16777244">\n</string> <!-- ici obtention pokemon-->
+	<string id="16777245">\n</string>
+	<string id="1667229">\n</string>
+
+	<!-- marchand de jeton-->
+	<string id="1665412">\n</string>    
+	<string id="1665500">\n</string>
+	<string id="1665634">\n</string>
+
+	<!-- Marchand de prix contre jeton-->
+	<string id="1667159">\n</string>
+
+
+	<!-- EVENTS (WIP)-->
+
+	<!-- Haloween -->
+    <!-- "better" halloween strings ; thanks nurver, pas traduis je verrais quand les events seront là pour faire mes tests -->
+	<string id="101608">Restores 25% HP when eaten.\nWhen fighting Pumpking, clears\nstat modifications from allied field.</string>
+	<string id="101609">Restores 25% HP when eaten.\nWhen fighting Pumpking, grants the ability {STRING_210064}\nand causes attacks to drain their target. Lasts 5 turns.</string>
+	<string id="101610">Restores 25% HP when eaten.\nWhen fighting Pumpking, heals the\nallied field by 33%.</string>
+	<string id="101611">Restores 25% HP when eaten.\nWhen fighting Pumpking, heals the\nallied field of status ailments.</string>
+	<string id="101612">Restores 25% HP when eaten.\nWhen fighting Pumpking, doubles\nallied field's speed. Lasts 4 turns.</string>
+
+	<!-- Traduction français(anglais) de toutes les zones du jeu -->
+	
+    <!-- Kanto-->
+    <string id="140000">Bourg Palette (Pallet Town)</string>
+    <string id="140001">Jadielle (Viridian City)</string>
+    <string id="140002">Argenta (Pewter City)</string>
+    <string id="140003">Azuria (Cerulean City)</string>
+    <string id="140004">Lavanville (Lavender Town)</string>
+    <string id="140005">Carmin Sur Mer (Vermilion City)</string>
+    <string id="140006">Celadopole (Celadon City)</string>
+    <string id="140007">Parmanie (Fuchsia City)</string>
+    <string id="140008">Cramois'ile (Cinnabar Island)</string>
+    <string id="140009">Plateau Indigo (Indigo Plateau)</string>
+    <string id="140010">Safrania (Saffron City)</string>
+    <string id="140038">Foret De Jade (Virdian Forest)</string>
+    <string id="140039">Mont Selenite (Mount Moon)</string>
+    <string id="140040">L'oceane (S.S. Anne)</string>
+    <string id="140043">Cave Taupiqueur (Diglett's Cave)</string>
+    <string id="140044">Route Victoire (Victory Road)</string>
+    <string id="140045">Repaire Rocket (Rocket Hideout)</string>
+    <string id="140046">Sylpha Sarl (Silph Co.)</string>
+    <string id="140047">Manoir Pokémon (Pokémon Mansion)</string>
+    <string id="140048">Parc Safari (Safari Zone)</string>
+    <string id="140049">Ligue Pokémon </string>
+    <string id="140050">Grotte Sombre (Rock Tunnel)</string>
+    <string id="140051">Iles Ecumes (Seafoam Islands)</string>
+    <string id="140052">Tour Pokémon (Pokémon Tower)</string>
+    <string id="140053">Caverne Azurée (Cerulean Cave)</string>
+    <string id="140054">Centrale (Power Plant)</string>
+    <string id="140062">Route Tison (Kindle Road)</string>
+    <string id="140063">Plage Tresor (Treasure Beach)</string>
+    <string id="140064">Cap Falaise (Cape Brink)</string>
+    <string id="140065">Pont Du Lien (Bond Bridge)</string>
+    <string id="140071">Camp De Vacances (Resort Gorgeous)</string>
+    <string id="140072">Labyrinthe D'o (Water Labyrinth)</string>
+    <string id="140073">Pré De L'ile 5 (Meadow)</string>
+    <string id="140074">Mémorial (Memorial Pillar)</string>
+    <string id="140075">Ile Du Lointain (Outcast Island)</string>
+    <string id="140076">Chemin Vert (Green Path)</string>
+    <string id="140077">Agualcanal (Water Path)</string>
+    <string id="140078">Vallée Ruine (Vallee Ruine)</string>
+    <string id="140079">Tour Dresseurs (Trainers's Tower)</string>
+    <string id="140080">Entrée Canyon (Canyon Entrance)</string>
+    <string id="140081">Canyon Sesor (Sevault Canyon)</string>
+    <string id="140082">Ruines Tanoby (Tanoby Ruins)</string>
+    <string id="140086">Roc Nombri (Navel Rock)</string>
+    <string id="140087">Mont Braise (Mount Ember)</string>
+    <string id="140088">Bois Baies (Berry Forest)</string>
+    <string id="140089">Grotte De Glace (Icefall Cave)</string>
+    <string id="140090">Entrepot (Rocket Warehouse)</string>
+    <string id="140091">Tour Dresseurs (Trainer's Tower)</string>
+    <string id="140092">Trou Perce (Dotted Hole)</string>
+    <string id="140093">Grotte Perdue (Lost Cave)</string>
+    <string id="140094">Forbuissons (Pattern Bush)</string>
+    <string id="140095">Grotte Metamo (Altering Cave)</string>
+    <string id="140096">Chambres Tanoby (Tanoby Room)</string>
+    <string id="140098">Clé Tanoby (Tanoby Key)</string>
+    <string id="140099">Ile Aurore (Birth Island)</string>
+    <string id="140108">Cent. Commercial (Shopping Mall)</string>
+
+    <!-- Hoenn -->
+    <string id="141000">Bourg-En-Vol (Littleroot Town)</string>
+    <string id="141001">Rosyères (Oldale Town)</string>
+    <string id="141002">Village Myokara (Drewford City)</string>
+    <string id="141003">Vermilava (Lavaridge Town)</string>
+    <string id="141004">Autequia (Fallarbor Town)</string>
+    <string id="141005">Vergazon (Verdanturf Town)</string>
+    <string id="141006">Pacifiville (Pacifildog Town)</string>
+    <string id="141007">Clémenti-Ville (Petalburg City)</string>
+    <string id="141008">Poivressel (Slateport City)</string>
+    <string id="141009">Lavandia (Mauville City)</string>
+    <string id="141010">Merouville (Rustboro City)</string>
+    <string id="141011">Cimetronelle (Fortree City)</string>
+    <string id="141012">Nenucrique (Lilycove City)</string>
+    <string id="141013">Algatia (Mossdeep City)</string>
+    <string id="141014">Atalanopolis (Sootopolis City)</string>
+    <string id="141015">Eternara (Ever Grande City)</string>
+    <string id="141050">Fond Marin (Sea Floor)</string>
+    <string id="141051">Fond Marin (Sea Floor)</string>
+    <string id="141052">Fond Marin (Sea Floor)</string>
+    <string id="141053">Fond Marin (Sea Floor)</string>
+    <string id="141054">Fond Marin (Sea Floor)</string>
+    <string id="141055">Grotte Granite (Granite Cave)</string>
+    <string id="141056">Mont Chimnée (Mont Chimney)</string>
+    <string id="141057">Parc Safari (Safari Zone)</string>
+    <string id="141058">Zone De Combat (Battle Frontier)</string>
+    <string id="141059">Bois Clémenti (Petalburg Woods)</string>
+    <string id="141060">Tunnel Merazon (Rusturf Tunnel)</string>
+    <string id="141061">Epave (Abandonned Ship)</string>
+    <string id="141062">New Lavandia (New Mauville)</string>
+    <string id="141063">Site Météore (Meteor Falls)</string>
+    <string id="141064">Site Météore (Meteor Falls)</string>
+    <string id="141065">Mont Mémoria (Mont Pyre)</string>
+    <string id="141067">Grotte Tréfonds (Shoal Cave)</string>
+    <string id="141068">Caverne Fondmer (Seafloor Cavern)</string>
+    <string id="141069">Fond Marin (Sea Floor)</string>
+    <string id="141070">Route Victoire (Victory Road)</string>
+    <string id="141071">Ile Mirage (Mirage Island)</string>
+    <string id="141072">Grotte Origine (Cave Of Origin)</string>
+    <string id="141073">Ile Du Sud (Southern Island)</string>
+    <string id="141074">Chemin Ardent (Fiery Path)</string>
+    <string id="141075">Chemin Ardent (Fiery Path)</string>
+    <string id="141076">Sentier Sinuroc (Jagged Pass)</string>
+    <string id="141077">Sentier Sinuroc (Jagged Pass)</string>
+    <string id="141078">Sanctuaire (Sealed Chamber)</string>
+    <string id="141079">Fond Marin (Sea Floor)</string>
+    <string id="141080">Grotte Zenith (Scorched Slab)</string>
+    <string id="141081">Grotte Island (Island Cave)</string>
+    <string id="141082">Ruines Desert (Desert Ruins)</string>
+    <string id="141083">Tombeau Antique (Ancient Tomb)</string>
+    <string id="141085">Pilier Celeste (Sky Pillard)</string>
+    <string id="141086">Base Secrète (Secret Base)</string>
+
+    <!-- Unys-->
+    <string id="142004">Renouet (Nuvema Town)</string>
+    <string id="142005">Arabelle (Accumula Town)</string>
+    <string id="142006">Ogoesse (Striaton City)</string>
+    <string id="142007">Maillard (Nacrene City)</string>
+    <string id="142008">Volucité (Castelia City)</string>
+    <string id="142009">Méanville (Nimbasa City)</string>
+    <string id="142010">Port Yoneuve (Driftveil City)</string>
+    <string id="142011">Parsemille (Mistralion City)</string>
+    <string id="142012">Flocombe (Icirrus City)</string>
+    <string id="142013">Janusia (Opelucid City)</string>
+    <string id="142032">Vestiges du Rêve (Dreamyard)</string>
+    <string id="142033">Forêt d'Empoigne (Pinwheel Forest)</string>
+    <string id="142034">Désert Délassant (Desert Resort)</string>
+    <string id="142035">Château Enfoui (Relic Castle)</string>
+    <string id="142036">Hangar Frigorifique (Cold Storage)</string>
+    <string id="142037">Grotte Électrolithe (Chargestone Cave)</string>
+    <string id="142038">Mont Foré (Twist Mountain)</string>
+    <string id="142039">Tour Dragospire (Dragonspiral Tower)</string>
+    <string id="142040">Route Victoire (Victory Road)</string>
+    <string id="142041">Entrelasque (Kagome Town)</string>
+    <string id="142042">Vaguelone (Undella Town)</string>
+    <string id="142043">Rotombourg (Anville Town)</string>
+    <string id="142045">Palais de N (N's Castle)</string>
+    <string id="142046">L'Étoile d'Unys (Royal Unova)</string>
+    <string id="142047">Engrenage du Métro (Battle Subway)</string>
+    <string id="142048">Métro de Combat (Battle Subway)</string>
+    <string id="142049">Music-Hall (Pokémon Musical)</string>
+    <string id="142050">Ville Noire (Black City)</string>
+    <string id="142051">Forêt Blanche (White Forest)</string>
+    <string id="142052">Tour Union (Unity Tower)</string>
+    <string id="142053">Veine Souterraine (Underground Vein)</string>
+    <string id="142054">Grotte Parsemille (Mistralton Cave)</string>
+    <string id="142056">Tour des Cieux (Celestial Tower)</string>
+    <string id="142057">Tourbière Flocombe (Moor of Ocirrus)</string>
+    <string id="142058">Centre Commercial (Shopping Mall)</string>
+    <string id="142059">Antre d'Entraînement (Challenger's Cave)</string>
+    <string id="142060">Laboratoire Fret (Poké Transfer Lab)</string>
+    <string id="142061">Grotte Cyclopéenne (Giant Chasm)</string>
+    <string id="142062">Île Liberté (Liberty Garden)</string>
+    <string id="142063">Labo P2 (P2 Laboratory)</string>
+    <string id="142064">Pont Sagiciel (Skyarrow Bridge)</string>
+    <string id="142065">Pont Yoneuve (Driftveil Drawbridge)</string>
+    <string id="142066">Pont Ferroviaire (Tubeline Bridge)</string>
+    <string id="142067">Pont du Hameau (Village Bridge)</string>
+    <string id="142068">Pont de l'Inconnu (Marvelous Bridge)</string>
+    <string id="142069">Heylink (Entralink)</string>
+    <string id="142070">Autel Abondance (Abundant Shrine)</string>
+    <string id="142071">Baie Vaguelone (Undella Bay)</string>
+    <string id="142072">Bois des Illusions (Lostlorn Forest)</string>
+
+    <!-- Sinnoh -->
+    <string id="143001">Bonaugure (Twinleaf Town)</string>
+    <string id="143002">Littorella (Sandgem Town)</string>
+    <string id="143003">Floraville (Floaroma Town)</string>
+    <string id="143004">Bonville (Solaceon Town)</string>
+    <string id="143005">Célestia (Celestic Town)</string>
+    <string id="143006">Féli-Cité (Jubilife City)</string>
+    <string id="143007">Joliberges (Canalave City)</string>
+    <string id="143008">Charbourg (Oreburgh City)</string>
+    <string id="143009">Vestigion (Eterna City)</string>
+    <string id="143010">Unionpolis (Hearthome City)</string>
+    <string id="143011">Verchamps (Pastoria City)</string>
+    <string id="143012">Voilaroc (Veilstone City)</string>
+    <string id="143013">Rivamar (Sunyshore City)</string>
+    <string id="143014">Frimapic (Snowpoint City)</string>
+    <string id="143046">Mine Charbourg (Oreburgh Mine)</string>
+    <string id="143047">Les Eoliennes (Valley Windworks)</string>
+    <string id="143048">Forêt Vestigion (Eterna Forest)</string>
+    <string id="143049">Forge Fuego (Fuego Ironworks)</string>
+    <string id="143050">Mont Couronné (Mt. Coronet)</string>
+    <string id="143051">Colonnes Lances (Spear Pillar)</string>
+    <string id="143052">Grand Marais (Great Marsh)</string>
+    <string id="143053">Ruines Bonville (Solaceon Ruins)</string>
+    <string id="143054">Route Victoire (Victory Road)</string>
+    <string id="143055">Parc des Amis (Pal Park)</string>
+    <string id="143056">Square Paisible (Amity Square)</string>
+    <string id="143057">Chemin Rocheux (Ravaged Path)</string>
+    <string id="143058">Pré Floraville (Floaroma Meadow)</string>
+    <string id="143059">Entrée Charbourg (Oreburgh Gate)</string>
+    <string id="143060">Ile Pleine Lune (Fullmoon Island)</string>
+    <string id="143061">Source Adieu (Sendoff Spring)</string>
+    <string id="143062">Grotte Retour (Turnback Cave)</string>
+    <string id="143063">Paradis Fleuri (Flower Paradise)</string>
+    <string id="143064">Temple Frimapic (Snowpoint Temple)</string>
+    <string id="143065">Grotte Revêche (Wayward Cave)</string>
+    <string id="143066">Grotte Ruineman (Ruin Maniac Cave)</string>
+    <string id="143067">Tunnel Ruineman  (Maniac Tunnel)</string>
+    <string id="143068">Jardin Trophée (Trophy Garden)</string>
+    <string id="143069">Ile de Fer (Iron Island)</string>
+    <string id="143070">Vieux Château (Old Chateau)</string>
+    <string id="143071">QG Galaxie (Galactic HQ)</string>
+    <string id="143072">Rive Lac Vérité (Verity Lakefront)</string>
+    <string id="143073">Rive Lac Courage (Valor Lakefront)</string>
+    <string id="143074">Rive Lac Savoir (Acuity Lakefront)</string>
+    <string id="143075">Chemin Source (Spring Path)</string>
+    <string id="143076">Lac Vérité (Lake Verity)</string>
+    <string id="143077">Lac Courage (Lake Valor)</string>
+    <string id="143078">Lac Savoir (Lake Acuity)</string>
+    <string id="143079">Ile Nouvellune (Newmoon Island)</string>
+    <string id="143080">Tour de Combat (Battle Tower)</string>
+    <string id="143081">Aire de Combat (Figth Area)</string>
+    <string id="143082">Aire de Survie (Survival Area)</string>
+    <string id="143083">Aire de Détente (Resort Area)</string>
+    <string id="143084">Mont Abrupt (Stark Mountain)</string>
+    <string id="143085">Passage Marin (Seabreak Path)</string>
+    <string id="143086">Salle Originelle (Hall of Origin)</string>
+    <string id="143087">Caverne Vérité (Verity Cavern)</string>
+    <string id="143088">Caverne Courage (Valor Cavern)</string>
+    <string id="143089">Caverne Savoir (Acuity Cavern)</string>
+    <string id="143090">Féli-Télé (Jubilife TV)</string>
+    <string id="143091">Pokémontre S.A. (Pokétch Co.)</string>
+    <string id="143092">GTS (GTS)</string>
+    <string id="143093">Ecole Dresseurs (Trainer's School)</string>
+    <string id="143094">Musée Minier (Mining Museum)</string>
+    <string id="143095">Fleuriste (Florist)</string>
+    <string id="143096">Boutique de Vélo (Cycle Shop)</string>
+    <string id="143097">Salle Concours (Contest Hall)</string>
+    <string id="143098">Poffinerie (Poffin House)</string>
+    <string id="143099">Bâtiment Etrange (Foreign Bulding)</string>
+    <string id="143101">C. Com. Voilaroc (Beilstone Dep t. Store)</string>
+    <string id="143102">Casino (Game Corner)</string>
+    <string id="143103">Bibl. Joliberges (Canalave Library)</string>
+    <string id="143104">Phare Panorama (Vista Lighthouse)</string>
+    <string id="143105">Marché Rivamar (Sunyshore Market)</string>
+    <string id="143106">Manoir Pokémon (pokemon Mansion)</string>
+    <string id="143111">Parc des Combats (Battle Park)</string>
+    <string id="143112">Zone de Combat (Battle Zone)</string>
+    <string id="143117">Monde Distorsion (Distortion World)</string>
+    <string id="143119">Villa (Villa)</string>
+    <string id="143120">Café Combats (Battleground)</string>
+    <string id="143121">Salle MOTISMA</string>
+    <string id="143122">Team G Vestigion</string>
+    <string id="143123">Ruines de Fer (Iron Ruins)</string>
+    <string id="143124">Ruines Iceberg (Iceberg Ruins)</string>
+    <string id="143125">Ruines Pic Roche (Rock peak Ruins)</string>
+
+    <!-- Johto -->
+    <string id="144126">Bourg Geon (New Bark Town)</string>
+    <string id="144127">Ville Griotte (CherryGrove City)</string>
+    <string id="144128">Mauville (Violet City)</string>
+    <string id="144129">Ecorcia (Azalea Town)</string>
+    <string id="144130">Irisia (Cianwood City)</string>
+    <string id="144131">Doublonville (Goldenrod City)</string>
+    <string id="144132">Oliville (Olivine City)</string>
+    <string id="144133">Rosalia (Ecruteak City)</string>
+    <string id="144134">Acajou (Mahogany Town)</string>
+    <string id="144135">Lac Colère (Lake of Rage)</string>
+    <string id="144136">Ebènelle (Backthorn City)</string>
+    <string id="144137">Mont Argenté (Mt. Silver)</string>
+    <string id="144202">Parc Safari (Safari Zone)</string>
+    <string id="144203">Iles Ecume (Seafoam Islands)</string>
+    <string id="144204">Tour Chétiflor (Sprout Tower)</string>
+    <string id="144205">Tour Carillon (Bell Tower)</string>
+    <string id="144206">Tour Cendrée (Burned Tower)</string>
+    <string id="144207">Parc Naturel (National Park)</string>
+    <string id="144208">Tour Radio (Goldenrod Radio Tower)</string>
+    <string id="144209">Ruines d'Alpha (Ruins of Alpha)</string>
+    <string id="144210">Caves Jumelles (Union Cave)</string>
+    <string id="144211">Puits Ramoloss (Slowpoke Well)</string>
+    <string id="144212">Phare (Glitter Lighthouse)</string>
+    <string id="144213">Repaire Rocket (Rocket Hideout)</string>
+    <string id="144214">Bois aux Chênes (Ilex Forest)</string>
+    <string id="144215">Doublon-Tunnel (Goldenrod Tunnel)</string>
+    <string id="144216">Mont Creuset (Mt. Mortar)</string>
+    <string id="144217">Route de Glace (Ice Path)</string>
+    <string id="144218">Tourb'Iles (Whirl Islands)</string>
+    <string id="144219">Grotte Argentée (Mt. Silver)</string>
+    <string id="144220">Antre Noir (Dark Cave)</string>
+    <string id="144221">Route Victoire (Victory Road)</string>
+    <string id="144222">Antre du Dragon (Dragon's Den)</string>
+    <string id="144223">Chutes Tohjo (Tohjo Falls)</string>
+    <string id="144225">Dôme Pokéathlon (Pokéathlon Dome)</string>
+    <string id="144226">Aquaria (S.S Aqua)</string>
+    <string id="144227">Portail Safari (Zone Safari Gate)</string>
+    <string id="144228">Grotte Falaise (Cliff Cave)</string>
+    <string id="144229">Atrium Combat (Frontier Access)</string>
+    <string id="144231">Ruines Sinjoh (Sinjog Ruins)</string>
+    <string id="144232">Tour Enfouie (Embedded Tower)</string>
+    <string id="144234">Portail Falaise (Cliff Edge Gate)</string>
+
+<!-- Haloween Event-->
+	<!-- Pump talk-->
+    <string id="16800040">Nourrir?</string>a
+	<!-- Mini bosses-->
+	<string id="16800210">Mini-boss? (tu gagne des bonbons Spéciaux)</string>
+	<!-- kid catch line-->
+	<string id="16800025">Des bonbons ou une farce !</string>
+    <string id="16800026">Bouh!</string>
+    <string id="16800027">Joyeux Halloween!</string>
+	<!-- kid end of battle lines -->
+	<string id="16800024">\n</string>
+	<string id="16800024">\n</string>
+	<!--kids victory line-->
+	<string id="16800028">Tout est juste, tiens.</string>
+	<!-- kids loose line-->
+	<string id="16800023">Tu t'es fait avoir!</string>
+	<!-- No more candies-->
+	<string id="16800029">J'ai plus de bonbons!</string>
+	<!-- traduction error-->
+	<string id="16800041">{01} jete le Bonbon spécial dedans.</string>
+	<!-- Pump boss easy mode-->
+	<string id="16800030">Phase 1</string>
+    <string id="16800031">\n</string>
+    <string id="16800032">Phase 2</string>
+    <string id="16800033">\n</string>
+    <string id="16800034">Phase 3</string>
+    <string id="16800035">Hmph... Tu m'as battu cette fois,\nmais je reviendrai !</string>
+	<string id="16800037">\n</string>
+
+	<!-- Pump boss hard mode-->
+	<string id="16800043">Phase 1</string>
+    <string id="16800044">Phase 2</string>
+    <string id="16800045">Phase 3</string>
+	
+<!-- New lunar year 2024-->
+	<!-- old woman -->
+	<string id="16805082">Apporte moi un pokémon.</string>
+		<!-- Give her a pokemon -->
+		<string id="16805085">\n</string>
+		<!-- Wrong Pokemon -->
+		<string id="16805091">Pokémon non valide</string>
+		<!-- Are you sure ?-->
+		<string id="16805084">Tu es sur ?</string>
+		<!-- thnx with missing Pokemons -->
+		<string id="16805083">{00} pour la prochaine récompense.</string>
+		<!-- thnx with gift -->
+		<string id="16805092">\n</string>
+		<!-- Again?-->
+		<string id="16805093">Encore ?</string>
+</strings>
